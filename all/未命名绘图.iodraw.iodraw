@@ -55,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zAmTJgQCi6aR0QTZBtDL-15" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;相似表名映射三元组&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;格式：(文本1，文本2，标签)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="zAmTJgQCi6aR0QTZBtDL-87">
-          <mxGeometry x="305" y="70" width="160" height="60" as="geometry" />
+          <mxGeometry x="320" y="70" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zAmTJgQCi6aR0QTZBtDL-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="zAmTJgQCi6aR0QTZBtDL-87" source="zAmTJgQCi6aR0QTZBtDL-20" target="zAmTJgQCi6aR0QTZBtDL-36">
           <mxGeometry relative="1" as="geometry" />
