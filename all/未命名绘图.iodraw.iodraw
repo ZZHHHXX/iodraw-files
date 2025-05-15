@@ -84,10 +84,10 @@
         <mxCell id="zAmTJgQCi6aR0QTZBtDL-36" value="新技经项目表表项" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="545" y="370" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zAmTJgQCi6aR0QTZBtDL-39" value="标准表项&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="zAmTJgQCi6aR0QTZBtDL-39" value="标准表项" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="545" y="440" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zAmTJgQCi6aR0QTZBtDL-44" value="模型初步标准化的&lt;div&gt;技经向目标&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="zAmTJgQCi6aR0QTZBtDL-44" value="模型初步标准化的&lt;div&gt;技经向目标&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="545" y="500" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
