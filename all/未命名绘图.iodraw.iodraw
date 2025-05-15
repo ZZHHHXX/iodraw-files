@@ -10,11 +10,14 @@
         <mxCell id="zAmTJgQCi6aR0QTZBtDL-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;表格规范化软件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="310" y="269" width="30" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="zAmTJgQCi6aR0QTZBtDL-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="120" width="170" height="140" as="geometry" />
+        <mxCell id="zAmTJgQCi6aR0QTZBtDL-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="505" y="110" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="zAmTJgQCi6aR0QTZBtDL-5" value="原始数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="570" y="130" width="120" height="30" as="geometry" />
+        <mxCell id="zAmTJgQCi6aR0QTZBtDL-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zAmTJgQCi6aR0QTZBtDL-6">
+          <mxGeometry width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zAmTJgQCi6aR0QTZBtDL-5" value="原始数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zAmTJgQCi6aR0QTZBtDL-6">
+          <mxGeometry x="20" y="10" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
