@@ -105,7 +105,7 @@
           <mxGeometry x="565" y="570" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zAmTJgQCi6aR0QTZBtDL-55" value="新的表项" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="405" y="590" width="120" height="40" as="geometry" />
+          <mxGeometry x="402.5" y="600" width="125" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
