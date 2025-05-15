@@ -70,7 +70,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zAmTJgQCi6aR0QTZBtDL-30" value="新的技经项目表" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="zAmTJgQCi6aR0QTZBtDL-30" value="新的技经项目表" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="770" y="414" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zAmTJgQCi6aR0QTZBtDL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="zAmTJgQCi6aR0QTZBtDL-36" target="zAmTJgQCi6aR0QTZBtDL-39">
