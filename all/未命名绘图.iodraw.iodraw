@@ -16,7 +16,7 @@
         <mxCell id="zAmTJgQCi6aR0QTZBtDL-14" value="标准表名词典" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="460" y="180" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zAmTJgQCi6aR0QTZBtDL-15" value="相似句子对" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="zAmTJgQCi6aR0QTZBtDL-15" value="相似表名三元组" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="620" y="180" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
