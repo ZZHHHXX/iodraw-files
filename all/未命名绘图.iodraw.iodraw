@@ -35,13 +35,8 @@
         <mxCell id="zAmTJgQCi6aR0QTZBtDL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="zAmTJgQCi6aR0QTZBtDL-15" target="zAmTJgQCi6aR0QTZBtDL-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zAmTJgQCi6aR0QTZBtDL-23" value="训练" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="zAmTJgQCi6aR0QTZBtDL-22">
-          <mxGeometry x="0.0286" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zAmTJgQCi6aR0QTZBtDL-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="zAmTJgQCi6aR0QTZBtDL-22">
-          <mxGeometry y="6" relative="1" as="geometry">
+        <mxCell id="zAmTJgQCi6aR0QTZBtDL-25" value="微调" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="zAmTJgQCi6aR0QTZBtDL-22">
+          <mxGeometry x="-0.0286" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
