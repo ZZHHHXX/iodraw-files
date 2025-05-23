@@ -10,8 +10,8 @@
         <mxCell id="sTiZfj6ZtxtsAaURIa9b-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="230" width="710" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="sTiZfj6ZtxtsAaURIa9b-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="270" width="240" height="60" as="geometry" />
+        <mxCell id="sTiZfj6ZtxtsAaURIa9b-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;综合能源建模仿真模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
