@@ -13,6 +13,9 @@
         <mxCell id="XLQj5b6D7GbsOfiBOuj7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="180" width="1060" height="210" as="geometry" />
         </mxCell>
+        <mxCell id="XLQj5b6D7GbsOfiBOuj7-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
