@@ -118,19 +118,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gBZGYx01YsMkGM3DO4lv-7" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;发车调度策略&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="710" y="599" width="110" height="60" as="geometry" />
+          <mxGeometry x="700" y="598.5" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gBZGYx01YsMkGM3DO4lv-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;条件约束&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="584" width="70" height="30" as="geometry" />
+          <mxGeometry x="549.5" y="598.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gBZGYx01YsMkGM3DO4lv-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;实际发车调度策略&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="600" width="140" height="59" as="geometry" />
+          <mxGeometry x="1060" y="598.5" width="140" height="59" as="geometry" />
         </mxCell>
         <mxCell id="gBZGYx01YsMkGM3DO4lv-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;效益最高&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="910" y="598.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gBZGYx01YsMkGM3DO4lv-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;额外约束微调&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="540" width="170" height="30" as="geometry" />
+          <mxGeometry x="670" y="540" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
