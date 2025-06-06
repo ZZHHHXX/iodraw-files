@@ -105,7 +105,7 @@
         <mxCell id="gBZGYx01YsMkGM3DO4lv-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;数量最少&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="220" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gBZGYx01YsMkGM3DO4lv-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;收益最高&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gBZGYx01YsMkGM3DO4lv-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;效益最高&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="460" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
