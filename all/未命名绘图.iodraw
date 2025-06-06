@@ -108,8 +108,8 @@
         <mxCell id="gBZGYx01YsMkGM3DO4lv-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;效益最高&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="460" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gBZGYx01YsMkGM3DO4lv-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;电池充电损耗&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="320" y="530" width="140" height="40" as="geometry" />
+        <mxCell id="gBZGYx01YsMkGM3DO4lv-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="584" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
