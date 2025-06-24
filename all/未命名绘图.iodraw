@@ -41,7 +41,7 @@
           <mxGeometry x="16" y="110.5" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XLQj5b6D7GbsOfiBOuj7-13" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;发车调度策略&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="xCV-IhpTxr2VwRK-a7SY-27" vertex="1">
-          <mxGeometry x="397.5" y="100.5" width="110" height="60" as="geometry" />
+          <mxGeometry x="381.5" y="100.5" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XLQj5b6D7GbsOfiBOuj7-17" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;充电站定容策略&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xCV-IhpTxr2VwRK-a7SY-27" vertex="1">
           <mxGeometry x="744.5" y="100.5" width="122" height="60" as="geometry" />
@@ -50,10 +50,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLQj5b6D7GbsOfiBOuj7-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;电力峰谷时段&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="xCV-IhpTxr2VwRK-a7SY-27" vertex="1">
-          <mxGeometry x="16" y="193" width="140" height="40" as="geometry" />
+          <mxGeometry x="16" y="183" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XLQj5b6D7GbsOfiBOuj7-37" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;生成&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xCV-IhpTxr2VwRK-a7SY-27" vertex="1">
-          <mxGeometry x="299.5" y="100.5" width="70" height="30" as="geometry" />
+          <mxGeometry x="290.5" y="100.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xCV-IhpTxr2VwRK-a7SY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="xCV-IhpTxr2VwRK-a7SY-27" source="xCV-IhpTxr2VwRK-a7SY-3" target="XLQj5b6D7GbsOfiBOuj7-13">
           <mxGeometry relative="1" as="geometry" />
