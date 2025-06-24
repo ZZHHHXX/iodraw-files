@@ -82,8 +82,8 @@
         <mxCell id="xCV-IhpTxr2VwRK-a7SY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="xCV-IhpTxr2VwRK-a7SY-27" source="XLQj5b6D7GbsOfiBOuj7-17" target="xCV-IhpTxr2VwRK-a7SY-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="803" y="161" />
-              <mxPoint x="803" y="207" />
+              <mxPoint x="808" y="161" />
+              <mxPoint x="808" y="207" />
             </Array>
           </mxGeometry>
         </mxCell>
