@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xCV-IhpTxr2VwRK-a7SY-23" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-40" width="885" height="104" as="geometry" />
-        </mxCell>
         <mxCell id="zAmTJgQCi6aR0QTZBtDL-94" value="" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="180" y="89" width="1120" height="599" as="geometry" />
         </mxCell>
@@ -15,6 +12,9 @@
         </mxCell>
         <mxCell id="XLQj5b6D7GbsOfiBOuj7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="180" width="1060" height="473" as="geometry" />
+        </mxCell>
+        <mxCell id="xCV-IhpTxr2VwRK-a7SY-23" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-40" width="885" height="104" as="geometry" />
         </mxCell>
         <mxCell id="XLQj5b6D7GbsOfiBOuj7-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;建设阶段&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="240" y="200" width="30" height="394" as="geometry" />
