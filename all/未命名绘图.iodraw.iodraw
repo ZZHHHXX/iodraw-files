@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tnZt7R70mFmORFwcRKXK-3" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;骆驼圈子&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="19.98" y="140" width="39.999668070175446" height="39.999668070175446" as="geometry" />
-        </mxCell>
-        <mxCell id="tnZt7R70mFmORFwcRKXK-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;沙泉子&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="66.64792792792794" y="140" width="39.999668070175446" height="39.999668070175446" as="geometry" />
-        </mxCell>
         <mxCell id="tnZt7R70mFmORFwcRKXK-5" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;马莲井&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="159.98585585585587" y="320" width="39.999668070175446" height="39.999668070175446" as="geometry" />
         </mxCell>
@@ -31,9 +25,6 @@
         <mxCell id="tnZt7R70mFmORFwcRKXK-11" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;山丹西&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="550.0034234234236" y="320" width="39.999668070175446" height="39.999668070175446" as="geometry" />
         </mxCell>
-        <mxCell id="tnZt7R70mFmORFwcRKXK-12" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;马营口&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="439.99135135135134" y="140" width="39.999668070175446" height="39.999668070175446" as="geometry" />
-        </mxCell>
         <mxCell id="tnZt7R70mFmORFwcRKXK-13" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;梅川&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1030.0009909909909" y="320" width="39.999668070175446" height="39.999668070175446" as="geometry" />
         </mxCell>
@@ -52,23 +43,17 @@
         <mxCell id="tnZt7R70mFmORFwcRKXK-18" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;渭源&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="969.9989189189189" y="320" width="39.999668070175446" height="39.999668070175446" as="geometry" />
         </mxCell>
-        <mxCell id="tnZt7R70mFmORFwcRKXK-19" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;桔柑&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="770" y="140" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="tnZt7R70mFmORFwcRKXK-20" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;昭化&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1127.9972093023255" y="310" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tnZt7R70mFmORFwcRKXK-21" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;天宫院&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1179.9944186046512" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="1190.0044186046512" y="310" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tnZt7R70mFmORFwcRKXK-26" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;南江&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1249.9983720930231" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="1259.9983720930231" y="310" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tnZt7R70mFmORFwcRKXK-27" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;静观&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1310.0023255813953" y="310" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tnZt7R70mFmORFwcRKXK-28" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;长明码头&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1016.6695348837209" y="140" width="40" height="40" as="geometry" />
+          <mxGeometry x="1320.0023255813953" y="310" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tnZt7R70mFmORFwcRKXK-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;curved=0;shape=link;" edge="1" parent="1" source="tnZt7R70mFmORFwcRKXK-33" target="tnZt7R70mFmORFwcRKXK-34">
           <mxGeometry relative="1" as="geometry" />
@@ -103,17 +88,11 @@
         <mxCell id="tnZt7R70mFmORFwcRKXK-42" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;马营口&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="620.0013513513513" y="360" width="39.999668070175446" height="39.999668070175446" as="geometry" />
         </mxCell>
-        <mxCell id="tnZt7R70mFmORFwcRKXK-43" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;河口南&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="673.3309909909909" y="210" width="39.999668070175446" height="39.999668070175446" as="geometry" />
-        </mxCell>
         <mxCell id="tnZt7R70mFmORFwcRKXK-44" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;丰乐&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="669.9992792792793" y="414" width="39.999668070175446" height="39.999668070175446" as="geometry" />
         </mxCell>
         <mxCell id="tnZt7R70mFmORFwcRKXK-45" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;武胜驿&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="729.9972072072071" y="414" width="39.999668070175446" height="39.999668070175446" as="geometry" />
-        </mxCell>
-        <mxCell id="tnZt7R70mFmORFwcRKXK-46" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;河口南&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="579.9951351351351" y="210" width="39.999668070175446" height="39.999668070175446" as="geometry" />
         </mxCell>
         <mxCell id="tnZt7R70mFmORFwcRKXK-47" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;永登&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="800.003063063063" y="414" width="39.999668070175446" height="39.999668070175446" as="geometry" />
