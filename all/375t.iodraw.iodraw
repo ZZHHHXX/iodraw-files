@@ -744,10 +744,10 @@
         <mxCell id="ypfBK0SkL1Km_M-q_1g1-220" value="实际选址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-430" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ypfBK0SkL1Km_M-q_1g1-224" value="理论选址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ypfBK0SkL1Km_M-q_1g1-224" value="理论选址2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ypfBK0SkL1Km_M-q_1g1-225" value="理论选址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ypfBK0SkL1Km_M-q_1g1-225" value="理论选址1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-430" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
