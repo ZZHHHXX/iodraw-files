@@ -652,7 +652,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ypfBK0SkL1Km_M-q_1g1-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="ypfBK0SkL1Km_M-q_1g1-159" target="ypfBK0SkL1Km_M-q_1g1-130">
+        <mxCell id="ypfBK0SkL1Km_M-q_1g1-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=link;width=10;" edge="1" parent="1" source="ypfBK0SkL1Km_M-q_1g1-159" target="ypfBK0SkL1Km_M-q_1g1-130">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-54" y="780" />
