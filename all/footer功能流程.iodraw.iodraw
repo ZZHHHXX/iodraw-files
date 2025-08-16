@@ -89,7 +89,10 @@
           <mxGeometry x="1030" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WTc44BDKssQWz4fEDSBz-33" value="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 10.5pt;&quot;&gt;ArithmeticCaptcha库生成&lt;br&gt;验证码的Base64图片&lt;br&gt;以及checkCodeKey&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="997.5" y="260" width="185" height="90" as="geometry" />
+          <mxGeometry x="1008.75" y="260" width="162.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-35" value="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 10.5pt;&quot;&gt;ArithmeticCaptcha库生成&lt;br&gt;验证码的Base64图片&lt;br&gt;以及checkCodeKey&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1018.75" y="270" width="162.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
