@@ -115,7 +115,7 @@
         <mxCell id="xHHYWxr2xjH9-9HHn9Ju-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-31" target="xHHYWxr2xjH9-9HHn9Ju-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-37" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xHHYWxr2xjH9-9HHn9Ju-36">
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-37" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xHHYWxr2xjH9-9HHn9Ju-36">
           <mxGeometry x="-0.2" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -123,7 +123,10 @@
         <mxCell id="xHHYWxr2xjH9-9HHn9Ju-31" value="&lt;font face=&quot;JetBrains Mono, Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;userId = sendId?&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="1080" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-35" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;各客户端ws根据发送来的消息类型触发会议成员摄像头修改时间&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-35" target="xHHYWxr2xjH9-9HHn9Ju-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-35" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;根据memberList筛选与sendId相同的成员，修改该用户的在当前客户端的摄像头状态&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1205" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
