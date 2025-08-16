@@ -40,16 +40,14 @@
         <mxCell id="WTc44BDKssQWz4fEDSBz-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发送登录请求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WTc44BDKssQWz4fEDSBz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WTc44BDKssQWz4fEDSBz-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="665" y="767" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WTc44BDKssQWz4fEDSBz-15" target="WTc44BDKssQWz4fEDSBz-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WTc44BDKssQWz4fEDSBz-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;redis根据&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;checkCodeKey获取验证码结果&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;，校验验证码&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="592.5" y="610" width="145" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WTc44BDKssQWz4fEDSBz-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;修改数据库用户登陆状态，redis存储用户的token信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="592.5" y="890" width="145" height="110" as="geometry" />
+          <mxGeometry x="592.5" y="910" width="145" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WTc44BDKssQWz4fEDSBz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="WTc44BDKssQWz4fEDSBz-17">
           <mxGeometry relative="1" as="geometry">
