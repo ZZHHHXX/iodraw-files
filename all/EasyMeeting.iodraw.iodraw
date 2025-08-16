@@ -1,0 +1,254 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
+  <diagram id="oyzgp_fVWBWE2uaf7C99" name="Login">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WTc44BDKssQWz4fEDSBz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WTc44BDKssQWz4fEDSBz-1" target="WTc44BDKssQWz4fEDSBz-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;登录&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="70" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WTc44BDKssQWz4fEDSBz-2" target="WTc44BDKssQWz4fEDSBz-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;输入账号&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="605" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WTc44BDKssQWz4fEDSBz-4" target="WTc44BDKssQWz4fEDSBz-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;输入密码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="605" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WTc44BDKssQWz4fEDSBz-6" target="WTc44BDKssQWz4fEDSBz-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;输入验证码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="605" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WTc44BDKssQWz4fEDSBz-7" target="WTc44BDKssQWz4fEDSBz-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;获取验证码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="605" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WTc44BDKssQWz4fEDSBz-11" target="WTc44BDKssQWz4fEDSBz-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发送登录请求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="605" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WTc44BDKssQWz4fEDSBz-15" target="WTc44BDKssQWz4fEDSBz-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;redis根据&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;checkCodeKey获取验证码结果&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;，校验验证码&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="592.5" y="610" width="145" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WTc44BDKssQWz4fEDSBz-17" target="WTc44BDKssQWz4fEDSBz-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;修改数据库用户登陆状态，redis存储用户的token信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="592.5" y="910" width="145" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;注册功能类似登录&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="810" y="70" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WTc44BDKssQWz4fEDSBz-23" target="WTc44BDKssQWz4fEDSBz-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;获取验证码&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="70" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WTc44BDKssQWz4fEDSBz-25" target="WTc44BDKssQWz4fEDSBz-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-28" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WTc44BDKssQWz4fEDSBz-27" vertex="1" connectable="0">
+          <mxGeometry x="-0.2771" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WTc44BDKssQWz4fEDSBz-25" target="WTc44BDKssQWz4fEDSBz-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="787" />
+              <mxPoint x="430" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-30" value="未通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WTc44BDKssQWz4fEDSBz-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.826" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-25" value="校验登录" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="625" y="747" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WTc44BDKssQWz4fEDSBz-31" target="WTc44BDKssQWz4fEDSBz-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;发送请求&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WTc44BDKssQWz4fEDSBz-33" target="WTc44BDKssQWz4fEDSBz-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-33" value="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 10.5pt;&quot;&gt;ArithmeticCaptcha库生成&lt;br&gt;验证码的Base64图片&lt;br&gt;以及checkCodeKey&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1008.75" y="260" width="162.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WTc44BDKssQWz4fEDSBz-35" target="WTc44BDKssQWz4fEDSBz-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-35" value="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 10.5pt;&quot;&gt;返回前端，Base64验证码数据作为img标签的url&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1008.75" y="360" width="162.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-37" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="1060" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-39" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1025" y="460" width="130" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="footer" id="Hz80GQ1L4zRAwvdXEK-R">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-1" target="xHHYWxr2xjH9-9HHn9Ju-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;会议成员开启或关闭摄像头&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="100" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-2" target="xHHYWxr2xjH9-9HHn9Ju-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;deviceInfo.cameraOpen取反&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="330" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-4" target="xHHYWxr2xjH9-9HHn9Ju-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-11" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xHHYWxr2xjH9-9HHn9Ju-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.4829" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-4" target="xHHYWxr2xjH9-9HHn9Ju-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="270" />
+              <mxPoint x="960" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-10" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xHHYWxr2xjH9-9HHn9Ju-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.7691" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-4" value="&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; white-space: pre;&quot;&gt;deviceInfo.cameraEnable&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="595" y="230" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-12" target="xHHYWxr2xjH9-9HHn9Ju-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-12" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;向MemberLsit组件发送cameraSwitch事件，传递&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;deviceInfo.cameraOpen参数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="410" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-14" target="xHHYWxr2xjH9-9HHn9Ju-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-14" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;MemberList组件监听cameraSwitch事件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="490" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-16" target="xHHYWxr2xjH9-9HHn9Ju-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-16" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;修改cameraStream的摄像头通道的开关状态为&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;deviceInfo.cameraOpen&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="570" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-19" target="xHHYWxr2xjH9-9HHn9Ju-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-23" value="null" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xHHYWxr2xjH9-9HHn9Ju-22" vertex="1" connectable="0">
+          <mxGeometry x="-0.6715" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-19" target="xHHYWxr2xjH9-9HHn9Ju-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-26" value="not null" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xHHYWxr2xjH9-9HHn9Ju-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.35" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-19" value="&lt;font face=&quot;JetBrains Mono, Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;screenId&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="660" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-24" target="xHHYWxr2xjH9-9HHn9Ju-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-24" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;后端发送摄像头状态切换请求，更新redis中对应会议成员的数据信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="780" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-27" target="xHHYWxr2xjH9-9HHn9Ju-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-27" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;转发消息，通知所有服务器，修改会议房间中所有的用户，向各用户客户端发送会议成员摄像头修改信息数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="870" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-29" target="xHHYWxr2xjH9-9HHn9Ju-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-29" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;各客户端ws根据发送来的消息类型触发会议成员摄像头修改时间&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="980" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-31" target="xHHYWxr2xjH9-9HHn9Ju-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-34" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xHHYWxr2xjH9-9HHn9Ju-33" vertex="1" connectable="0">
+          <mxGeometry x="-0.4615" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-31" target="xHHYWxr2xjH9-9HHn9Ju-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-37" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xHHYWxr2xjH9-9HHn9Ju-36" vertex="1" connectable="0">
+          <mxGeometry x="-0.2" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-31" value="&lt;font face=&quot;JetBrains Mono, Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;userId = sendId?&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1080" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-35" target="xHHYWxr2xjH9-9HHn9Ju-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-35" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;根据memberList筛选与sendId相同的成员，修改该用户的在当前客户端的摄像头状态&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1205" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K2Z0q6T31y5FL0bqv0C7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="K2Z0q6T31y5FL0bqv0C7-2" target="xHHYWxr2xjH9-9HHn9Ju-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2Z0q6T31y5FL0bqv0C7-2" value="此时基于WebRTC与其他用户客户端构建了连接，所以摄像头视频流的关闭状态会同步到其他用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="505" width="190" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
