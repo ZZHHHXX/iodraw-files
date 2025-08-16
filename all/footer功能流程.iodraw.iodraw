@@ -49,7 +49,7 @@
           <mxGeometry x="592.5" y="610" width="145" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WTc44BDKssQWz4fEDSBz-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;修改数据库用户登陆状态，redis存储用户的token信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="592.5" y="870" width="145" height="110" as="geometry" />
+          <mxGeometry x="592.5" y="890" width="145" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WTc44BDKssQWz4fEDSBz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="WTc44BDKssQWz4fEDSBz-17">
           <mxGeometry relative="1" as="geometry">
@@ -61,6 +61,9 @@
         </mxCell>
         <mxCell id="WTc44BDKssQWz4fEDSBz-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;获取验证码&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="70" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-25" value="校验登录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="760" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
