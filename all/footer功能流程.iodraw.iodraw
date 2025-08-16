@@ -38,7 +38,10 @@
           <mxGeometry x="605" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WTc44BDKssQWz4fEDSBz-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;redis根据&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;checkCodeKey获取验证码结果&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;，校验验证码&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="592.5" y="610" width="145" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;redis根据&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;checkCodeKey获取验证码结果&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;，校验验证码&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="592.5" y="750" width="145" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
