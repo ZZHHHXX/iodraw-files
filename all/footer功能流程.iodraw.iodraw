@@ -44,7 +44,10 @@
           <mxGeometry x="592.5" y="610" width="145" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WTc44BDKssQWz4fEDSBz-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;修改数据库用户登陆状态，redis存储用户的token信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="592.5" y="750" width="145" height="110" as="geometry" />
+          <mxGeometry x="592.5" y="840" width="145" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-19" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;修改数据库用户登陆状态，redis存储用户的token信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="850" width="145" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
