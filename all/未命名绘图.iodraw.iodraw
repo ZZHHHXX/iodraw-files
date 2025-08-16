@@ -92,11 +92,14 @@
         <mxCell id="xHHYWxr2xjH9-9HHn9Ju-24" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;后端发送摄像头状态切换请求，更新redis中对应会议成员的数据信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="780" width="240" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-27" target="xHHYWxr2xjH9-9HHn9Ju-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xHHYWxr2xjH9-9HHn9Ju-27" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;转发消息，通知所有服务器，修改会议房间中所有的用户，向各用户客户端发送会议成员摄像头修改信息数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="870" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-29" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;转发消息，通知所有服务器，修改会议房间中所有的用户，向各用户客户端发送会议成员摄像头修改信息数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="880" width="240" height="70" as="geometry" />
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-29" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;各客户端ws根据发送来的消息类型触发会议成员摄像头修改时间&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="980" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
