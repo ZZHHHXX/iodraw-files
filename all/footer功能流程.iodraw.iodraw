@@ -242,10 +242,10 @@
         <mxCell id="xHHYWxr2xjH9-9HHn9Ju-35" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;根据memberList筛选与sendId相同的成员，修改该用户的在当前客户端的摄像头状态&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="1205" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="K2Z0q6T31y5FL0bqv0C7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K2Z0q6T31y5FL0bqv0C7-2" target="xHHYWxr2xjH9-9HHn9Ju-16">
+        <mxCell id="K2Z0q6T31y5FL0bqv0C7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="K2Z0q6T31y5FL0bqv0C7-2" target="xHHYWxr2xjH9-9HHn9Ju-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K2Z0q6T31y5FL0bqv0C7-2" value="此时基于WebRTC与其他用户客户端构建了连接，所以摄像头视频流的关闭状态会同步到其他用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K2Z0q6T31y5FL0bqv0C7-2" value="此时基于WebRTC与其他用户客户端构建了连接，所以摄像头视频流的关闭状态会同步到其他用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="505" width="190" height="190" as="geometry" />
         </mxCell>
       </root>
