@@ -10,11 +10,8 @@
         <mxCell id="xHHYWxr2xjH9-9HHn9Ju-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;修改deviceInfo.cameraOpen的状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="575" y="380" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;判断&lt;/font&gt;&lt;font face=&quot;JetBrains Mono, Consolas, Courier New, monospace&quot; style=&quot;font-size: 13px; white-space: pre;&quot;&gt;的状态，false则直接返回&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="575" y="190" width="335" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="270" width="80" height="80" as="geometry" />
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-4" value="&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; white-space: pre;&quot;&gt;deviceInfo.cameraEnable&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="230" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
