@@ -31,13 +31,14 @@
         <mxCell id="WTc44BDKssQWz4fEDSBz-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;获取验证码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WTc44BDKssQWz4fEDSBz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WTc44BDKssQWz4fEDSBz-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="665" y="610" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WTc44BDKssQWz4fEDSBz-11" target="WTc44BDKssQWz4fEDSBz-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WTc44BDKssQWz4fEDSBz-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发送登录请求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;校验验证码的checkCodeKey&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
