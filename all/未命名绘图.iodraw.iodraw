@@ -19,6 +19,9 @@
         <mxCell id="xHHYWxr2xjH9-9HHn9Ju-4" value="&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; white-space: pre;&quot;&gt;deviceInfo.cameraEnable&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="230" width="200" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;会议成员开启或关闭摄像头&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="550" width="210" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
