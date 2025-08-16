@@ -58,6 +58,11 @@
         <mxCell id="WTc44BDKssQWz4fEDSBz-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WTc44BDKssQWz4fEDSBz-25" target="WTc44BDKssQWz4fEDSBz-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WTc44BDKssQWz4fEDSBz-28" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WTc44BDKssQWz4fEDSBz-27">
+          <mxGeometry x="-0.2771" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WTc44BDKssQWz4fEDSBz-25" value="校验登录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="747" width="80" height="80" as="geometry" />
         </mxCell>
