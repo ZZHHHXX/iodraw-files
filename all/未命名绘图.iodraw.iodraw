@@ -47,11 +47,14 @@
         <mxCell id="xHHYWxr2xjH9-9HHn9Ju-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-12" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;向MemberLsit组件发送cameraSwitch事件，传递&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;deviceInfo.cameraOpen参数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="440" width="240" height="60" as="geometry" />
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xHHYWxr2xjH9-9HHn9Ju-12" target="xHHYWxr2xjH9-9HHn9Ju-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-14" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;向MemberLsit组件发送cameraSwitch事件，传递&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;deviceInfo.cameraOpen参数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="540" width="240" height="60" as="geometry" />
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-12" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;向MemberLsit组件发送cameraSwitch事件，传递&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;deviceInfo.cameraOpen参数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="410" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHHYWxr2xjH9-9HHn9Ju-14" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;MemberList组件监听cameraSwitch事件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="490" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
