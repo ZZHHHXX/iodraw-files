@@ -1359,7 +1359,7 @@
             <mxPoint x="2280" y="1200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-281" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-281" value="应用requestAnimationFrame方法继续循环监听动画绘制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2050" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
