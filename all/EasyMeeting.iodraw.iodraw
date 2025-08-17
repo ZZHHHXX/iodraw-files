@@ -1555,7 +1555,7 @@
         <mxCell id="cedh_nmXvWvuPfYAUGAh-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-58" target="cedh_nmXvWvuPfYAUGAh-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cedh_nmXvWvuPfYAUGAh-58" value="将打开媒体详情窗口事件方法发送给子孙组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-58" value="根据成员列表显示各成员昵称和头像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="841.25" y="225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cedh_nmXvWvuPfYAUGAh-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-60" target="cedh_nmXvWvuPfYAUGAh-54">
