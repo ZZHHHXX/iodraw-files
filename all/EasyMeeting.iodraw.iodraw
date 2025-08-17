@@ -866,32 +866,28 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-36" value="读取指定目录下的配置文件，写入新的配置信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382.5" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-36" target="-lB4kjHzXIk1H-RmrJiI-38">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="442.5" y="260" as="sourcePoint" />
-            <mxPoint x="442.5" y="690" as="targetPoint" />
+            <mxPoint x="442.5" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-38" value="获取用户头像的本地存储路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382.5" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="442.5" y="450" as="sourcePoint" />
+            <mxPoint x="442.5" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-40" target="-lB4kjHzXIk1H-RmrJiI-42">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="442.5" y="550" as="sourcePoint" />
+            <mxPoint x="442.5" y="580" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-40" value="将客户端发送的头像数据以临时文件形式接收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382.5" y="390" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-42" target="-lB4kjHzXIk1H-RmrJiI-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-42" value="应用FFmepg工具生成头像的缩略图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382.5" y="490" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-44" target="-lB4kjHzXIk1H-RmrJiI-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-44" value="更新数据库的用户信息以及redis缓存中的token用户信息键值对" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382.5" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="-lB4kjHzXIk1H-RmrJiI-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="442.5" y="640" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-46" target="-lB4kjHzXIk1H-RmrJiI-48">
           <mxGeometry relative="1" as="geometry" />
