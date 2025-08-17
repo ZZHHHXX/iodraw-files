@@ -1407,11 +1407,27 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="xfZiARMian0i2CZsgX7l" name="第 7 页">
+  <diagram id="xfZiARMian0i2CZsgX7l" name="History">
     <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VUXUZN77RcJE3ApCp5vj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VUXUZN77RcJE3ApCp5vj-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUXUZN77RcJE3ApCp5vj-2" value="进入会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VUXUZN77RcJE3ApCp5vj-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="230" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VUXUZN77RcJE3ApCp5vj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="VUXUZN77RcJE3ApCp5vj-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
