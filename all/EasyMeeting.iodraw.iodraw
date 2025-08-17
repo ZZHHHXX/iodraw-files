@@ -1622,7 +1622,7 @@
         <mxCell id="cedh_nmXvWvuPfYAUGAh-83" value="父组件过滤掉会议列表中与指定会议id相同的会议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1111.25" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cedh_nmXvWvuPfYAUGAh-86" value="删除历史会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-86" value="删除预约会议与删除历史会议类似" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1510" y="210" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
