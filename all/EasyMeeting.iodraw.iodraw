@@ -1293,9 +1293,6 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-255" value="麦克风动画" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1180" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-256" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2768.75" y="1175" width="100" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-258" target="-lB4kjHzXIk1H-RmrJiI-260">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1308,21 +1305,11 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-260" value="通过音频上下分创建分析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-lB4kjHzXIk1H-RmrJiI-256">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2714.75" y="1200" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-267" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-268" target="-lB4kjHzXIk1H-RmrJiI-270">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-268" value="设置分析器的fftSize=2048" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="1170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-269" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-281">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2280" y="1200" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-270" target="-lB4kjHzXIk1H-RmrJiI-276">
           <mxGeometry relative="1" as="geometry" />
@@ -1347,6 +1334,9 @@
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-281" value="应用requestAnimationFrame方法继续循环监听动画绘制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2050" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-283" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2236" y="1175" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
