@@ -384,7 +384,7 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-92" value="是否存在当前会议信息？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="847.5" y="1030" width="125" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="B1zyvEB8MiUHR75yqqEK-98" value="验证会议密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-98" value="更新当前用户会议信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1018.75" y="1410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
