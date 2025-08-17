@@ -149,6 +149,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-6" target="B1zyvEB8MiUHR75yqqEK-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="480" />
+              <mxPoint x="460" y="915" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-6" value="是否有未结束会议？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567.5" y="420" width="125" height="120" as="geometry" />
         </mxCell>
@@ -170,7 +178,7 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-15" value="向父组件发送加入会议事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="797" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B1zyvEB8MiUHR75yqqEK-17" value="快速会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-17" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="890" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
