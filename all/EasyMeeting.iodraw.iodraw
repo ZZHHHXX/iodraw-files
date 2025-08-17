@@ -982,6 +982,9 @@
         <mxCell id="4maj9624t6BSzMeDCjVF-9" value="初始化共享屏幕，根据参数筛选出屏幕捕获的视频流，该视频流禁用麦克风" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2145" y="1150" width="120" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="4maj9624t6BSzMeDCjVF-11" value="初始化共享屏幕，根据参数筛选出屏幕捕获的视频流，该视频流禁用麦克风" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2145" y="1315" width="120" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
