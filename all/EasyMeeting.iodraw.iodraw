@@ -981,8 +981,10 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-99" value="跳转到登陆页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1102.5" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-103" target="-lB4kjHzXIk1H-RmrJiI-106">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-103" value="本地录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="50" width="100" height="50" as="geometry" />
@@ -990,11 +992,10 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-104" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="778.5" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-106" target="-lB4kjHzXIk1H-RmrJiI-108">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-106" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-lB4kjHzXIk1H-RmrJiI-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="190" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-108" target="-lB4kjHzXIk1H-RmrJiI-109">
           <mxGeometry relative="1" as="geometry" />
@@ -1040,6 +1041,9 @@
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-118" value="跳转到登陆页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-119" value="文件不存在？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1297.5" y="100" width="145" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
