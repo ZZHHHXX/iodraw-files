@@ -769,7 +769,7 @@
           <mxGeometry x="120" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="777" width="100" height="50" as="geometry" />
+          <mxGeometry x="120" y="770" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-5" target="-lB4kjHzXIk1H-RmrJiI-7">
           <mxGeometry relative="1" as="geometry" />
@@ -800,6 +800,9 @@
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-11" value="应用FFmepg工具生成头像的缩略图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-13" target="-lB4kjHzXIk1H-RmrJiI-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-13" value="更新数据库的用户信息以及redis缓存中的token用户信息键值对" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="580" width="120" height="60" as="geometry" />
