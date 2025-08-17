@@ -939,7 +939,7 @@
         <mxCell id="4maj9624t6BSzMeDCjVF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YToGlwveUYebJgSXGtC-81" target="4maj9624t6BSzMeDCjVF-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4maj9624t6BSzMeDCjVF-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4maj9624t6BSzMeDCjVF-15">
+        <mxCell id="4maj9624t6BSzMeDCjVF-16" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4maj9624t6BSzMeDCjVF-15">
           <mxGeometry x="-0.8514" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -984,7 +984,7 @@
         <mxCell id="4maj9624t6BSzMeDCjVF-3" value="通过localStream方法获取当前轨道中的视频轨道，全部移除并终止" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2145" y="980" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4maj9624t6BSzMeDCjVF-6" value="应用navigtor.mediaDevices。getUserMedia方法获取视频流和音频流，将视频流和音频流加入轨道，但不开启" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4maj9624t6BSzMeDCjVF-6" value="应用createEmptyVideoTrack方法创建并添加空视频轨道到本地媒体流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2380" y="980" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4maj9624t6BSzMeDCjVF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4maj9624t6BSzMeDCjVF-9" target="4maj9624t6BSzMeDCjVF-11">
