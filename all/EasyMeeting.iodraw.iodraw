@@ -970,11 +970,17 @@
         <mxCell id="4maj9624t6BSzMeDCjVF-1" value="&lt;font face=&quot;JetBrains Mono, Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;是否启用了屏幕共享？&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2087.5" y="810" width="235" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="4maj9624t6BSzMeDCjVF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4maj9624t6BSzMeDCjVF-3" target="4maj9624t6BSzMeDCjVF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4maj9624t6BSzMeDCjVF-3" value="通过localStream方法获取当前轨道中的视频轨道，全部移除并终止" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2145" y="980" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="4maj9624t6BSzMeDCjVF-6" value="应用navigtor.mediaDevices。getUserMedia方法获取视频流和音频流，将视频流和音频流加入轨道，但不开启" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2400" y="980" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4maj9624t6BSzMeDCjVF-9" value="初始化共享屏幕，根据参数筛选出屏幕捕获的视频流，该视频流禁用麦克风" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2145" y="1150" width="120" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
