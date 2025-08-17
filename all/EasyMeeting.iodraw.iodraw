@@ -739,17 +739,16 @@
         <mxCell id="nNt73_yMm7PDLeFiJc6F-58" value="分享会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="40" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nNt73_yMm7PDLeFiJc6F-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-60" target="nNt73_yMm7PDLeFiJc6F-62">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nNt73_yMm7PDLeFiJc6F-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="430" as="sourcePoint" />
+            <mxPoint x="830" y="460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="nNt73_yMm7PDLeFiJc6F-60" value="删除所有预约成员信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nNt73_yMm7PDLeFiJc6F-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-62" target="nNt73_yMm7PDLeFiJc6F-63">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nNt73_yMm7PDLeFiJc6F-62" value="重新加载今日会议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="nNt73_yMm7PDLeFiJc6F-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nNt73_yMm7PDLeFiJc6F-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="520" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nNt73_yMm7PDLeFiJc6F-63" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="560" width="100" height="50" as="geometry" />
@@ -760,17 +759,19 @@
         <mxCell id="nNt73_yMm7PDLeFiJc6F-65" value="弹出会议信息表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nNt73_yMm7PDLeFiJc6F-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-67" target="nNt73_yMm7PDLeFiJc6F-69">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nNt73_yMm7PDLeFiJc6F-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="nNt73_yMm7PDLeFiJc6F-67" value="根据用户id和会议id查询并删除预约记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nNt73_yMm7PDLeFiJc6F-67" value="点击复制会议信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nNt73_yMm7PDLeFiJc6F-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-69" target="nNt73_yMm7PDLeFiJc6F-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nNt73_yMm7PDLeFiJc6F-69" value="根据会议id查询预约成员列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="nNt73_yMm7PDLeFiJc6F-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="340" as="sourcePoint" />
+            <mxPoint x="830" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
