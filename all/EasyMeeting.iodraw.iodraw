@@ -806,8 +806,10 @@
         <mxCell id="5YToGlwveUYebJgSXGtC-7" value="根据行数列数设置gridTemplateRows和gridTemplateCols样式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1555" y="415" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5YToGlwveUYebJgSXGtC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YToGlwveUYebJgSXGtC-12" target="5YToGlwveUYebJgSXGtC-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5YToGlwveUYebJgSXGtC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YToGlwveUYebJgSXGtC-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1815" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-12" value="显示每个单元格内的各个用户内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1765" y="90" width="100" height="50" as="geometry" />
@@ -815,11 +817,10 @@
         <mxCell id="5YToGlwveUYebJgSXGtC-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1765" y="570" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5YToGlwveUYebJgSXGtC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YToGlwveUYebJgSXGtC-15" target="5YToGlwveUYebJgSXGtC-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5YToGlwveUYebJgSXGtC-15" value="根据LsitMap设置成员列表组件的动态class" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1755" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="5YToGlwveUYebJgSXGtC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5YToGlwveUYebJgSXGtC-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1815" y="230" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5YToGlwveUYebJgSXGtC-17" target="5YToGlwveUYebJgSXGtC-19">
           <mxGeometry relative="1" as="geometry" />
