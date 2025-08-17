@@ -988,7 +988,7 @@
           <mxGeometry x="1320" y="20" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-104" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="778.5" width="100" height="50" as="geometry" />
+          <mxGeometry x="1320" y="893" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-108" target="-lB4kjHzXIk1H-RmrJiI-109">
           <mxGeometry relative="1" as="geometry" />
@@ -1032,7 +1032,7 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-118" target="-lB4kjHzXIk1H-RmrJiI-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-118" value="跳转到登陆页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-118" value="录屏组件监听事件更新录制时间到客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-119" target="-lB4kjHzXIk1H-RmrJiI-108">
