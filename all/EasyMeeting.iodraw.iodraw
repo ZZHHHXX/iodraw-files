@@ -855,7 +855,7 @@
           <mxGeometry x="392.5" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-33" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="392.5" y="1370" width="100" height="50" as="geometry" />
+          <mxGeometry x="392.5" y="310" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-35" target="-lB4kjHzXIk1H-RmrJiI-36">
           <mxGeometry relative="1" as="geometry" />
@@ -863,13 +863,11 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-35" value="向主进程发送保存设置事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382.5" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-36" target="-lB4kjHzXIk1H-RmrJiI-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-36" value="读取指定目录下的配置文件，写入新的配置信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382.5" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="-lB4kjHzXIk1H-RmrJiI-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="442.5" y="1333" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
