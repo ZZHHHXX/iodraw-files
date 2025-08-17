@@ -928,7 +928,7 @@
           <mxGeometry x="1112.5" y="50" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-79" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1112.5" y="620" width="100" height="50" as="geometry" />
+          <mxGeometry x="1112.5" y="760" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-81" target="-lB4kjHzXIk1H-RmrJiI-82">
           <mxGeometry relative="1" as="geometry" />
@@ -965,6 +965,9 @@
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-95" value="客户端向主进程发送登出事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1102.5" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-97" value="客户端向主进程发送登出事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1112.5" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
