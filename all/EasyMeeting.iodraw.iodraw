@@ -1043,6 +1043,9 @@
         <mxCell id="UUIOTHMob1EuFcujp_iG-7" value="websocket连接到对应ChannelGroup,若不存在则新建一个group" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2145" y="1780" width="120" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="UUIOTHMob1EuFcujp_iG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UUIOTHMob1EuFcujp_iG-9" target="5YToGlwveUYebJgSXGtC-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UUIOTHMob1EuFcujp_iG-9" value="向当前channelGroup中的成员客户端发送加入房间消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2145" y="1890" width="120" height="75" as="geometry" />
         </mxCell>
