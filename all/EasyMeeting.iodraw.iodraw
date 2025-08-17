@@ -949,7 +949,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-92" value="应用navigtor.mediaDevices。getUserMedia方法获取视频流和音频流，将视频流和音频流加入轨道，但不开启" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2132.5" y="635" width="145" height="130" as="geometry" />
+          <mxGeometry x="2145" y="635" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="4maj9624t6BSzMeDCjVF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4maj9624t6BSzMeDCjVF-1" target="4maj9624t6BSzMeDCjVF-3">
           <mxGeometry relative="1" as="geometry" />
@@ -959,9 +959,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4maj9624t6BSzMeDCjVF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4maj9624t6BSzMeDCjVF-1">
+        <mxCell id="4maj9624t6BSzMeDCjVF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4maj9624t6BSzMeDCjVF-1" target="4maj9624t6BSzMeDCjVF-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2453.5" y="980" as="targetPoint" />
+            <mxPoint x="2450" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4maj9624t6BSzMeDCjVF-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4maj9624t6BSzMeDCjVF-7">
@@ -987,8 +987,11 @@
         <mxCell id="4maj9624t6BSzMeDCjVF-11" value="将屏幕捕获的视频流加入本地音视频轨道中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2145" y="1220" width="120" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="4maj9624t6BSzMeDCjVF-13" value="&lt;font face=&quot;JetBrains Mono, Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;是否启用了屏幕共享？&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2336" y="980" width="235" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="4maj9624t6BSzMeDCjVF-14" value="应用navigtor.mediaDevices。getUserMedia方法获取视频流和音频流，将视频流和音频流加入轨道，但不开启" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2380" y="980" width="140" height="110" as="geometry" />
+          <mxGeometry x="2600" y="1040" width="140" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
