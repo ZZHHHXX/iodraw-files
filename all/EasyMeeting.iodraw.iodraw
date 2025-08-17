@@ -942,27 +942,10 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-82" value="验证当前用户登陆状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1102.5" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-lB4kjHzXIk1H-RmrJiI-89">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1340" y="360" as="targetPoint" />
-            <mxPoint x="1235" y="360" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-85" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lB4kjHzXIk1H-RmrJiI-84">
-          <mxGeometry x="-0.4222" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-89" target="-lB4kjHzXIk1H-RmrJiI-79">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-89" value="读取文件的配置信息返回给子组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="490" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-91" target="-lB4kjHzXIk1H-RmrJiI-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-91" value="返回默认设置给子组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-91" value="通知客户端当前用户已登出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1102.5" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
