@@ -769,7 +769,7 @@
           <mxGeometry x="120" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1160" width="100" height="50" as="geometry" />
+          <mxGeometry x="120" y="1190" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-5" target="-lB4kjHzXIk1H-RmrJiI-7">
           <mxGeometry relative="1" as="geometry" />
@@ -823,10 +823,10 @@
           <mxGeometry x="110" y="870" width="120" height="73" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-21" value="根据用户id获取新头像地址，以文件流形式返回给客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1070" width="120" height="73" as="geometry" />
+          <mxGeometry x="110" y="1090" width="120" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-23" value="当前路径是否存在头像" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="960" width="80" height="80" as="geometry" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-23" value="当前路径是否存在头像？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="960" width="110" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
