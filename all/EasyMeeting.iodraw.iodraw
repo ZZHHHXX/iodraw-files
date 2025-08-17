@@ -822,16 +822,16 @@
             <mxPoint x="1815" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5YToGlwveUYebJgSXGtC-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5YToGlwveUYebJgSXGtC-14">
+        <mxCell id="5YToGlwveUYebJgSXGtC-21" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5YToGlwveUYebJgSXGtC-14">
           <mxGeometry x="-0.1806" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5YToGlwveUYebJgSXGtC-17" target="5YToGlwveUYebJgSXGtC-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-17" value="根据会议总人数计算行数和列数，行数为总人数的算术平方根向上取整，列数为总人数除以行数向上取整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="415" width="130" height="90" as="geometry" />
+          <mxGeometry x="1750" y="370" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YToGlwveUYebJgSXGtC-19" target="5YToGlwveUYebJgSXGtC-13">
           <mxGeometry relative="1" as="geometry" />
