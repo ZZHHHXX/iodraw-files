@@ -1073,8 +1073,8 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-129" value="添加麦克风相关参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-133" value="录屏组件监听事件更新录制时间到客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-133" value="暂停录制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1308.75" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
