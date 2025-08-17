@@ -462,16 +462,11 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-132" value="创建并存储会议预约信息到数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1672.5" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B1zyvEB8MiUHR75yqqEK-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="B1zyvEB8MiUHR75yqqEK-136">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1732.5" y="660" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-136" target="B1zyvEB8MiUHR75yqqEK-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B1zyvEB8MiUHR75yqqEK-136" value="向父组件发送加入会议事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1672.5" y="697" width="120" height="60" as="geometry" />
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-136" value="向今日会议组件发送加载今日会议记录事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1672.5" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-137" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1682.5" y="790" width="100" height="50" as="geometry" />
@@ -481,6 +476,9 @@
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-139" value="根据邀请人id列表建立预约会议id与用户id的映射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1672.5" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-141" target="B1zyvEB8MiUHR75yqqEK-136">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-141" value="存储映射信息到数据库预约成员表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1672.5" y="520" width="120" height="60" as="geometry" />
