@@ -860,7 +860,7 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-35" target="-lB4kjHzXIk1H-RmrJiI-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-35" value="弹出修改用户信息表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-35" value="向主进程发送保存设置事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382.5" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-36" value="向后端发送更新用户信息请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
