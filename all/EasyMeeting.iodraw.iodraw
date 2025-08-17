@@ -460,44 +460,16 @@
         <mxCell id="0oTGE48N6coWugNXfI_t-2" value="共享屏幕" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1900" y="33" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0oTGE48N6coWugNXfI_t-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0oTGE48N6coWugNXfI_t-4" target="0oTGE48N6coWugNXfI_t-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0oTGE48N6coWugNXfI_t-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0oTGE48N6coWugNXfI_t-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1950" y="223" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0oTGE48N6coWugNXfI_t-4" value="设置进入会议状态为开启屏幕共享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1890" y="133" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0oTGE48N6coWugNXfI_t-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0oTGE48N6coWugNXfI_t-6" target="0oTGE48N6coWugNXfI_t-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0oTGE48N6coWugNXfI_t-6" value="发送后端创建预约会议请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="223" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0oTGE48N6coWugNXfI_t-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0oTGE48N6coWugNXfI_t-8" target="0oTGE48N6coWugNXfI_t-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0oTGE48N6coWugNXfI_t-8" value="创建并存储会议预约信息到数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="353" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0oTGE48N6coWugNXfI_t-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0oTGE48N6coWugNXfI_t-10" target="0oTGE48N6coWugNXfI_t-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0oTGE48N6coWugNXfI_t-10" value="向今日会议组件发送加载今日会议记录事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="613" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="0oTGE48N6coWugNXfI_t-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="710" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0oTGE48N6coWugNXfI_t-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0oTGE48N6coWugNXfI_t-13" target="0oTGE48N6coWugNXfI_t-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0oTGE48N6coWugNXfI_t-13" value="根据邀请人id列表建立预约会议id与用户id的映射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="443" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0oTGE48N6coWugNXfI_t-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0oTGE48N6coWugNXfI_t-15" target="0oTGE48N6coWugNXfI_t-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0oTGE48N6coWugNXfI_t-15" value="存储映射信息到数据库预约成员表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="523" width="120" height="60" as="geometry" />
+          <mxGeometry x="1900" y="260" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
