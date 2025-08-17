@@ -699,6 +699,9 @@
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-29" value="遍历带邀请好友id列表，向每个好友发送邀请信息，并且存储邀请信息到redis中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="920" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HYhKoGKKwyB6WTx5W4VN-31" value="遍历带邀请好友id列表，向每个好友发送邀请信息，并且存储邀请信息到redis中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
