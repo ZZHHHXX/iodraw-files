@@ -1014,7 +1014,7 @@
             <mxPoint x="1370.5" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-113" value="客户端向主进程发送登出事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-113" value="获取指定id屏幕的信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-113" target="-lB4kjHzXIk1H-RmrJiI-116">
