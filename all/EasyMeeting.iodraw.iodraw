@@ -1181,12 +1181,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-193" value="父组件接收该屏幕id数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2020" y="565" width="120" height="60" as="geometry" />
+          <mxGeometry x="2018.75" y="605" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-196" value="设置默认选择录制的屏幕id为第一个对象的屏幕id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="2021.25" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-197" target="-lB4kjHzXIk1H-RmrJiI-193">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-197" target="-lB4kjHzXIk1H-RmrJiI-196">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-197" value="是否选择录制屏幕" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
