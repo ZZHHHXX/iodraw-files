@@ -413,46 +413,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-123" value="预约会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1682.5" y="30" width="100" height="50" as="geometry" />
+          <mxGeometry x="1860" y="36.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-125" target="B1zyvEB8MiUHR75yqqEK-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-125" value="输入表单信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1672.5" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="1850" y="136.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-127" target="B1zyvEB8MiUHR75yqqEK-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-127" value="发送后端创建预约会议请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1672.5" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="1850" y="226.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-132" target="B1zyvEB8MiUHR75yqqEK-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-132" value="创建并存储会议预约信息到数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1672.5" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="1850" y="356.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-136" target="B1zyvEB8MiUHR75yqqEK-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-136" value="向今日会议组件发送加载今日会议记录事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1672.5" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="1850" y="616.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-137" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1682.5" y="707" width="100" height="50" as="geometry" />
+          <mxGeometry x="1860" y="713.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-139" target="B1zyvEB8MiUHR75yqqEK-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-139" value="根据邀请人id列表建立预约会议id与用户id的映射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1672.5" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="1850" y="446.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-141" target="B1zyvEB8MiUHR75yqqEK-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-141" value="存储映射信息到数据库预约成员表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1672.5" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="1850" y="526.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="54Tbc6yO-9ldTmLmHYkY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="54Tbc6yO-9ldTmLmHYkY-3" target="B1zyvEB8MiUHR75yqqEK-111">
           <mxGeometry relative="1" as="geometry" />
@@ -463,8 +463,16 @@
         <mxCell id="54Tbc6yO-9ldTmLmHYkY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="54Tbc6yO-9ldTmLmHYkY-7" target="54Tbc6yO-9ldTmLmHYkY-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="54Tbc6yO-9ldTmLmHYkY-10" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="54Tbc6yO-9ldTmLmHYkY-9">
+          <mxGeometry x="-0.65" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="54Tbc6yO-9ldTmLmHYkY-7" value="判断是否需要以共享屏幕方式进入会议" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="210" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="54Tbc6yO-9ldTmLmHYkY-11" value="复用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
