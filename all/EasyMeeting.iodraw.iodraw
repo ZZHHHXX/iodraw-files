@@ -192,6 +192,9 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-22" value="加入会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="150" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-24" target="B1zyvEB8MiUHR75yqqEK-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-24" value="输入表单信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -206,7 +209,7 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-31" target="B1zyvEB8MiUHR75yqqEK-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="910" y="490" />
+              <mxPoint x="910" y="410" />
               <mxPoint x="910" y="925" />
             </Array>
           </mxGeometry>
@@ -217,13 +220,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-31" value="是否有预约会议？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1017.5" y="430" width="125" height="120" as="geometry" />
+          <mxGeometry x="1020" y="350" width="125" height="120" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-33" target="B1zyvEB8MiUHR75yqqEK-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-33" value="创建并存储会议信息到数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="1022.5" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-35" target="B1zyvEB8MiUHR75yqqEK-37">
           <mxGeometry relative="1" as="geometry" />
