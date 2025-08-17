@@ -625,7 +625,7 @@
           <mxGeometry x="1160" y="100" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1340" width="100" height="50" as="geometry" />
+          <mxGeometry x="1150" y="1440" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HYhKoGKKwyB6WTx5W4VN-5" target="HYhKoGKKwyB6WTx5W4VN-6">
           <mxGeometry relative="1" as="geometry" />
@@ -725,13 +725,13 @@
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-33" value="&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; white-space: pre;&quot;&gt;是否同意入会？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="1110" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HYhKoGKKwyB6WTx5W4VN-37" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;根据memberList筛选与sendId相同的成员，修改该用户的在当前客户端的摄像头状态&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYhKoGKKwyB6WTx5W4VN-37" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;向后端发送接收邀请请求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="1240" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.467;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HYhKoGKKwyB6WTx5W4VN-33" target="HYhKoGKKwyB6WTx5W4VN-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HYhKoGKKwyB6WTx5W4VN-39" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HYhKoGKKwyB6WTx5W4VN-38">
+        <mxCell id="HYhKoGKKwyB6WTx5W4VN-39" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HYhKoGKKwyB6WTx5W4VN-38">
           <mxGeometry x="-0.2567" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
