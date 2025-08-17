@@ -848,7 +848,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-25" value="显示用户头像、用户昵称以及用户性别图标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="320" width="90" height="50" as="geometry" />
+          <mxGeometry x="1960" y="300" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YToGlwveUYebJgSXGtC-44" target="5YToGlwveUYebJgSXGtC-52">
           <mxGeometry relative="1" as="geometry" />
@@ -925,6 +925,9 @@
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-82" value="显示用户头像、用户昵称以及用户性别图标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2160" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5YToGlwveUYebJgSXGtC-85" value="显示用户头像、用户昵称以及用户性别图标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="360" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
