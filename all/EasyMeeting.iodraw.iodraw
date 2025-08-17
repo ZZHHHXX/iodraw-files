@@ -1431,6 +1431,9 @@
         <mxCell id="oyRHti0OkECOJBHK_bnu-6" value="打开会议房间新窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EqCZR8qy4ytk6R38yizG-1" value="是否获取到麦克风设备？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="122.5" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
