@@ -1239,7 +1239,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1491" y="890" />
-              <mxPoint x="1930" y="890" />
+              <mxPoint x="2120" y="890" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1260,8 +1260,14 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-219" value="向父组件发送麦克风设备更新事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2060" y="950" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-223" target="-lB4kjHzXIk1H-RmrJiI-225">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-223" value="获取该设备的标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-225" value="通过navigtor.mediaDevices.&lt;div&gt;getUserMedia方法捕获当前麦克风设备的音频流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1751.25" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
