@@ -473,8 +473,8 @@
         <mxCell id="54Tbc6yO-9ldTmLmHYkY-7" value="判断是否需要以共享屏幕方式进入会议" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="210" width="125" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="54Tbc6yO-9ldTmLmHYkY-11" value="复用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="54Tbc6yO-9ldTmLmHYkY-11" value="向主进程发送获取屏幕事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="416.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
