@@ -767,10 +767,13 @@
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-45" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;邀请信息过期&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="1470" width="180" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="HYhKoGKKwyB6WTx5W4VN-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HYhKoGKKwyB6WTx5W4VN-49" target="HYhKoGKKwyB6WTx5W4VN-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-49" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;修改该用户的参会id为当前会议id，更新redis中的用户token信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="1470" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HYhKoGKKwyB6WTx5W4VN-52" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;修改该用户的参会id为当前会议id，更新redis中的用户token信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYhKoGKKwyB6WTx5W4VN-52" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;向主进程发送打开会议房间窗口，加入会议&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="1540" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
