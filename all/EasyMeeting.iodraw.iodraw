@@ -963,8 +963,8 @@
             <mxPoint x="1163" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-95" value="通知客户端当前用户已登出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-95" value="客户端向主进程发送登出事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1102.5" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
