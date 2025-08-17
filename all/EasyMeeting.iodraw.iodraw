@@ -267,6 +267,9 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-47" value="检查会议是否存在&lt;div&gt;检查用户是否在该会议黑名单内&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="780" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-50" value="检查会议是否存在&lt;div&gt;检查用户是否在该会议黑名单内&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
