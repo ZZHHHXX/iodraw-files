@@ -1341,7 +1341,7 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-274" value="启动麦克风动画" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2216" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-276" value="通过音频上下文的createMediaStreamSource方法获取捕获音频流的音频源并连接分析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-276" value="通过分析器获取音频的缓存区长度，根据缓存区长度创建存储音频数据的数组，获取音频的时域、频域数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1710" y="1173" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
