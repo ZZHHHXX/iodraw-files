@@ -280,6 +280,9 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-47" value="检查会议是否存在&lt;div&gt;检查用户是否在该会议黑名单内&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="780" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-50" target="B1zyvEB8MiUHR75yqqEK-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-50" value="验证预约会议是否存在&lt;div&gt;验证是否邀请该用户&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="880" width="120" height="60" as="geometry" />
         </mxCell>
@@ -292,7 +295,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-59" value="创建会议信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="1220" width="92.5" height="40" as="geometry" />
+          <mxGeometry x="863.75" y="1220" width="92.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-67" target="B1zyvEB8MiUHR75yqqEK-69">
           <mxGeometry relative="1" as="geometry" />
@@ -363,7 +366,7 @@
           <mxGeometry x="1021.25" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-92" value="是否存在当前会议信息？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="847.5" y="1010" width="125" height="120" as="geometry" />
+          <mxGeometry x="847.5" y="1030" width="125" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
