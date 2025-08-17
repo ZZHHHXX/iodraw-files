@@ -601,9 +601,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nNt73_yMm7PDLeFiJc6F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-2" target="nNt73_yMm7PDLeFiJc6F-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="nNt73_yMm7PDLeFiJc6F-2" value="加载今日会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="40" width="100" height="50" as="geometry" />
         </mxCell>
@@ -611,7 +608,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nNt73_yMm7PDLeFiJc6F-4" value="后端发送请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nNt73_yMm7PDLeFiJc6F-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-6" target="nNt73_yMm7PDLeFiJc6F-7">
           <mxGeometry relative="1" as="geometry" />
@@ -621,6 +618,9 @@
         </mxCell>
         <mxCell id="nNt73_yMm7PDLeFiJc6F-7" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="440" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nNt73_yMm7PDLeFiJc6F-9" value="后端发送请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
