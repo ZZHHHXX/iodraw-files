@@ -830,8 +830,8 @@
         <mxCell id="5YToGlwveUYebJgSXGtC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5YToGlwveUYebJgSXGtC-17" target="5YToGlwveUYebJgSXGtC-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5YToGlwveUYebJgSXGtC-17" value="显示麦克风图表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="310" width="130" height="90" as="geometry" />
+        <mxCell id="5YToGlwveUYebJgSXGtC-17" value="显示摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="310" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YToGlwveUYebJgSXGtC-19" target="5YToGlwveUYebJgSXGtC-13">
           <mxGeometry relative="1" as="geometry" />
@@ -839,7 +839,7 @@
         <mxCell id="5YToGlwveUYebJgSXGtC-19" value="根据行数列数设置gridTemplateRows和gridTemplateCols样式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1750" y="620" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5YToGlwveUYebJgSXGtC-20" value="&lt;font face=&quot;JetBrains Mono, Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;当前用户是否启用并开启了语音？&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5YToGlwveUYebJgSXGtC-20" value="&lt;font face=&quot;JetBrains Mono, Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;当前用户是否启用并开启了摄像头？&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1715" y="160" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
