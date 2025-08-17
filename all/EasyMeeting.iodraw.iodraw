@@ -903,11 +903,14 @@
         <mxCell id="5YToGlwveUYebJgSXGtC-68" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2155" y="1970" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="5YToGlwveUYebJgSXGtC-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YToGlwveUYebJgSXGtC-70" target="5YToGlwveUYebJgSXGtC-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-70" value="应用MediaStream方法创建localStream" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2155" y="120" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5YToGlwveUYebJgSXGtC-79" value="&lt;font face=&quot;JetBrains Mono, Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;当前用户是否禁用了屏幕共享或者&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;JetBrains Mono, Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;启用并开启了摄像头？&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="225" width="235" height="90" as="geometry" />
+        <mxCell id="5YToGlwveUYebJgSXGtC-79" value="&lt;font face=&quot;JetBrains Mono, Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;是否启用了麦克风？&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2087.5" y="225" width="235" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
