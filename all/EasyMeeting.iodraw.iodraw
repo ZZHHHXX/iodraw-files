@@ -757,11 +757,32 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="9UagJAlGM2B9hRu19fGS" name="第 5 页">
+  <diagram id="9UagJAlGM2B9hRu19fGS" name="UpdateUser">
     <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-2" target="-lB4kjHzXIk1H-RmrJiI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-2" value="分享会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="40" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="300" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-5" target="-lB4kjHzXIk1H-RmrJiI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-5" value="弹出会议信息表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-7" target="-lB4kjHzXIk1H-RmrJiI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-7" value="点击复制会议信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
