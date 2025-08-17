@@ -671,7 +671,7 @@
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HYhKoGKKwyB6WTx5W4VN-18" target="HYhKoGKKwyB6WTx5W4VN-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1370" y="1465" />
+              <mxPoint x="1370" y="1630" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -712,7 +712,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1370" y="1150" />
-              <mxPoint x="1370" y="1465" />
+              <mxPoint x="1370" y="1630" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -725,7 +725,7 @@
           <mxGeometry x="1110" y="1110" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-37" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;向后端发送接收邀请请求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1240" width="240" height="70" as="geometry" />
+          <mxGeometry x="1120" y="1250" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.467;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HYhKoGKKwyB6WTx5W4VN-33" target="HYhKoGKKwyB6WTx5W4VN-37">
           <mxGeometry relative="1" as="geometry" />
