@@ -693,6 +693,9 @@
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-27" value="验证这些邀请的好友是否都是当前用户的真实好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="820" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HYhKoGKKwyB6WTx5W4VN-29" value="验证这些邀请的好友是否都是当前用户的真实好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
