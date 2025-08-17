@@ -703,7 +703,7 @@
         <mxCell id="nNt73_yMm7PDLeFiJc6F-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-41" target="nNt73_yMm7PDLeFiJc6F-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nNt73_yMm7PDLeFiJc6F-41" value="修改会议状态为已结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nNt73_yMm7PDLeFiJc6F-41" value="删除所有预约成员信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nNt73_yMm7PDLeFiJc6F-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-43" target="nNt73_yMm7PDLeFiJc6F-50">
