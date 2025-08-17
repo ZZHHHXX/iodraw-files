@@ -1494,7 +1494,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cedh_nmXvWvuPfYAUGAh-23" value="设置页码为0或当前页码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="411.25" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cedh_nmXvWvuPfYAUGAh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-30" target="cedh_nmXvWvuPfYAUGAh-32">
           <mxGeometry relative="1" as="geometry" />
