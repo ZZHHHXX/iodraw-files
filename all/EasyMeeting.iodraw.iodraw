@@ -400,28 +400,20 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-109" value="接收子组件的加入会议事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1362.5" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-111" target="B1zyvEB8MiUHR75yqqEK-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-111" value="向主进程发送打开新窗口请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1362.5" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B1zyvEB8MiUHR75yqqEK-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1422.5" y="660" as="sourcePoint" />
-            <mxPoint x="1422.5" y="697" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="B1zyvEB8MiUHR75yqqEK-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="B1zyvEB8MiUHR75yqqEK-121">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1422.5" y="757" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-121" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1372.5" y="790" width="100" height="50" as="geometry" />
+          <mxGeometry x="1372.5" y="340" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-123" target="B1zyvEB8MiUHR75yqqEK-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-123" value="预约会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1682.5" width="100" height="50" as="geometry" />
+          <mxGeometry x="1682.5" y="30" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-125" target="B1zyvEB8MiUHR75yqqEK-127">
           <mxGeometry relative="1" as="geometry" />
