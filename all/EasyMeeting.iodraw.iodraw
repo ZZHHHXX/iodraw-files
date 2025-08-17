@@ -757,7 +757,7 @@
         <mxCell id="nNt73_yMm7PDLeFiJc6F-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-65" target="nNt73_yMm7PDLeFiJc6F-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nNt73_yMm7PDLeFiJc6F-65" value="后端发送删除预约的会议请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nNt73_yMm7PDLeFiJc6F-65" value="弹出会议信息表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nNt73_yMm7PDLeFiJc6F-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-67" target="nNt73_yMm7PDLeFiJc6F-69">
