@@ -1171,16 +1171,11 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-186" value="通过desktopCapturer.getSources方法，获取符合条件的所有屏幕对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2020" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-198" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-188" target="-lB4kjHzXIk1H-RmrJiI-197">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-188" target="-lB4kjHzXIk1H-RmrJiI-197">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-188" value="在每个对象中插入自定义属性，返回给选择屏幕组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2020" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-lB4kjHzXIk1H-RmrJiI-193">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2080" y="440" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-193" target="-lB4kjHzXIk1H-RmrJiI-182">
           <mxGeometry relative="1" as="geometry" />
@@ -1191,8 +1186,11 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-196" value="设置默认选择录制的屏幕id为第一个对象的屏幕id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1820" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-197" target="-lB4kjHzXIk1H-RmrJiI-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-197" value="是否开启麦克风？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2017.5" y="370" width="122.5" height="90" as="geometry" />
+          <mxGeometry x="2017.5" y="385" width="122.5" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
