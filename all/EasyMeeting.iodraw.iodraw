@@ -625,7 +625,7 @@
           <mxGeometry x="1160" y="100" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="730" width="100" height="50" as="geometry" />
+          <mxGeometry x="1160" y="860" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HYhKoGKKwyB6WTx5W4VN-5" target="HYhKoGKKwyB6WTx5W4VN-6">
           <mxGeometry relative="1" as="geometry" />
@@ -674,7 +674,7 @@
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-18" value="禁止邀请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYhKoGKKwyB6WTx5W4VN-22" value="禁止邀请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYhKoGKKwyB6WTx5W4VN-22" value="允许邀请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
