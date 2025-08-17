@@ -1203,7 +1203,7 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-197" value="是否选择录制屏幕" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2018.75" y="385" width="122.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-204" value="是" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-204" value="触发点击事件，切换选择录制的屏幕id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2180" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
