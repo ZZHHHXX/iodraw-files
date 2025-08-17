@@ -222,7 +222,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-35" value="设置当前用户的参加会议id为当前会议id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1022.5" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="1022.5" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-37" target="B1zyvEB8MiUHR75yqqEK-38">
           <mxGeometry relative="1" as="geometry" />
