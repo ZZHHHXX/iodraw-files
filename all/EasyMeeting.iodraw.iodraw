@@ -811,7 +811,7 @@
             <mxPoint x="1815" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5YToGlwveUYebJgSXGtC-12" value="显示每个单元格内的各个用户内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5YToGlwveUYebJgSXGtC-12" value="显示当前用户单元格的内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1765" y="90" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
