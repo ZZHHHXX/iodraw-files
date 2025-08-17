@@ -1016,6 +1016,9 @@
         <mxCell id="4maj9624t6BSzMeDCjVF-20" value="向后端发送加入会议请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2145" y="1340" width="120" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="UUIOTHMob1EuFcujp_iG-1" value="向后端发送加入会议请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2145" y="1447.5" width="120" height="75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
