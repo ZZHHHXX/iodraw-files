@@ -1537,6 +1537,62 @@
         <mxCell id="cedh_nmXvWvuPfYAUGAh-48" value="触发子孙组件的下载文件方法。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="411.25" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-53" target="cedh_nmXvWvuPfYAUGAh-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-53" value="展示历史会议成员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="851.25" y="45" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-54" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="851.25" y="560" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-56" target="cedh_nmXvWvuPfYAUGAh-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-56" value="过滤后端返回的消息列表，新增自定义信息到各个图片视频类型消息中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="841.25" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-58" target="cedh_nmXvWvuPfYAUGAh-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-58" value="将打开媒体详情窗口事件方法发送给子孙组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="841.25" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-60" target="cedh_nmXvWvuPfYAUGAh-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-60" value="子孙组件接收并调用打开媒体详情窗口事件方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-65" target="cedh_nmXvWvuPfYAUGAh-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-62" value="视频或图片" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cedh_nmXvWvuPfYAUGAh-61">
+          <mxGeometry x="-0.2571" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-65" target="cedh_nmXvWvuPfYAUGAh-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-64" value="文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cedh_nmXvWvuPfYAUGAh-63">
+          <mxGeometry x="-0.359" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-65" value="查看的组件类型？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="315" width="122.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-67" target="cedh_nmXvWvuPfYAUGAh-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-67" value="触发子孙组件的下载文件方法。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="841.25" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
