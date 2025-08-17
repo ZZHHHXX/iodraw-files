@@ -286,6 +286,9 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-50" value="验证预约会议是否存在&lt;div&gt;验证是否邀请该用户&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="880" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-59" target="B1zyvEB8MiUHR75yqqEK-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-59" value="创建会议信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="863.75" y="1220" width="92.5" height="40" as="geometry" />
         </mxCell>
@@ -367,6 +370,9 @@
           <mxGeometry x="-0.1429" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-92" target="B1zyvEB8MiUHR75yqqEK-98">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-92" value="是否存在当前会议信息？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="847.5" y="1030" width="125" height="120" as="geometry" />
