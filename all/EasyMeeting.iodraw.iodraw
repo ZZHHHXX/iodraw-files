@@ -1258,7 +1258,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-219" value="向父组件发送麦克风设备更新事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="955" width="120" height="60" as="geometry" />
+          <mxGeometry x="1800" y="955" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-223" value="获取该设备的标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="950" width="120" height="60" as="geometry" />
