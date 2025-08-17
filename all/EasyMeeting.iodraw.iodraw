@@ -1481,6 +1481,69 @@
         <mxCell id="cedh_nmXvWvuPfYAUGAh-2" value="查看会议历史消息，与查看历史会议记录类似" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="130" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-20" target="cedh_nmXvWvuPfYAUGAh-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="471.25" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="471.25" y="105" />
+              <mxPoint x="472.25" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-20" value="展示视频类型聊天记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="421.25" y="40" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-21" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="421.25" y="680" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-23" target="cedh_nmXvWvuPfYAUGAh-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-23" value="设置页码为0或当前页码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-28" target="cedh_nmXvWvuPfYAUGAh-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-25" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cedh_nmXvWvuPfYAUGAh-24">
+          <mxGeometry x="-0.393" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-28" target="cedh_nmXvWvuPfYAUGAh-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="661.25" y="180" />
+              <mxPoint x="661.25" y="705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-27" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cedh_nmXvWvuPfYAUGAh-26">
+          <mxGeometry x="-0.8588" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-28" value="判断是否已经加载了最后一页的数据" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="135" width="122.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-30" target="cedh_nmXvWvuPfYAUGAh-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-30" value="向后端发送加载一页数据请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-32" target="cedh_nmXvWvuPfYAUGAh-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-32" value="根据当前用户id以及页码号，按照会议创建时间降序排列会议信息列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="411.25" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-34" target="cedh_nmXvWvuPfYAUGAh-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-34" value="返回会议信息列表数据给客户端，与客户端现有数据进行拼接，实现分页加载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="411.25" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
