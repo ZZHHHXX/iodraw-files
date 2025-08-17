@@ -1476,10 +1476,10 @@
           <mxGeometry x="80" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EqCZR8qy4ytk6R38yizG-16" value="查看一页预约会议流程与历史会议相似" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="40" width="100" height="50" as="geometry" />
+          <mxGeometry x="1210" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cedh_nmXvWvuPfYAUGAh-2" value="查看会议历史消息，与查看历史会议记录类似" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="130" width="100" height="50" as="geometry" />
+          <mxGeometry x="1210" y="130" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cedh_nmXvWvuPfYAUGAh-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-20" target="cedh_nmXvWvuPfYAUGAh-35">
           <mxGeometry relative="1" as="geometry" />
@@ -1488,7 +1488,7 @@
           <mxGeometry x="421.25" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cedh_nmXvWvuPfYAUGAh-21" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="422.5" y="550" width="100" height="50" as="geometry" />
+          <mxGeometry x="421.25" y="555" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cedh_nmXvWvuPfYAUGAh-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-35" target="cedh_nmXvWvuPfYAUGAh-39">
           <mxGeometry relative="1" as="geometry" />
