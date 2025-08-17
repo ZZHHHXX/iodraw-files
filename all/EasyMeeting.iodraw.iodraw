@@ -218,9 +218,6 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-33" value="发送预校验请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1022.5" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B1zyvEB8MiUHR75yqqEK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-35" target="B1zyvEB8MiUHR75yqqEK-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-35" value="设置当前用户的参加会议id为当前会议id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1022.5" y="650" width="120" height="60" as="geometry" />
         </mxCell>
@@ -300,6 +297,9 @@
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-59" value="创建会议信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="863.75" y="1160" width="92.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-67" value="设置当前用户的参加会议id为当前会议id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
