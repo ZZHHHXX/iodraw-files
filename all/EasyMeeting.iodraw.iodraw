@@ -1214,35 +1214,32 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-204" value="触发点击事件，切换选择录制的屏幕id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2180" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-253" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="880" y="890" width="1610" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-lB4kjHzXIk1H-RmrJiI-253" source="-lB4kjHzXIk1H-RmrJiI-209" target="-lB4kjHzXIk1H-RmrJiI-212">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-209" target="-lB4kjHzXIk1H-RmrJiI-212">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-209" value="麦克风录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-lB4kjHzXIk1H-RmrJiI-253">
-          <mxGeometry y="70" width="100" height="40" as="geometry" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-209" value="麦克风录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="960" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-210" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-lB4kjHzXIk1H-RmrJiI-253">
-          <mxGeometry x="1510" y="65" width="100" height="50" as="geometry" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-210" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2390" y="955" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-lB4kjHzXIk1H-RmrJiI-253" source="-lB4kjHzXIk1H-RmrJiI-212" target="-lB4kjHzXIk1H-RmrJiI-213">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-212" target="-lB4kjHzXIk1H-RmrJiI-213">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-212" value="通过navigtor.mediaDevices.&lt;div&gt;enmerateDevices方法和获取所有设备&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-lB4kjHzXIk1H-RmrJiI-253">
-          <mxGeometry x="168" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-212" value="通过navigtor.mediaDevices.&lt;div&gt;enmerateDevices方法和获取所有设备&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1048" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-lB4kjHzXIk1H-RmrJiI-253" source="-lB4kjHzXIk1H-RmrJiI-213" target="-lB4kjHzXIk1H-RmrJiI-216">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-213" target="-lB4kjHzXIk1H-RmrJiI-216">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-213" value="过滤筛选出默认的麦克风设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-lB4kjHzXIk1H-RmrJiI-253">
-          <mxGeometry x="350" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-213" value="过滤筛选出默认的麦克风设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-lB4kjHzXIk1H-RmrJiI-253" source="-lB4kjHzXIk1H-RmrJiI-216" target="-lB4kjHzXIk1H-RmrJiI-219">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-216" target="-lB4kjHzXIk1H-RmrJiI-219">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="611" />
-              <mxPoint x="1240" />
+              <mxPoint x="1491" y="890" />
+              <mxPoint x="2120" y="890" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1251,44 +1248,117 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-lB4kjHzXIk1H-RmrJiI-253" source="-lB4kjHzXIk1H-RmrJiI-216" target="-lB4kjHzXIk1H-RmrJiI-223">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-216" target="-lB4kjHzXIk1H-RmrJiI-223">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-216" value="是否获取到麦克风设备？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="-lB4kjHzXIk1H-RmrJiI-253">
-          <mxGeometry x="550" y="45" width="122.5" height="90" as="geometry" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-216" value="是否获取到麦克风设备？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="935" width="122.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-lB4kjHzXIk1H-RmrJiI-253" source="-lB4kjHzXIk1H-RmrJiI-230" target="-lB4kjHzXIk1H-RmrJiI-210">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-230" target="-lB4kjHzXIk1H-RmrJiI-210">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-219" value="向父组件发送麦克风设备更新事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-lB4kjHzXIk1H-RmrJiI-253">
-          <mxGeometry x="1180" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-219" value="向父组件发送麦克风设备更新事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-lB4kjHzXIk1H-RmrJiI-253" source="-lB4kjHzXIk1H-RmrJiI-223" target="-lB4kjHzXIk1H-RmrJiI-225">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-223" target="-lB4kjHzXIk1H-RmrJiI-225">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-223" value="获取该设备的标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-lB4kjHzXIk1H-RmrJiI-253">
-          <mxGeometry x="710" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-223" value="获取该设备的标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-lB4kjHzXIk1H-RmrJiI-253" source="-lB4kjHzXIk1H-RmrJiI-225" target="-lB4kjHzXIk1H-RmrJiI-227">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-225" target="-lB4kjHzXIk1H-RmrJiI-227">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-225" value="通过navigtor.mediaDevices.&lt;div&gt;getUserMedia方法捕获当前麦克风设备的音频流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-lB4kjHzXIk1H-RmrJiI-253">
-          <mxGeometry x="871.25" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-225" value="通过navigtor.mediaDevices.&lt;div&gt;getUserMedia方法捕获当前麦克风设备的音频流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1751.25" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-lB4kjHzXIk1H-RmrJiI-253" source="-lB4kjHzXIk1H-RmrJiI-227" target="-lB4kjHzXIk1H-RmrJiI-219">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-227" target="-lB4kjHzXIk1H-RmrJiI-219">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-227" value="更新麦克风设备信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-lB4kjHzXIk1H-RmrJiI-253">
-          <mxGeometry x="1021.25" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-227" value="更新麦克风设备信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1901.25" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-231" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-lB4kjHzXIk1H-RmrJiI-253" source="-lB4kjHzXIk1H-RmrJiI-219" target="-lB4kjHzXIk1H-RmrJiI-230">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-231" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-219" target="-lB4kjHzXIk1H-RmrJiI-230">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1300" y="90" as="sourcePoint" />
-            <mxPoint x="1510" y="90" as="targetPoint" />
+            <mxPoint x="2180" y="980" as="sourcePoint" />
+            <mxPoint x="2390" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-230" value="启动麦克风动画" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-lB4kjHzXIk1H-RmrJiI-253">
-          <mxGeometry x="1336" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-230" value="启动麦克风动画" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2216" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-255" target="-lB4kjHzXIk1H-RmrJiI-258">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-255" value="麦克风录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-256" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2390" y="1175" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-258" target="-lB4kjHzXIk1H-RmrJiI-260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-258" value="通过navigtor.mediaDevices.&lt;div&gt;enmerateDevices方法和获取所有设备&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1048" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-260" target="-lB4kjHzXIk1H-RmrJiI-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-260" value="过滤筛选出默认的麦克风设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-264" target="-lB4kjHzXIk1H-RmrJiI-266">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1491" y="1110" />
+              <mxPoint x="2120" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-262" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lB4kjHzXIk1H-RmrJiI-261">
+          <mxGeometry x="-0.8879" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-264" target="-lB4kjHzXIk1H-RmrJiI-268">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-264" value="是否获取到麦克风设备？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1155" width="122.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-274" target="-lB4kjHzXIk1H-RmrJiI-256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-266" value="向父组件发送麦克风设备更新事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-267" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-268" target="-lB4kjHzXIk1H-RmrJiI-270">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-268" value="获取该设备的标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-269" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-270" target="-lB4kjHzXIk1H-RmrJiI-272">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-270" value="通过navigtor.mediaDevices.&lt;div&gt;getUserMedia方法捕获当前麦克风设备的音频流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1751.25" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-272" target="-lB4kjHzXIk1H-RmrJiI-266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-272" value="更新麦克风设备信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1901.25" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-273" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-266" target="-lB4kjHzXIk1H-RmrJiI-274">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2180" y="1200" as="sourcePoint" />
+            <mxPoint x="2390" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-274" value="启动麦克风动画" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2216" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
