@@ -1453,11 +1453,14 @@
         <mxCell id="EqCZR8qy4ytk6R38yizG-1" value="判断是否已经加载了最后一页的数据" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="78.75" y="135" width="122.5" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="EqCZR8qy4ytk6R38yizG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EqCZR8qy4ytk6R38yizG-5" target="EqCZR8qy4ytk6R38yizG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EqCZR8qy4ytk6R38yizG-5" value="向后端发送加载一页数据请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="78.75" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EqCZR8qy4ytk6R38yizG-7" value="向后端发送加载一页数据请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="88.75" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="EqCZR8qy4ytk6R38yizG-7" value="根据当前用户id以及页码号，按照会议创建时间降序排列会议信息列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
