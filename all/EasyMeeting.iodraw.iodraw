@@ -1127,7 +1127,7 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-148" value="修改录屏状态为完成录制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1641.25" y="685" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-160" value="杀死FFmpeg进程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-160" value="修改录屏状态为停止录屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1641.25" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
