@@ -189,7 +189,7 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-22" target="B1zyvEB8MiUHR75yqqEK-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B1zyvEB8MiUHR75yqqEK-22" value="加入会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-22" value="会议校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1026.25" y="30" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-24" target="B1zyvEB8MiUHR75yqqEK-31">
@@ -391,7 +391,7 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-107" target="B1zyvEB8MiUHR75yqqEK-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B1zyvEB8MiUHR75yqqEK-107" value="快速会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-107" value="加入会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1372.5" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-109" target="B1zyvEB8MiUHR75yqqEK-111">
