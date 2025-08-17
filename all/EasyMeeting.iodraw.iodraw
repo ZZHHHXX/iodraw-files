@@ -372,7 +372,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-92" target="B1zyvEB8MiUHR75yqqEK-98">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="1090" />
+              <mxPoint x="990" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-103" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B1zyvEB8MiUHR75yqqEK-102">
+          <mxGeometry x="-0.6543" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-92" value="是否存在当前会议信息？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="847.5" y="1030" width="125" height="120" as="geometry" />
