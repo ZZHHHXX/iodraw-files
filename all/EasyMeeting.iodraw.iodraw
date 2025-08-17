@@ -1482,8 +1482,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="481.25" y="135" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="481.25" y="105" />
-              <mxPoint x="482.25" y="105" />
+              <mxPoint x="481" y="180" />
+              <mxPoint x="481" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1498,16 +1498,6 @@
         </mxCell>
         <mxCell id="cedh_nmXvWvuPfYAUGAh-5" value="设置页码为0或当前页码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cedh_nmXvWvuPfYAUGAh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="cedh_nmXvWvuPfYAUGAh-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="481.29999999999995" y="224.9632653061226" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cedh_nmXvWvuPfYAUGAh-7" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cedh_nmXvWvuPfYAUGAh-6">
-          <mxGeometry x="-0.393" y="6" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="cedh_nmXvWvuPfYAUGAh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-12" target="cedh_nmXvWvuPfYAUGAh-14">
           <mxGeometry relative="1" as="geometry" />
@@ -1526,6 +1516,9 @@
         </mxCell>
         <mxCell id="cedh_nmXvWvuPfYAUGAh-16" value="返回会议信息列表数据给客户端，与客户端现有数据进行拼接，实现分页加载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="421.25" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-17" value="弹出对话框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="421.25" y="165" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
