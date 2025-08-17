@@ -1601,7 +1601,7 @@
         <mxCell id="cedh_nmXvWvuPfYAUGAh-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-72" target="cedh_nmXvWvuPfYAUGAh-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cedh_nmXvWvuPfYAUGAh-72" value="向后端发送获取当前会议成员请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-72" value="向后端发送删除历史会议请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1111.25" y="135" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cedh_nmXvWvuPfYAUGAh-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-74" target="cedh_nmXvWvuPfYAUGAh-79">
