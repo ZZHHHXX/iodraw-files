@@ -866,69 +866,10 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-36" value="读取指定目录下的配置文件，写入新的配置信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382.5" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-36">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="-lB4kjHzXIk1H-RmrJiI-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="442.5" y="260" as="sourcePoint" />
-            <mxPoint x="442.5" y="300" as="targetPoint" />
+            <mxPoint x="442.5" y="1333" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="442.5" y="450" as="sourcePoint" />
-            <mxPoint x="442.5" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="442.5" y="550" as="sourcePoint" />
-            <mxPoint x="442.5" y="580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="-lB4kjHzXIk1H-RmrJiI-46">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="442.5" y="640" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-46" target="-lB4kjHzXIk1H-RmrJiI-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-46" value="向头像组件发送更新头像请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382.5" y="670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-48" target="-lB4kjHzXIk1H-RmrJiI-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-48" value="调用getAvatarPath方法，将参数进行拼接，形成新的getAvatar后端请求url地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382.5" y="767" width="120" height="73" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-50" target="-lB4kjHzXIk1H-RmrJiI-55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-50" value="Cover组件响应式更新url地址，向后端发送getAvatar请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382.5" y="870" width="120" height="73" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-52" target="-lB4kjHzXIk1H-RmrJiI-57">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-52" value="根据用户id获取新头像地址，以文件流形式返回给客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382.5" y="1160" width="120" height="73" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-55" target="-lB4kjHzXIk1H-RmrJiI-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-54" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lB4kjHzXIk1H-RmrJiI-53">
-          <mxGeometry x="-0.0222" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-55" value="当前路径是否存在头像？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="980" width="145" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-57" target="-lB4kjHzXIk1H-RmrJiI-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-57" value="向父组件发送更新用户信息事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382.5" y="1260" width="120" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
