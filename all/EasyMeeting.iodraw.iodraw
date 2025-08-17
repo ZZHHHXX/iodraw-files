@@ -724,7 +724,7 @@
         <mxCell id="nNt73_yMm7PDLeFiJc6F-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-48" target="nNt73_yMm7PDLeFiJc6F-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nNt73_yMm7PDLeFiJc6F-48" value="根据用户id和会议id查询预约记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nNt73_yMm7PDLeFiJc6F-48" value="根据用户id和会议id查询并删除预约记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nNt73_yMm7PDLeFiJc6F-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-50" target="nNt73_yMm7PDLeFiJc6F-55">
@@ -736,7 +736,7 @@
         <mxCell id="nNt73_yMm7PDLeFiJc6F-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-52" target="nNt73_yMm7PDLeFiJc6F-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nNt73_yMm7PDLeFiJc6F-52" value="向所有会议成员发送会议结束信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nNt73_yMm7PDLeFiJc6F-52" value="根据会议id查询预约成员列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nNt73_yMm7PDLeFiJc6F-53" value="将所有预约该会议的成员会议状态改为已结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
