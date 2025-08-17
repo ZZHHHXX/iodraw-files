@@ -659,7 +659,7 @@
           <mxGeometry x="350" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nNt73_yMm7PDLeFiJc6F-23" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="700" width="100" height="50" as="geometry" />
+          <mxGeometry x="360" y="770" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nNt73_yMm7PDLeFiJc6F-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-25" target="nNt73_yMm7PDLeFiJc6F-27">
           <mxGeometry relative="1" as="geometry" />
@@ -672,9 +672,6 @@
         </mxCell>
         <mxCell id="nNt73_yMm7PDLeFiJc6F-27" value="验证当前用户是否为会议的创建者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nNt73_yMm7PDLeFiJc6F-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-29" target="nNt73_yMm7PDLeFiJc6F-23">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nNt73_yMm7PDLeFiJc6F-29" value="更新所有参会成员的redis缓存用户信息，将最近参会id修改为null" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="610" width="120" height="60" as="geometry" />
