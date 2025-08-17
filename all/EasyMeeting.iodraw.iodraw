@@ -1507,8 +1507,11 @@
         <mxCell id="cedh_nmXvWvuPfYAUGAh-39" value="将打开媒体详情窗口事件方法发送给子孙组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="411.25" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-40" target="cedh_nmXvWvuPfYAUGAh-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cedh_nmXvWvuPfYAUGAh-40" value="子孙组件接收并调用打开媒体详情窗口事件方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cedh_nmXvWvuPfYAUGAh-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-41" target="cedh_nmXvWvuPfYAUGAh-40">
           <mxGeometry relative="1" as="geometry" />
@@ -1520,6 +1523,9 @@
         </mxCell>
         <mxCell id="cedh_nmXvWvuPfYAUGAh-41" value="查看的组件类型？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="310" width="122.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cedh_nmXvWvuPfYAUGAh-48" value="子孙组件接收并调用打开媒体详情窗口事件方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
