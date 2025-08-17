@@ -424,6 +424,9 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-121" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1372.5" y="790" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-123" target="B1zyvEB8MiUHR75yqqEK-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-123" value="预约会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1682.5" width="100" height="50" as="geometry" />
         </mxCell>
@@ -465,6 +468,9 @@
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-141" value="存储映射信息到数据库预约成员表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1672.5" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-144" target="B1zyvEB8MiUHR75yqqEK-125">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-144" value="向主进程发送打开新窗口请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1680" y="70" width="102.5" height="40" as="geometry" />
