@@ -945,7 +945,7 @@
         <mxCell id="5YToGlwveUYebJgSXGtC-85" value="应用createEmptyAudioTrack&lt;div&gt;方法创建一个空的麦克风轨道并加入到localStream中&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2420" y="360" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="5YToGlwveUYebJgSXGtC-92" value="应用navigtor.mediaDevices。getUserMedia方法获取视频流和音频流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5YToGlwveUYebJgSXGtC-92" value="应用navigtor.mediaDevices。getUserMedia方法获取视频流和音频流，将视频流和音频流加入轨道，但不开启" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2145" y="635" width="120" height="130" as="geometry" />
         </mxCell>
       </root>
