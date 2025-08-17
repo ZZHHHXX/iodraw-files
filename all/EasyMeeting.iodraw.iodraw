@@ -1168,6 +1168,9 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-186" value="通过desktopCapturer.getSources方法，获取符合条件的所有屏幕对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2020" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-188" value="在每个对象中插入自定义属性，返回给选择屏幕组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
