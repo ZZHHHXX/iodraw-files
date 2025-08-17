@@ -404,7 +404,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-111" value="向主进程发送打开会议房间窗口请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1362.5" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1362.5" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-121" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1372.5" y="550" width="100" height="50" as="geometry" />
@@ -453,6 +453,12 @@
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-141" value="存储映射信息到数据库预约成员表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1672.5" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="54Tbc6yO-9ldTmLmHYkY-2" value="判断是否需要以共享屏幕方式进入会议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1362.5" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="54Tbc6yO-9ldTmLmHYkY-3" value="判断是否需要以共享屏幕方式进入会议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1372.5" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
