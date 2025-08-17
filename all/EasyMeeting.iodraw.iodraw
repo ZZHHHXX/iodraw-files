@@ -826,7 +826,7 @@
           <mxGeometry x="110" y="870" width="120" height="73" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-21" value="根据用户id获取新头像地址，以文件流形式返回给客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1190" width="120" height="73" as="geometry" />
+          <mxGeometry x="110" y="1160" width="120" height="73" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-23" target="-lB4kjHzXIk1H-RmrJiI-21">
           <mxGeometry relative="1" as="geometry" />
