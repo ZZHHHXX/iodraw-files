@@ -1479,7 +1479,7 @@
           <mxGeometry x="890" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cedh_nmXvWvuPfYAUGAh-2" value="查看会议历史消息，与查看历史会议记录类似" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="431.25" y="40" width="100" height="50" as="geometry" />
+          <mxGeometry x="890" y="130" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
