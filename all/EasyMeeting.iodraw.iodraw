@@ -678,10 +678,13 @@
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-18" value="禁止邀请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="620" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HYhKoGKKwyB6WTx5W4VN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HYhKoGKKwyB6WTx5W4VN-22" target="HYhKoGKKwyB6WTx5W4VN-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-22" value="允许邀请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYhKoGKKwyB6WTx5W4VN-25" value="提交选中的待邀请好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYhKoGKKwyB6WTx5W4VN-25" value="提交选中的待邀请好友列表，向后端发送邀请好友请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
