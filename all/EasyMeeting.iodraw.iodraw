@@ -235,12 +235,6 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-38" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1032.5" y="1604" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="B1zyvEB8MiUHR75yqqEK-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="906.25" y="450" as="sourcePoint" />
-            <mxPoint x="906.25" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-40" value="发送预约校验请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="510" width="120" height="60" as="geometry" />
         </mxCell>
@@ -257,22 +251,11 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B1zyvEB8MiUHR75yqqEK-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="906.25" y="620" as="sourcePoint" />
-            <mxPoint x="906.25" y="660" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="B1zyvEB8MiUHR75yqqEK-49" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B1zyvEB8MiUHR75yqqEK-48">
-          <mxGeometry x="-0.3" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-43" target="B1zyvEB8MiUHR75yqqEK-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-43" value="是否有未结束会议？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="847.5" y="620" width="125" height="120" as="geometry" />
+          <mxGeometry x="847.5" y="640" width="125" height="120" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-47" target="B1zyvEB8MiUHR75yqqEK-50">
           <mxGeometry relative="1" as="geometry" />
