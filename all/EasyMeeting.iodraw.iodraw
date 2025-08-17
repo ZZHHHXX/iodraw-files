@@ -1004,7 +1004,7 @@
         <mxCell id="4maj9624t6BSzMeDCjVF-11" value="将屏幕捕获的视频流加入本地音视频轨道中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2145" y="1220" width="120" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="4maj9624t6BSzMeDCjVF-17" value="应用createEmptyVideoTrack方法创建并添加空视频轨道到本地媒体流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4maj9624t6BSzMeDCjVF-17" value="遍历本地媒体流，开启音频轨道和视频轨道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2570" y="820" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4maj9624t6BSzMeDCjVF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.029;entryY=0.318;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4maj9624t6BSzMeDCjVF-1" target="4maj9624t6BSzMeDCjVF-17">
