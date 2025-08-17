@@ -1488,31 +1488,10 @@
           <mxGeometry x="421.25" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cedh_nmXvWvuPfYAUGAh-21" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="421.25" y="680" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="cedh_nmXvWvuPfYAUGAh-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-23" target="cedh_nmXvWvuPfYAUGAh-30">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="421.25" y="350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cedh_nmXvWvuPfYAUGAh-23" value="打开媒体详情窗口，传递相关参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="411.25" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cedh_nmXvWvuPfYAUGAh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-30" target="cedh_nmXvWvuPfYAUGAh-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cedh_nmXvWvuPfYAUGAh-30" value="向后端发送加载一页数据请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cedh_nmXvWvuPfYAUGAh-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-32" target="cedh_nmXvWvuPfYAUGAh-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cedh_nmXvWvuPfYAUGAh-32" value="根据当前用户id以及页码号，按照会议创建时间降序排列会议信息列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="411.25" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cedh_nmXvWvuPfYAUGAh-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-34" target="cedh_nmXvWvuPfYAUGAh-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cedh_nmXvWvuPfYAUGAh-34" value="返回会议信息列表数据给客户端，与客户端现有数据进行拼接，实现分页加载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="411.25" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cedh_nmXvWvuPfYAUGAh-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cedh_nmXvWvuPfYAUGAh-35" target="cedh_nmXvWvuPfYAUGAh-23">
           <mxGeometry relative="1" as="geometry" />
