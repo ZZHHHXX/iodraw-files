@@ -884,14 +884,6 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-63" value="向主进程发送获取设置事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="692.5" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-66" target="-lB4kjHzXIk1H-RmrJiI-61">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-73" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lB4kjHzXIk1H-RmrJiI-64">
-          <mxGeometry x="-0.7091" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-65" value="读取指定目录下的配置文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="692.5" y="210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -911,6 +903,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-66" target="-lB4kjHzXIk1H-RmrJiI-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-66" value="文件不存在？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="300" width="145" height="120" as="geometry" />
         </mxCell>
@@ -920,8 +915,11 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-70" value="读取文件的配置信息返回给子组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-74" target="-lB4kjHzXIk1H-RmrJiI-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-74" value="读取文件的配置信息返回给子组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="692.5" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="692.5" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
