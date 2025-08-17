@@ -655,7 +655,7 @@
         <mxCell id="nNt73_yMm7PDLeFiJc6F-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-22" target="nNt73_yMm7PDLeFiJc6F-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nNt73_yMm7PDLeFiJc6F-22" value="将所有" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nNt73_yMm7PDLeFiJc6F-22" value="将所有会议成员的参会状态改为已结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nNt73_yMm7PDLeFiJc6F-23" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
