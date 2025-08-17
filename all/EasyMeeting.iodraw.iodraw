@@ -1425,7 +1425,7 @@
           <mxGeometry x="90" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oyRHti0OkECOJBHK_bnu-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="88.75" y="640" width="100" height="50" as="geometry" />
+          <mxGeometry x="80" y="680" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EqCZR8qy4ytk6R38yizG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyRHti0OkECOJBHK_bnu-6" target="EqCZR8qy4ytk6R38yizG-5">
           <mxGeometry relative="1" as="geometry" />
@@ -1463,8 +1463,8 @@
         <mxCell id="EqCZR8qy4ytk6R38yizG-7" value="根据当前用户id以及页码号，按照会议创建时间降序排列会议信息列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EqCZR8qy4ytk6R38yizG-9" value="根据当前用户id以及页码号，按照会议创建时间降序排列会议信息列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="EqCZR8qy4ytk6R38yizG-9" value="返回前端会议信息列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
