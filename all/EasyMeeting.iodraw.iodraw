@@ -825,7 +825,7 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-21" value="根据用户id获取新头像地址，以文件流形式返回给客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="1070" width="120" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-23" value="当前路径是否存在头像" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="960" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
