@@ -310,6 +310,9 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-69" value="查询最近一次创建的当前会议号会议信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1022.5" y="870" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-71" value="查询最近一次创建的当前会议号会议信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1032.5" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
