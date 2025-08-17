@@ -1412,9 +1412,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oyRHti0OkECOJBHK_bnu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyRHti0OkECOJBHK_bnu-2">
+        <mxCell id="oyRHti0OkECOJBHK_bnu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyRHti0OkECOJBHK_bnu-2" target="EqCZR8qy4ytk6R38yizG-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="105" />
+              <mxPoint x="141" y="105" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oyRHti0OkECOJBHK_bnu-2" value="查看历史会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1423,16 +1427,11 @@
         <mxCell id="oyRHti0OkECOJBHK_bnu-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="320" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oyRHti0OkECOJBHK_bnu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="oyRHti0OkECOJBHK_bnu-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="180" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oyRHti0OkECOJBHK_bnu-6" value="打开会议房间新窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EqCZR8qy4ytk6R38yizG-1" value="是否获取到麦克风设备？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="210" width="122.5" height="90" as="geometry" />
+          <mxGeometry x="78.75" y="135" width="122.5" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
