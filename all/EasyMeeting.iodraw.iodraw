@@ -1157,7 +1157,7 @@
           <mxGeometry x="2030" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-182" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="685" width="100" height="50" as="geometry" />
+          <mxGeometry x="2028.75" y="730" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-184" target="-lB4kjHzXIk1H-RmrJiI-186">
           <mxGeometry relative="1" as="geometry" />
@@ -1181,13 +1181,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-193" value="父组件接收该屏幕id数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2018.75" y="605" width="120" height="60" as="geometry" />
+          <mxGeometry x="2020" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-196" target="-lB4kjHzXIk1H-RmrJiI-193">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-196" value="设置默认选择录制的屏幕id为第一个对象的屏幕id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2021.25" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-197" target="-lB4kjHzXIk1H-RmrJiI-196">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-202" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lB4kjHzXIk1H-RmrJiI-201">
+          <mxGeometry x="-0.4349" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-197" value="是否选择录制屏幕" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2018.75" y="385" width="122.5" height="90" as="geometry" />
