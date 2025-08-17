@@ -1026,7 +1026,7 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-116" target="-lB4kjHzXIk1H-RmrJiI-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-116" value="修改主窗口大小，关闭除主窗口外的所有窗口，关闭ws连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-116" value="从工具运行日志中的stderr流中获取录制时间信息，发送给录屏组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-118" target="-lB4kjHzXIk1H-RmrJiI-104">
