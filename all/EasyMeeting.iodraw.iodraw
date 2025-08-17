@@ -1049,7 +1049,7 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-119" value="是否开启麦克风？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1308.75" y="100" width="122.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-124" value="验证当前用户登陆状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-124" value="获取麦克风设备信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
