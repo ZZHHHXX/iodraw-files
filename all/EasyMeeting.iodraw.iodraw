@@ -604,7 +604,7 @@
         <mxCell id="nNt73_yMm7PDLeFiJc6F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-2" target="nNt73_yMm7PDLeFiJc6F-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nNt73_yMm7PDLeFiJc6F-2" value="加入会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nNt73_yMm7PDLeFiJc6F-2" value="加载今日会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nNt73_yMm7PDLeFiJc6F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNt73_yMm7PDLeFiJc6F-4" target="nNt73_yMm7PDLeFiJc6F-6">
