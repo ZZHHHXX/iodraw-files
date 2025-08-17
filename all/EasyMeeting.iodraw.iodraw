@@ -133,7 +133,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-2" value="输入表单信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-4" target="B1zyvEB8MiUHR75yqqEK-6">
           <mxGeometry relative="1" as="geometry" />
