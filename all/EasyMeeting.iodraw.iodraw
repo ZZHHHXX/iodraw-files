@@ -1320,7 +1320,7 @@
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-268" value="设置分析器的fftSize=2048" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lB4kjHzXIk1H-RmrJiI-269" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-277" target="-lB4kjHzXIk1H-RmrJiI-272">
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-269" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-281" target="-lB4kjHzXIk1H-RmrJiI-272">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-270" target="-lB4kjHzXIk1H-RmrJiI-276">
@@ -1352,6 +1352,15 @@
         </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-277" value="根据波形数据计算音量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1880" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-282" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-277" target="-lB4kjHzXIk1H-RmrJiI-281">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2000" y="1200" as="sourcePoint" />
+            <mxPoint x="2280" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-281" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
