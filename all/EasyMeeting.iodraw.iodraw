@@ -853,17 +853,17 @@
         <mxCell id="5YToGlwveUYebJgSXGtC-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YToGlwveUYebJgSXGtC-44" target="5YToGlwveUYebJgSXGtC-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5YToGlwveUYebJgSXGtC-44" value="显示当前用户单元格的内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1775" y="90" width="100" height="50" as="geometry" />
+        <mxCell id="5YToGlwveUYebJgSXGtC-44" value="显示其他成员单元格的内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1765" y="570" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-45" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1777.5" y="450" width="100" height="50" as="geometry" />
+          <mxGeometry x="1767.5" y="930" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YToGlwveUYebJgSXGtC-47" target="5YToGlwveUYebJgSXGtC-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-47" value="显示摄像头、用户昵称以及用户性别图标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="330" width="90" height="50" as="geometry" />
+          <mxGeometry x="1770" y="810" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YToGlwveUYebJgSXGtC-52" target="5YToGlwveUYebJgSXGtC-47">
           <mxGeometry relative="1" as="geometry" />
@@ -882,17 +882,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-52" value="&lt;font face=&quot;JetBrains Mono, Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;当前用户是否禁用了屏幕共享或者&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;JetBrains Mono, Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;启用并开启了摄像头？&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="175" width="235" height="90" as="geometry" />
+          <mxGeometry x="1700" y="655" width="235" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YToGlwveUYebJgSXGtC-54" target="5YToGlwveUYebJgSXGtC-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2015" y="475" />
+              <mxPoint x="2005" y="955" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-54" value="显示用户头像、用户昵称以及用户性别图标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="330" width="90" height="50" as="geometry" />
+          <mxGeometry x="1960" y="810" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
