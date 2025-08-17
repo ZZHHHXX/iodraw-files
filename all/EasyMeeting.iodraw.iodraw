@@ -254,14 +254,19 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-43" target="B1zyvEB8MiUHR75yqqEK-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-104" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B1zyvEB8MiUHR75yqqEK-90">
+          <mxGeometry x="-0.36" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-43" value="是否有未结束会议？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="847.5" y="640" width="125" height="120" as="geometry" />
+          <mxGeometry x="845" y="620" width="125" height="120" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-47" target="B1zyvEB8MiUHR75yqqEK-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-47" value="检查会议是否存在&lt;div&gt;检查用户是否在该会议黑名单内&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="847.5" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-50" target="B1zyvEB8MiUHR75yqqEK-92">
           <mxGeometry relative="1" as="geometry" />
