@@ -458,7 +458,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="footer" id="Hz80GQ1L4zRAwvdXEK-R">
-    <mxGraphModel dx="2049" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -757,7 +757,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="9UagJAlGM2B9hRu19fGS" name="UpdateUser">
+  <diagram id="9UagJAlGM2B9hRu19fGS" name="screen">
     <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
