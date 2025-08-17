@@ -625,7 +625,7 @@
           <mxGeometry x="1160" y="100" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="860" width="100" height="50" as="geometry" />
+          <mxGeometry x="1160" y="1155" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HYhKoGKKwyB6WTx5W4VN-5" target="HYhKoGKKwyB6WTx5W4VN-6">
           <mxGeometry relative="1" as="geometry" />
@@ -671,7 +671,7 @@
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HYhKoGKKwyB6WTx5W4VN-18" target="HYhKoGKKwyB6WTx5W4VN-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1370" y="885" />
+              <mxPoint x="1370" y="1180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -684,8 +684,14 @@
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-22" value="允许邀请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="620" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HYhKoGKKwyB6WTx5W4VN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HYhKoGKKwyB6WTx5W4VN-25" target="HYhKoGKKwyB6WTx5W4VN-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HYhKoGKKwyB6WTx5W4VN-25" value="提交选中的待邀请好友列表，向后端发送邀请好友请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HYhKoGKKwyB6WTx5W4VN-27" value="提交选中的待邀请好友列表，向后端发送邀请好友请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
