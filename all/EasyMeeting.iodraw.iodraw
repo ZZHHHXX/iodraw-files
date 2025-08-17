@@ -456,7 +456,7 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-127" value="发送后端创建预约会议请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1672.5" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B1zyvEB8MiUHR75yqqEK-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-132" target="B1zyvEB8MiUHR75yqqEK-134">
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-132" target="B1zyvEB8MiUHR75yqqEK-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-132" value="创建并存储会议预约信息到数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -477,8 +477,11 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-137" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1682.5" y="790" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="B1zyvEB8MiUHR75yqqEK-139" value="创建并存储会议预约信息到数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1682.5" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-139" value="根据邀请人id列表建立预约会议id与用户id的映射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1672.5" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-141" value="根据邀请人id列表建立预约会议id与用户id的映射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1682.5" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
