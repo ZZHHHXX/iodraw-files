@@ -141,8 +141,8 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-4" value="发送后端请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B1zyvEB8MiUHR75yqqEK-6" value="是否有未结束会议" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="420" width="110" height="100" as="geometry" />
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-6" value="是否有未结束会议？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="420" width="125" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
