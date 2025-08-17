@@ -346,6 +346,9 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-76" value="查询最近一次创建的当前会议号会议信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1022.5" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-79" value="是否有未结束会议？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="857.5" y="630" width="125" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
