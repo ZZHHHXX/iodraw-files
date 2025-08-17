@@ -394,6 +394,9 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-107" value="加入会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1372.5" y="40" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="54Tbc6yO-9ldTmLmHYkY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-109" target="54Tbc6yO-9ldTmLmHYkY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-109" value="接收子组件的加入会议事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1362.5" y="130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -455,10 +458,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="54Tbc6yO-9ldTmLmHYkY-3" value="复用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1362.5" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="1362.5" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="54Tbc6yO-9ldTmLmHYkY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="54Tbc6yO-9ldTmLmHYkY-7" target="54Tbc6yO-9ldTmLmHYkY-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="54Tbc6yO-9ldTmLmHYkY-7" value="判断是否需要以共享屏幕方式进入会议" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1357.5" y="210" width="125" height="120" as="geometry" />
+          <mxGeometry x="1360" y="210" width="125" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
