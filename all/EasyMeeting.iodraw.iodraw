@@ -164,8 +164,14 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-12" value="设置当前用户的参加会议id为当前会议id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="700" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-15" target="B1zyvEB8MiUHR75yqqEK-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-15" value="向父组件发送加入会议事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="797" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-17" value="快速会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="890" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
