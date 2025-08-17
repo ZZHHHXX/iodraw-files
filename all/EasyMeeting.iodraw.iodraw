@@ -1197,8 +1197,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lB4kjHzXIk1H-RmrJiI-197" target="-lB4kjHzXIk1H-RmrJiI-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-lB4kjHzXIk1H-RmrJiI-197" value="是否选择录制屏幕" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2018.75" y="385" width="122.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-lB4kjHzXIk1H-RmrJiI-204" value="是" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
