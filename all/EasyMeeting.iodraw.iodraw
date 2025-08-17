@@ -270,14 +270,14 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-47" value="检查会议是否存在&lt;div&gt;检查用户是否在该会议黑名单内&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B1zyvEB8MiUHR75yqqEK-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-50" target="B1zyvEB8MiUHR75yqqEK-52">
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-50" target="B1zyvEB8MiUHR75yqqEK-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-50" value="验证预约会议是否存在&lt;div&gt;验证是否邀请该用户&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B1zyvEB8MiUHR75yqqEK-52" value="是否有当前会议信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="970" width="120" height="60" as="geometry" />
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-54" value="是否有未结束会议？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="847.5" y="970" width="125" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
