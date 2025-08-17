@@ -1010,6 +1010,9 @@
         <mxCell id="4maj9624t6BSzMeDCjVF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.029;entryY=0.318;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4maj9624t6BSzMeDCjVF-1" target="4maj9624t6BSzMeDCjVF-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4maj9624t6BSzMeDCjVF-20" value="将屏幕捕获的视频流加入本地音视频轨道中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2155" y="1230" width="120" height="75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
