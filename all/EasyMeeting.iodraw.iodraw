@@ -239,6 +239,19 @@
         <mxCell id="B1zyvEB8MiUHR75yqqEK-40" value="发送预约校验请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B1zyvEB8MiUHR75yqqEK-43" target="B1zyvEB8MiUHR75yqqEK-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="680" />
+              <mxPoint x="790" y="935" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B1zyvEB8MiUHR75yqqEK-46" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B1zyvEB8MiUHR75yqqEK-45">
+          <mxGeometry x="-0.9081" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="B1zyvEB8MiUHR75yqqEK-43" value="是否有未结束会议？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="847.5" y="620" width="125" height="120" as="geometry" />
         </mxCell>
