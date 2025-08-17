@@ -1373,23 +1373,23 @@
         <mxCell id="2gYBbsuPBWGhNUeVoowC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2gYBbsuPBWGhNUeVoowC-2" target="2gYBbsuPBWGhNUeVoowC-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2gYBbsuPBWGhNUeVoowC-2" value="分享会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="40" width="100" height="50" as="geometry" />
+        <mxCell id="2gYBbsuPBWGhNUeVoowC-2" value="打开会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2gYBbsuPBWGhNUeVoowC-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="300" width="100" height="50" as="geometry" />
+          <mxGeometry x="90" y="300" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2gYBbsuPBWGhNUeVoowC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2gYBbsuPBWGhNUeVoowC-5" target="2gYBbsuPBWGhNUeVoowC-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2gYBbsuPBWGhNUeVoowC-5" value="弹出会议信息表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2gYBbsuPBWGhNUeVoowC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2gYBbsuPBWGhNUeVoowC-7" target="2gYBbsuPBWGhNUeVoowC-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2gYBbsuPBWGhNUeVoowC-7" value="点击复制会议信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
