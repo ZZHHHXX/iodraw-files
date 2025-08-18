@@ -1198,7 +1198,7 @@
         <mxCell id="hLySmFFW5icyU2o8d8Cf-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.413;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-75" target="hLySmFFW5icyU2o8d8Cf-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hLySmFFW5icyU2o8d8Cf-86" value="更新sotre中会议成员列表和在会成员列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hLySmFFW5icyU2o8d8Cf-86" value="peerMap中删除退出会议的用户的peerConnection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3440" y="930" width="105" height="80" as="geometry" />
         </mxCell>
       </root>
