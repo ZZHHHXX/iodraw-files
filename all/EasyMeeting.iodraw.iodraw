@@ -3284,19 +3284,11 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-22" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320.63" y="510" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369.375" y="240" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-24" target="yDtU1f3jBkcqOLF0I0uF-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-24" value="弹出确认提示框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="135" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="yDtU1f3jBkcqOLF0I0uF-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369.4000000000001" y="320" as="sourcePoint" />
-            <mxPoint x="369.75" y="555" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-28" target="yDtU1f3jBkcqOLF0I0uF-22">
           <mxGeometry relative="1" as="geometry" />
@@ -3304,8 +3296,11 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-28" value="客户端存储原始关系列表和当前关系列表的值均为后端返回内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311.25" y="360" width="118.75" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-29" value="向后端发送加载联系人请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-29" target="yDtU1f3jBkcqOLF0I0uF-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-29" value="向后端发送删除联系人请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
