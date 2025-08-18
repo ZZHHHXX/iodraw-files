@@ -2701,11 +2701,16 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-106" value="img标签存储该视频生成的缩略图内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="1042" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="1400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-110" value="点击消息内容触发聊天框组件的媒体展示事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="1190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-115" value="点击消息内容触发聊天框组件的媒体展示事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
