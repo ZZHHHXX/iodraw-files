@@ -2371,6 +2371,9 @@
         <mxCell id="2gYBbsuPBWGhNUeVoowC-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="690" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="2ntpSZpgmh_149rZpsHv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ntpSZpgmh_149rZpsHv-1" target="2ntpSZpgmh_149rZpsHv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2ntpSZpgmh_149rZpsHv-1" value="获取当前页码数量+1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="300" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2398,8 +2401,8 @@
         <mxCell id="2ntpSZpgmh_149rZpsHv-3" value="判断当前消息页码是否为最后一页" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="120" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="2ntpSZpgmh_149rZpsHv-10" value="获取当前页码数量+1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="2ntpSZpgmh_149rZpsHv-10" value="向后端发送loadMessage请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
