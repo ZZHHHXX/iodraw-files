@@ -1465,10 +1465,10 @@
           <mxGeometry x="4080" y="225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kcJZA09U7jp4MI32YFPc-13" value="新建RTCPeerconnection对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4090" y="235" width="120" height="60" as="geometry" />
+          <mxGeometry x="4080" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kcJZA09U7jp4MI32YFPc-14" value="新建RTCPeerconnection对象" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="4080" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="kcJZA09U7jp4MI32YFPc-14" value="检验摄像头和麦克风是否启用，未启用则设置仅接收该媒体流" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="4080" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
