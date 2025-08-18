@@ -1467,6 +1467,9 @@
         <mxCell id="kcJZA09U7jp4MI32YFPc-13" value="新建RTCPeerconnection对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4080" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-14" target="kcJZA09U7jp4MI32YFPc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kcJZA09U7jp4MI32YFPc-14" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;检验摄像头和麦克风是否启用，未启用则设置仅接收该媒体流&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4080" y="320" width="120" height="60" as="geometry" />
         </mxCell>
