@@ -1103,8 +1103,13 @@
             <mxPoint x="2910" y="750" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hLySmFFW5icyU2o8d8Cf-34" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hLySmFFW5icyU2o8d8Cf-31">
+          <mxGeometry x="-0.4155" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-30" value="已入会的成员向新加入成员发送offer，建立P2P连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2857.5" y="787" width="105" height="80" as="geometry" />
+          <mxGeometry x="2857.5" y="900" width="105" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-32" value="新加入的用户建立新的PeerConnection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3140" y="685" width="105" height="80" as="geometry" />
