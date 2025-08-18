@@ -3385,6 +3385,14 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-65" target="yDtU1f3jBkcqOLF0I0uF-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-65" target="yDtU1f3jBkcqOLF0I0uF-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-72" value="拉黑" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yDtU1f3jBkcqOLF0I0uF-71">
+          <mxGeometry x="-0.335" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-65" value="判断申请状态？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="630" width="164.37" height="120" as="geometry" />
         </mxCell>
@@ -3392,7 +3400,7 @@
           <mxGeometry x="752.81" y="802" width="118.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-70" value="显示已是联系人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="762.81" y="812" width="118.75" height="50" as="geometry" />
+          <mxGeometry x="990" y="680" width="118.75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
