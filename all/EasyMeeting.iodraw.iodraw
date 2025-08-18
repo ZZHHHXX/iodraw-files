@@ -1492,10 +1492,16 @@
         <mxCell id="kcJZA09U7jp4MI32YFPc-19" value="ICE候选生成时向后端发送peerMessage给对等客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4080" y="601" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-21" target="kcJZA09U7jp4MI32YFPc-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kcJZA09U7jp4MI32YFPc-21" value="监听远程传递的媒体流，将该媒体流绑定到相应的video元素上" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4080" y="691" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kcJZA09U7jp4MI32YFPc-23" value="将本地客户端的媒体流加入到peerConnection中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kcJZA09U7jp4MI32YFPc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-23" target="kcJZA09U7jp4MI32YFPc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-23" value="将本地客户端的媒体流以及轨道加入到peerConnection中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4080" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
