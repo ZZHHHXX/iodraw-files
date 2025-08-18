@@ -1162,7 +1162,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-73" value="向父组件发送退出会议事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3247.5" y="710" width="105" height="80" as="geometry" />
+          <mxGeometry x="3247.5" y="710" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-75" target="hLySmFFW5icyU2o8d8Cf-63">
           <mxGeometry relative="1" as="geometry">
@@ -1194,7 +1194,7 @@
           <mxGeometry x="3182.5" y="505" width="235" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-82" value="关闭当前会议窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3247.5" y="830" width="105" height="80" as="geometry" />
+          <mxGeometry x="3247.5" y="815" width="105" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
