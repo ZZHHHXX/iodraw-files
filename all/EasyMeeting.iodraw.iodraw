@@ -1111,8 +1111,16 @@
         <mxCell id="hLySmFFW5icyU2o8d8Cf-30" value="所有在会成员都要向自己发送offer,建立P2P连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2857.5" y="900" width="105" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hLySmFFW5icyU2o8d8Cf-32" value="新加入的用户建立新的PeerConnection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3050" y="800" width="105" height="80" as="geometry" />
+        <mxCell id="hLySmFFW5icyU2o8d8Cf-32" value="仅当前客户端用户向该新加入成员发送offer，建立P2P连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3050" y="900" width="105" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hLySmFFW5icyU2o8d8Cf-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-33" target="hLySmFFW5icyU2o8d8Cf-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hLySmFFW5icyU2o8d8Cf-36" value="其他人" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hLySmFFW5icyU2o8d8Cf-35">
+          <mxGeometry x="-0.4338" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-33" value="&lt;font face=&quot;JetBrains Mono, Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;判断加入会议的用户是自己还是其他人？&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2790" y="670" width="235" height="90" as="geometry" />
