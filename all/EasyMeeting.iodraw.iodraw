@@ -3330,7 +3330,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-46" value="显示申请好友按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="492.52" y="760" width="118.75" height="80" as="geometry" />
+          <mxGeometry x="492.51" y="730" width="118.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-47">
           <mxGeometry relative="1" as="geometry">
@@ -3373,6 +3373,9 @@
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-59" value="判断是否已经对该用户&lt;div&gt;发送过申请？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="469.08" y="540" width="164.37" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-62" value="显示申请好友按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="730" width="118.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
