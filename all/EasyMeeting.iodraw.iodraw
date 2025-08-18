@@ -1361,8 +1361,8 @@
         <mxCell id="tc6KjgsfTgoz8ov0w2au-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tc6KjgsfTgoz8ov0w2au-2" target="gkZf2nvhmx-jP5xhtsGe-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3836" y="419" />
-              <mxPoint x="3836" y="937" />
+              <mxPoint x="3970" y="419" />
+              <mxPoint x="3970" y="937" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1388,14 +1388,17 @@
         <mxCell id="tc6KjgsfTgoz8ov0w2au-5" value="从在线成员列表中找到关闭摄像头的成员信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3642.5" y="514" width="117.5" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="tc6KjgsfTgoz8ov0w2au-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tc6KjgsfTgoz8ov0w2au-12" target="tc6KjgsfTgoz8ov0w2au-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tc6KjgsfTgoz8ov0w2au-12" value="修改该成员的openVideo状态为改变后的状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3642.5" y="583" width="117.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="tc6KjgsfTgoz8ov0w2au-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3990" y="683" width="117.5" height="46" as="geometry" />
+          <mxGeometry x="3820" y="751" width="117.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="tc6KjgsfTgoz8ov0w2au-15" value="判断该成员是否是当前客户端中选中的成员？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3591.25" y="705" width="235" height="90" as="geometry" />
+          <mxGeometry x="3583.75" y="661" width="235" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
