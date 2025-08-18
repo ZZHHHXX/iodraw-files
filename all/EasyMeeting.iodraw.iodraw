@@ -1494,6 +1494,9 @@
         <mxCell id="kcJZA09U7jp4MI32YFPc-21" value="监听远程传递的媒体流，将该媒体流绑定到相应的video元素上" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4080" y="691" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-23" value="监听远程传递的媒体流，将该媒体流绑定到相应的video元素上" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4080" y="759" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
