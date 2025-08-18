@@ -2635,6 +2635,9 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-10" target="x9ww2Ecb8xyscnFMObU9-86">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="531" y="667" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="535" y="545" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-85" value="视频或图片" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9ww2Ecb8xyscnFMObU9-84">
@@ -2642,7 +2645,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-86" value="文件是否已下载？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-86" value="该消息是图片还是视频？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="670" width="210" height="130" as="geometry" />
         </mxCell>
       </root>
