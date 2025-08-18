@@ -2877,7 +2877,7 @@
           <mxGeometry x="1580" y="802" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-178" value="判断上传的文件是文件还是视频" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="150" width="210" height="130" as="geometry" />
+          <mxGeometry x="1140" y="290" width="210" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
