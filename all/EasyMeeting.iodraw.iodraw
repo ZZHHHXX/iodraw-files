@@ -2502,7 +2502,7 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-19" value="识别消息发送者？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="120" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-23" value="将该消息样式归类到右侧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-23" value="将该消息样式归类到消息列表右侧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
