@@ -1172,7 +1172,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-75" value="仅当前客户端用户向该新加入成员发送offer，建立P2P连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3440" y="910" width="105" height="80" as="geometry" />
+          <mxGeometry x="3440" y="695" width="105" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-78" target="hLySmFFW5icyU2o8d8Cf-75">
           <mxGeometry relative="1" as="geometry" />
