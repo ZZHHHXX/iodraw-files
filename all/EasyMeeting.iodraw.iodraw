@@ -3330,13 +3330,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-46" value="重新加载联系人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="491.26" y="580" width="118.75" height="80" as="geometry" />
+          <mxGeometry x="490" y="590" width="118.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-47" value="判断搜索的用户id是否是自己？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="467.82" y="350" width="164.37" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.488;entryY=0.058;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-44" target="yDtU1f3jBkcqOLF0I0uF-47">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-49" value="重新加载联系人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="491.26" y="490" width="118.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
