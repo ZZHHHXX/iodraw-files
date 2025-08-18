@@ -1346,10 +1346,13 @@
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-55" value="向主页窗口发送用户离开事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2856.25" y="1522.5" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="gkZf2nvhmx-jP5xhtsGe-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkZf2nvhmx-jP5xhtsGe-57" target="gkZf2nvhmx-jP5xhtsGe-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-57" value="更新meetingStore中的入会状态为false" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2854.38" y="1604" width="93.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gkZf2nvhmx-jP5xhtsGe-59" value="当前用户客户端向父组件发送退出会议事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gkZf2nvhmx-jP5xhtsGe-59" value="弹出会议结束提示框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2840" y="1710" width="117.5" height="40" as="geometry" />
         </mxCell>
       </root>
