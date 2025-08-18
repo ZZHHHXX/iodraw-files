@@ -2788,7 +2788,7 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-149" target="x9ww2Ecb8xyscnFMObU9-164">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-149" value="上传文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-149" value="发送消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="200" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-150" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
