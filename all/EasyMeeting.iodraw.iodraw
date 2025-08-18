@@ -1251,7 +1251,7 @@
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gkZf2nvhmx-jP5xhtsGe-17" target="gkZf2nvhmx-jP5xhtsGe-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gkZf2nvhmx-jP5xhtsGe-17" value="关闭会议房间窗口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gkZf2nvhmx-jP5xhtsGe-17" value="父组件更新该成员的摄像头状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3632.5" y="978.5" width="117.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gkZf2nvhmx-jP5xhtsGe-19" target="gkZf2nvhmx-jP5xhtsGe-15" edge="1">
