@@ -2432,13 +2432,13 @@
           <mxGeometry x="685" y="30" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="685" y="900" width="100" height="50" as="geometry" />
+          <mxGeometry x="685" y="1110" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-5" target="x9ww2Ecb8xyscnFMObU9-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-5" value="直接显示文本内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="675" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="675" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-10" target="x9ww2Ecb8xyscnFMObU9-5">
           <mxGeometry relative="1" as="geometry" />
@@ -2495,8 +2495,14 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-31" value="显示文件名称、文件大小" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-34" target="x9ww2Ecb8xyscnFMObU9-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-34" value="文件是否已下载？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="835" y="750" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-36" value="直接显示文本内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
