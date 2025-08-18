@@ -2489,7 +2489,7 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-25" value="将该消息样式归类到消息列表左侧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="675" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-31" value="直接显示文本内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-31" value="显示文件名称、文件大小" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
