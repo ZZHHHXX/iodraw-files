@@ -2867,6 +2867,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-179" target="x9ww2Ecb8xyscnFMObU9-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-187" value="文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9ww2Ecb8xyscnFMObU9-186">
+          <mxGeometry x="-0.5485" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-179" value="判断上传的文件是文件还是视频" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1535" y="910" width="210" height="130" as="geometry" />
         </mxCell>
@@ -2874,7 +2882,7 @@
           <mxGeometry x="1580" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-185" value="向后端发送loadMessage请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1375" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="1790" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
