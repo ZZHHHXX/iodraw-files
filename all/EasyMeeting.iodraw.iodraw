@@ -2544,8 +2544,8 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-47" value="文件图标底部显示下载进度，不存在为0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-52" value="文件是否已下载？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="1130" width="210" height="130" as="geometry" />
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-52" value="文件是否已经开始下载？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="1040" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-53" value="点击图标下载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="1030" width="120" height="60" as="geometry" />
