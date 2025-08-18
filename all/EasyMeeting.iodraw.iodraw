@@ -1102,7 +1102,7 @@
         <mxCell id="hLySmFFW5icyU2o8d8Cf-28" value="新加入的用户建立新的PeerConnection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2857.5" y="670" width="105" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hLySmFFW5icyU2o8d8Cf-30" value="已入会的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hLySmFFW5icyU2o8d8Cf-30" value="已入会的成员向新加入成员发送offer，建立P2P连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2857.5" y="787" width="105" height="80" as="geometry" />
         </mxCell>
       </root>
