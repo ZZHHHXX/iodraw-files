@@ -2870,8 +2870,8 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-173" value="封装消息信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1580" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-176" value="封装消息信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-176" value="校验消息类型和接收者等内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="802" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
