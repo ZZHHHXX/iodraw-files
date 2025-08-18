@@ -2547,7 +2547,7 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-47" value="文件图标底部显示下载进度，不存在为0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-50" value="文件图标底部显示下载进度，不存在为0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-50" value="点击图标下载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
