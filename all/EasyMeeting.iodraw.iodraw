@@ -3574,8 +3574,14 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-141" value="修改申请状态为拉黑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2000" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-144" value="插入或更新两条好友申请信息，表示不同方向" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-144" target="yDtU1f3jBkcqOLF0I0uF-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-144" value="插入或更新两条好友申请信息，表示不同方向的申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1810" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-148" value="插入或更新两条好友申请信息，表示不同方向的申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
