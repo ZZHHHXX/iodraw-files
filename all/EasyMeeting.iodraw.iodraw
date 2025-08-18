@@ -1563,7 +1563,7 @@
         <mxCell id="kcJZA09U7jp4MI32YFPc-47" value="创建offer对象，强制重新生成ICE候选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4350" y="115" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kcJZA09U7jp4MI32YFPc-49" value="创建answer对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kcJZA09U7jp4MI32YFPc-49" value="创建answer对象，作为本地描述，同时通过ws请求发送给对等客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4350" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
