@@ -2884,10 +2884,10 @@
           <mxGeometry x="1790" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-188" value="发送消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1395" y="150" width="100" height="50" as="geometry" />
+          <mxGeometry x="1385" y="140" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-189" value="判断上传的文件是文件还是视频" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1545" y="920" width="210" height="130" as="geometry" />
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-189" value="发送文本还是上传文件？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="230" width="210" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
