@@ -1090,20 +1090,24 @@
         <mxCell id="hLySmFFW5icyU2o8d8Cf-24" value="根据加入会议时间进行排序，筛选出入会状态为在会的用户形成一个新的列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2857.5" y="460" width="105" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hLySmFFW5icyU2o8d8Cf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-26" target="hLySmFFW5icyU2o8d8Cf-28">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="hLySmFFW5icyU2o8d8Cf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2910" y="670" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-26" value="将列表信息存储Stroe中共享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2857.5" y="585" width="105" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="hLySmFFW5icyU2o8d8Cf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-28" target="hLySmFFW5icyU2o8d8Cf-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hLySmFFW5icyU2o8d8Cf-28" value="新加入的用户建立新的PeerConnection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2857.5" y="670" width="105" height="80" as="geometry" />
+        <mxCell id="hLySmFFW5icyU2o8d8Cf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="hLySmFFW5icyU2o8d8Cf-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2910" y="750" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-30" value="已入会的成员向新加入成员发送offer，建立P2P连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2857.5" y="787" width="105" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hLySmFFW5icyU2o8d8Cf-32" value="新加入的用户建立新的PeerConnection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2857.5" y="670" width="105" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
