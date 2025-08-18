@@ -1069,13 +1069,16 @@
         <mxCell id="hLySmFFW5icyU2o8d8Cf-2" value="监听用户加入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2860" y="130" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="hLySmFFW5icyU2o8d8Cf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-5" target="hLySmFFW5icyU2o8d8Cf-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-5" value="接收后端发送的用户加入类型消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2865" y="250" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2862.5" y="940" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hLySmFFW5icyU2o8d8Cf-22" value="接收后端发送的用户加入类型消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hLySmFFW5icyU2o8d8Cf-22" value="提取新加入成员信息以及所有房间成员列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2865" y="360" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
