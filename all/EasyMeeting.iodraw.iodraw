@@ -3404,11 +3404,24 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-65" value="判断申请状态？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="630" width="164.37" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-68" target="yDtU1f3jBkcqOLF0I0uF-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-68" value="显示已是联系人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="752.81" y="802" width="118.75" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-70" target="yDtU1f3jBkcqOLF0I0uF-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-70" value="显示已经被拉黑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="680" width="118.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-73" target="yDtU1f3jBkcqOLF0I0uF-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-73" value="显示申请待处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="802" width="118.75" height="50" as="geometry" />
