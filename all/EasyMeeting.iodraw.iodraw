@@ -2374,7 +2374,7 @@
         <mxCell id="XEBgr_VlcvXYIjeOuLM2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2gYBbsuPBWGhNUeVoowC-5" target="2gYBbsuPBWGhNUeVoowC-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2gYBbsuPBWGhNUeVoowC-5" value="打开会议房间新窗口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2gYBbsuPBWGhNUeVoowC-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
