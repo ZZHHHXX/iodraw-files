@@ -1240,7 +1240,7 @@
           <mxGeometry x="3650" y="130" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3648.75" y="911.5" width="100" height="50" as="geometry" />
+          <mxGeometry x="3641.25" y="1041.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tc6KjgsfTgoz8ov0w2au-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkZf2nvhmx-jP5xhtsGe-15" target="tc6KjgsfTgoz8ov0w2au-2">
           <mxGeometry relative="1" as="geometry" />
@@ -1252,7 +1252,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-17" value="关闭会议房间窗口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3640" y="848.5" width="117.5" height="35" as="geometry" />
+          <mxGeometry x="3632.5" y="978.5" width="117.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gkZf2nvhmx-jP5xhtsGe-19" target="gkZf2nvhmx-jP5xhtsGe-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1362,7 +1362,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3970" y="419" />
-              <mxPoint x="3970" y="937" />
+              <mxPoint x="3970" y="1067" />
+              <mxPoint x="3741" y="1067" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1399,7 +1400,7 @@
             <mxPoint x="3878.75" y="751" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3860" y="706" />
-              <mxPoint x="3860" y="866" />
+              <mxPoint x="3860" y="996" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1410,6 +1411,9 @@
         </mxCell>
         <mxCell id="tc6KjgsfTgoz8ov0w2au-15" value="判断该成员是否是当前客户端中选中的成员？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3583.75" y="661" width="235" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tc6KjgsfTgoz8ov0w2au-19" value="关闭会议房间窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3642.5" y="988.5" width="117.5" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
