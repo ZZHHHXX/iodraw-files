@@ -2892,6 +2892,9 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-209" value="通过redis发送给指定用户该消息，并且发送一份消息给自己" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1780" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-211" value="通过redis发送给指定用户该消息，并且发送一份消息给自己" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
