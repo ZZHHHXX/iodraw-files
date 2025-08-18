@@ -2518,28 +2518,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-36" value="文件图标底部显示下载完成文字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1230" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-39" target="x9ww2Ecb8xyscnFMObU9-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-39" value="点击图表打开文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1330" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="2200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-41" target="x9ww2Ecb8xyscnFMObU9-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-41" value="向主进程发送打开本地文件事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1430" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="2300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-43" target="x9ww2Ecb8xyscnFMObU9-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-43" value="打开指定路径的本地文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1530" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="2400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-45" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1650" width="100" height="50" as="geometry" />
+          <mxGeometry x="900" y="2520" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-47" target="x9ww2Ecb8xyscnFMObU9-52">
           <mxGeometry relative="1" as="geometry" />
@@ -2570,7 +2570,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-53" value="文件底部显示进度条，进度条大小与下载进度相关联" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="1230" width="120" height="60" as="geometry" />
+          <mxGeometry x="1100" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-58" target="x9ww2Ecb8xyscnFMObU9-63">
           <mxGeometry relative="1" as="geometry" />
