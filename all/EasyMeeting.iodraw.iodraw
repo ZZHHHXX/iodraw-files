@@ -2369,13 +2369,23 @@
           <mxGeometry x="90" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2gYBbsuPBWGhNUeVoowC-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="460" width="100" height="50" as="geometry" />
+          <mxGeometry x="80" y="690" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2ntpSZpgmh_149rZpsHv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2ntpSZpgmh_149rZpsHv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ntpSZpgmh_149rZpsHv-3" target="2gYBbsuPBWGhNUeVoowC-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="185" />
+              <mxPoint x="265" y="715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ntpSZpgmh_149rZpsHv-7" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2ntpSZpgmh_149rZpsHv-6">
+          <mxGeometry x="-0.5342" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2ntpSZpgmh_149rZpsHv-3" value="判断当前消息页码是否为最后一页" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="120" width="210" height="130" as="geometry" />
