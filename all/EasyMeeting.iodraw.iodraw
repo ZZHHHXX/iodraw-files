@@ -1340,6 +1340,9 @@
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-48" value="更新meetingStore的入会状态为false" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3430" y="385" width="105" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="gkZf2nvhmx-jP5xhtsGe-55" value="向主页窗口发送用户离开事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3265" y="160" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
