@@ -1063,12 +1063,7 @@
         <mxCell id="UUIOTHMob1EuFcujp_iG-9" value="向当前channelGroup中的成员客户端发送加入房间消息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2145" y="1890" width="120" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="hLySmFFW5icyU2o8d8Cf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2913" y="175" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hLySmFFW5icyU2o8d8Cf-2" value="显示当前用户单元格的内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hLySmFFW5icyU2o8d8Cf-2" value="监听用户加入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2860" y="90" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
