@@ -2425,7 +2425,7 @@
         <mxCell id="2ntpSZpgmh_149rZpsHv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2ntpSZpgmh_149rZpsHv-16" target="2gYBbsuPBWGhNUeVoowC-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-2" target="x9ww2Ecb8xyscnFMObU9-10">
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-2" target="x9ww2Ecb8xyscnFMObU9-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-2" value="显示消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2488,8 +2488,11 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-17" target="x9ww2Ecb8xyscnFMObU9-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-19" value="识别消息类型？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="340" width="210" height="130" as="geometry" />
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-19" target="x9ww2Ecb8xyscnFMObU9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-19" value="识别消息发送者？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="120" width="210" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
