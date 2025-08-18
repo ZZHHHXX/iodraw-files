@@ -2417,7 +2417,7 @@
         <mxCell id="2ntpSZpgmh_149rZpsHv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ntpSZpgmh_149rZpsHv-14" target="2ntpSZpgmh_149rZpsHv-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2ntpSZpgmh_149rZpsHv-14" value="客户端遍历每条消息，识别出是本地客户端用户发送的消息内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2ntpSZpgmh_149rZpsHv-14" value="客户端遍历每条消息，标识本地客户端用户发送的消息内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2ntpSZpgmh_149rZpsHv-16" value="客户端遍历每条消息，识别出是本地客户端用户发送的消息内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
