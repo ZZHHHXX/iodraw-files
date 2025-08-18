@@ -1488,6 +1488,9 @@
         <mxCell id="kcJZA09U7jp4MI32YFPc-19" value="ICE候选生成时向后端发送peerMessage给对等客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4080" y="601" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-21" value="ICE候选生成时向后端发送peerMessage给对等客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4080" y="691" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
