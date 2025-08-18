@@ -3451,18 +3451,16 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-85" value="更新相应用户关系数据的状态和更新时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="470" width="118.75" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="yDtU1f3jBkcqOLF0I0uF-85">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1240" y="290" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-89" target="yDtU1f3jBkcqOLF0I0uF-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-89" value="重新加载联系人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="590" width="118.75" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-90" value="判断申请状态？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-90" target="yDtU1f3jBkcqOLF0I0uF-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-90" value="判断对方是否将自己拉黑？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1158.45" y="210" width="164.37" height="120" as="geometry" />
         </mxCell>
       </root>
