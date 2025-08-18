@@ -2843,7 +2843,7 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-162" target="x9ww2Ecb8xyscnFMObU9-150">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-164" value="获取当前页码数量+1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-164" value="文件发送组件触发主进程的选择文件事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1580" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
