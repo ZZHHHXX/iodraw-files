@@ -3371,18 +3371,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-59">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="719.4000000000001" y="730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-64" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yDtU1f3jBkcqOLF0I0uF-63">
-          <mxGeometry x="-0.5133" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-59" value="判断是否已经对该用户&lt;div&gt;发送过申请？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="469.08" y="540" width="164.37" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-65" value="判断是否已经对该用户&lt;div&gt;发送过申请？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="630" width="164.37" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
