@@ -2555,7 +2555,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-52" target="x9ww2Ecb8xyscnFMObU9-58">
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-52" target="x9ww2Ecb8xyscnFMObU9-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-52" value="文件是否已经开始下载？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
