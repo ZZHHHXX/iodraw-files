@@ -1530,7 +1530,7 @@
         <mxCell id="kcJZA09U7jp4MI32YFPc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-38" target="kcJZA09U7jp4MI32YFPc-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcJZA09U7jp4MI32YFPc-38" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;向后端发送ws请求，将消息转发给指定客户端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="kcJZA09U7jp4MI32YFPc-38" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;向后端发送建立peerConnection的ws请求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4350" y="329" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kcJZA09U7jp4MI32YFPc-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-40" target="kcJZA09U7jp4MI32YFPc-42">
