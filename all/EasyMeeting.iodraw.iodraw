@@ -2673,6 +2673,13 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-98" value="以文件流形式返回图片给客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="950" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-99" target="x9ww2Ecb8xyscnFMObU9-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-99" value="img标签存储该图片内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2696,6 +2703,9 @@
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-110" value="点击消息内容触发聊天框组件的媒体展示事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-115" value="点击消息内容触发聊天框组件的媒体展示事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
