@@ -1518,7 +1518,7 @@
         <mxCell id="kcJZA09U7jp4MI32YFPc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-34" target="kcJZA09U7jp4MI32YFPc-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcJZA09U7jp4MI32YFPc-34" value="新建RTCPeerconnection对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kcJZA09U7jp4MI32YFPc-34" value="对应peerConnection添加该offer作为本地描述" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4350" y="234" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kcJZA09U7jp4MI32YFPc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-36" target="kcJZA09U7jp4MI32YFPc-40">
@@ -1556,6 +1556,9 @@
         </mxCell>
         <mxCell id="kcJZA09U7jp4MI32YFPc-46" value="将本地客户端的媒体流以及轨道加入到peerConnection中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4350" y="789" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-47" target="kcJZA09U7jp4MI32YFPc-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kcJZA09U7jp4MI32YFPc-47" value="创建offer对象，强制重新生成ICE候选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4350" y="115" width="120" height="60" as="geometry" />
