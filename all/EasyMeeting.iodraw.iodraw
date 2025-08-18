@@ -3282,7 +3282,7 @@
           <mxGeometry x="320" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-22" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="319.37" y="590" width="100" height="50" as="geometry" />
+          <mxGeometry x="320.63" y="590" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-24" target="yDtU1f3jBkcqOLF0I0uF-29">
           <mxGeometry relative="1" as="geometry" />
@@ -3302,8 +3302,44 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-29" value="向后端发送删除联系人请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-32" target="yDtU1f3jBkcqOLF0I0uF-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-32" value="重新加载联系人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311.25" y="480" width="118.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-37" target="yDtU1f3jBkcqOLF0I0uF-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-37" value="删除或拉黑联系人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="50" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-38" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330.63" y="600" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-40" target="yDtU1f3jBkcqOLF0I0uF-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-40" value="弹出确认提示框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-42" target="yDtU1f3jBkcqOLF0I0uF-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-42" value="更新相应用户关系数据的状态和更新时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321.25" y="370" width="118.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-44" target="yDtU1f3jBkcqOLF0I0uF-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-44" value="向后端发送删除联系人请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-46" target="yDtU1f3jBkcqOLF0I0uF-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-46" value="重新加载联系人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321.25" y="490" width="118.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
