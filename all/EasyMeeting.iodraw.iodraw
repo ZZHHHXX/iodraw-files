@@ -483,7 +483,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="meeting" id="Hz80GQ1L4zRAwvdXEK-R">
-    <mxGraphModel dx="819" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1258,7 +1258,7 @@
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkZf2nvhmx-jP5xhtsGe-19" target="gkZf2nvhmx-jP5xhtsGe-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gkZf2nvhmx-jP5xhtsGe-19" value="接收后端发送的会议结束类型消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gkZf2nvhmx-jP5xhtsGe-19" value="接收后端发送的用户摄像头改变类型消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3653.75" y="210" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
