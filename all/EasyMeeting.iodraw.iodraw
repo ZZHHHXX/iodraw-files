@@ -1524,7 +1524,7 @@
         <mxCell id="kcJZA09U7jp4MI32YFPc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-36" target="kcJZA09U7jp4MI32YFPc-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcJZA09U7jp4MI32YFPc-36" value="新建RTCPeerconnection对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kcJZA09U7jp4MI32YFPc-36" value="后端的netty管道接收ws请求，将该请求内容封装，并通过redis转发给其他服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4350" y="429" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kcJZA09U7jp4MI32YFPc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-38" target="kcJZA09U7jp4MI32YFPc-36">
