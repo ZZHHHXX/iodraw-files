@@ -1214,19 +1214,22 @@
           <mxGeometry x="2852.5" y="1220" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2855" y="1554" width="100" height="50" as="geometry" />
+          <mxGeometry x="2852.5" y="1554" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkZf2nvhmx-jP5xhtsGe-5" target="gkZf2nvhmx-jP5xhtsGe-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-5" value="当前用户客户端向父组件发送退出会议事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2842.5" y="1300" width="120" height="60" as="geometry" />
+          <mxGeometry x="2842.5" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkZf2nvhmx-jP5xhtsGe-7" target="gkZf2nvhmx-jP5xhtsGe-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-7" value="关闭会议房间窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2842.5" y="1380" width="120" height="60" as="geometry" />
+          <mxGeometry x="2842.5" y="1465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkZf2nvhmx-jP5xhtsGe-8" value="接收后端发送的用户离开类型消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3265" y="270" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
