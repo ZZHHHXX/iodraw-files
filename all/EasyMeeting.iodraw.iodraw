@@ -2818,6 +2818,9 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-176" target="x9ww2Ecb8xyscnFMObU9-179">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-176" target="x9ww2Ecb8xyscnFMObU9-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-176" value="校验消息类型和接收者等内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1780" y="802" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2875,8 +2878,8 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-189" value="发送文本还是上传文件？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1530" y="230" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-197" value="校验消息类型和接收者等内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="812" width="120" height="60" as="geometry" />
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-197" value="更新文本消息状态为已发送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
