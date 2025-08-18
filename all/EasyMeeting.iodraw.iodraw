@@ -2432,7 +2432,7 @@
           <mxGeometry x="685" y="30" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="685" y="1050" width="100" height="50" as="geometry" />
+          <mxGeometry x="685" y="900" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-5" target="x9ww2Ecb8xyscnFMObU9-3">
           <mxGeometry relative="1" as="geometry" />
@@ -2445,6 +2445,14 @@
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-9" value="文本" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9ww2Ecb8xyscnFMObU9-8">
           <mxGeometry x="-0.36" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-10" target="x9ww2Ecb8xyscnFMObU9-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-33" value="文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9ww2Ecb8xyscnFMObU9-32">
+          <mxGeometry x="0.4047" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -2480,6 +2488,9 @@
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-25" value="将该消息样式归类到消息列表左侧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="675" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-31" value="直接显示文本内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
