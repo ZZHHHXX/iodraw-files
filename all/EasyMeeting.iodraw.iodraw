@@ -3252,7 +3252,7 @@
           <mxGeometry x="111.25" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="111.25" y="555" width="100" height="50" as="geometry" />
+          <mxGeometry x="111.88" y="510" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-5" target="yDtU1f3jBkcqOLF0I0uF-15">
           <mxGeometry relative="1" as="geometry" />
@@ -3272,7 +3272,7 @@
             <mxPoint x="161" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-17" value="筛选用户关系数据表中与当前用户关系为朋友的数据列表，按照最近更新信息优先排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-17" value="客户端存储原始关系列表和当前关系列表的值均为后端返回内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="102.5" y="360" width="118.75" height="80" as="geometry" />
         </mxCell>
       </root>
