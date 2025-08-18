@@ -1073,7 +1073,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-5" value="接收后端发送的用户加入类型消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2865" y="250" width="90" height="50" as="geometry" />
+          <mxGeometry x="2865" y="220" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2860" y="1090" width="100" height="50" as="geometry" />
@@ -1260,6 +1260,9 @@
         </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-19" value="接收后端发送的用户摄像头改变类型消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3653.75" y="210" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gkZf2nvhmx-jP5xhtsGe-20" value="接收后端发送的用户加入类型消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2875" y="230" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
