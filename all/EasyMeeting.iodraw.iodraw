@@ -1189,8 +1189,17 @@
         <mxCell id="hLySmFFW5icyU2o8d8Cf-82" value="关闭当前会议窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3247.5" y="815" width="105" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hLySmFFW5icyU2o8d8Cf-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-84" target="hLySmFFW5icyU2o8d8Cf-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-84" value="更新sotre中会议成员列表和在会成员列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3450" y="815" width="105" height="80" as="geometry" />
+          <mxGeometry x="3440" y="815" width="105" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hLySmFFW5icyU2o8d8Cf-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.413;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-75" target="hLySmFFW5icyU2o8d8Cf-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hLySmFFW5icyU2o8d8Cf-86" value="更新sotre中会议成员列表和在会成员列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3440" y="930" width="105" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
