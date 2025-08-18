@@ -2491,6 +2491,11 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-19" target="x9ww2Ecb8xyscnFMObU9-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-22" value="其他人" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9ww2Ecb8xyscnFMObU9-21">
+          <mxGeometry x="-0.075" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-19" value="识别消息发送者？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="120" width="210" height="130" as="geometry" />
         </mxCell>
