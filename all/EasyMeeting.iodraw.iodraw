@@ -3509,11 +3509,14 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-109" value="加载好友申请列表类似于加载联系人列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1650" y="75" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-129" target="yDtU1f3jBkcqOLF0I0uF-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-129" value="处理联系人申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1820" y="75" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-130" value="向后端发送申请添加好友请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="135" width="120" height="60" as="geometry" />
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-130" value="向后端发送处理联系人申请请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
