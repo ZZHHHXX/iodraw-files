@@ -1245,7 +1245,7 @@
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gkZf2nvhmx-jP5xhtsGe-15" target="gkZf2nvhmx-jP5xhtsGe-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gkZf2nvhmx-jP5xhtsGe-15" value="当前用户客户端向父组件发送退出会议事件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gkZf2nvhmx-jP5xhtsGe-15" value="向会议窗口发送用户摄像头改变事件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3640" y="290" width="117.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gkZf2nvhmx-jP5xhtsGe-17" target="gkZf2nvhmx-jP5xhtsGe-13" edge="1">
