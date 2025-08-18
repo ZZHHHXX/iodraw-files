@@ -2849,10 +2849,13 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-164" value="文件发送组件触发主进程的选择文件事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1580" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-167" target="x9ww2Ecb8xyscnFMObU9-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-167" value="弹出文件选择窗口，选择相应文件上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1580" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-169" value="弹出文件选择窗口，选择相应文件上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-169" value="检验文件大小是否超过设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1580" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
