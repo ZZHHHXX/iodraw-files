@@ -1069,6 +1069,9 @@
         <mxCell id="hLySmFFW5icyU2o8d8Cf-2" value="监听用户加入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2862.5" y="5" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="gkZf2nvhmx-jP5xhtsGe-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-5" target="gkZf2nvhmx-jP5xhtsGe-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-5" value="接收后端发送的用户加入类型消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2867.5" y="80" width="90" height="50" as="geometry" />
         </mxCell>
@@ -1264,6 +1267,9 @@
         </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-24" value="向会议窗口发送用户加入事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2867.5" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gkZf2nvhmx-jP5xhtsGe-26" value="&lt;font face=&quot;JetBrains Mono, Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;判断加入会议的用户是自己？&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2792.5" y="240" width="235" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
