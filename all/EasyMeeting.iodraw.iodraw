@@ -1149,11 +1149,12 @@
           <mxGeometry x="3252.5" y="80" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-63" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3250" y="1100" width="100" height="50" as="geometry" />
+          <mxGeometry x="3250" y="1265" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hLySmFFW5icyU2o8d8Cf-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-65" target="hLySmFFW5icyU2o8d8Cf-78">
+        <mxCell id="hLySmFFW5icyU2o8d8Cf-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="hLySmFFW5icyU2o8d8Cf-78">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3300" y="470" as="targetPoint" />
+            <mxPoint x="3300" y="650" as="sourcePoint" />
+            <mxPoint x="3300" y="635" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-65" value="提取新加入成员信息以及所有房间成员列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1163,10 +1164,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-73" value="向父组件发送退出会议事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3247.5" y="710" width="105" height="50" as="geometry" />
+          <mxGeometry x="3247.5" y="875" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-75" value="筛选出除了退出会议的用户之外的所有在会用户列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3440" y="695" width="105" height="80" as="geometry" />
+          <mxGeometry x="3440" y="860" width="105" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-78" target="hLySmFFW5icyU2o8d8Cf-75">
           <mxGeometry relative="1" as="geometry" />
@@ -1185,19 +1186,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-78" value="&lt;font face=&quot;JetBrains Mono, Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;判断离开会议的用户是自己还是其他人？&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3182.5" y="505" width="235" height="90" as="geometry" />
+          <mxGeometry x="3182.5" y="670" width="235" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-82" target="hLySmFFW5icyU2o8d8Cf-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-82" value="关闭当前会议窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3247.5" y="815" width="105" height="40" as="geometry" />
+          <mxGeometry x="3247.5" y="980" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-84" target="hLySmFFW5icyU2o8d8Cf-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-84" value="更新sotre中会议成员列表和在会成员列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3440" y="815" width="105" height="80" as="geometry" />
+          <mxGeometry x="3440" y="980" width="105" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.413;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-75" target="hLySmFFW5icyU2o8d8Cf-84">
           <mxGeometry relative="1" as="geometry" />
@@ -1206,7 +1207,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-86" value="peerMap中删除退出会议的用户的peerConnection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3440" y="930" width="105" height="80" as="geometry" />
+          <mxGeometry x="3440" y="1095" width="105" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkZf2nvhmx-jP5xhtsGe-2" target="gkZf2nvhmx-jP5xhtsGe-8">
           <mxGeometry relative="1" as="geometry" />
@@ -1306,7 +1307,7 @@
           <mxGeometry x="3255" y="150" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-37" value="向会议窗口发送用户加入事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3327.5" y="435" width="90" height="50" as="geometry" />
+          <mxGeometry x="3257.5" y="370" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkZf2nvhmx-jP5xhtsGe-42" target="gkZf2nvhmx-jP5xhtsGe-37">
           <mxGeometry relative="1" as="geometry" />
