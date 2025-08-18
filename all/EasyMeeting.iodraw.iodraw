@@ -2970,14 +2970,20 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-232" value="根据发送时间创建后端文件存储目录，拼接会议id以及文件后缀获取文件存储路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2000" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-235" target="x9ww2Ecb8xyscnFMObU9-239">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-235" value="应用FFmpeg工具转化图片格式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1565" y="2220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-237" target="x9ww2Ecb8xyscnFMObU9-239">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-237" value="应用FFmpeg工具转化视频格式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1780" y="2220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-239" value="应用FFmpeg工具转化视频格式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="2340" width="120" height="60" as="geometry" />
+          <mxGeometry x="1670" y="2350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
