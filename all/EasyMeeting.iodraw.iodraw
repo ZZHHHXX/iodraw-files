@@ -3278,7 +3278,7 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-21" target="yDtU1f3jBkcqOLF0I0uF-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-21" value="加载联系人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-21" value="删除联系人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-22" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
