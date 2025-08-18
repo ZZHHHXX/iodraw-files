@@ -2903,6 +2903,13 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-209" value="通过redis发送给指定用户该消息，并且发送一份消息给自己" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1780" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-211" target="x9ww2Ecb8xyscnFMObU9-219">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2030" y="1710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-211" value="通过redis发送该消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1970" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2911,6 +2918,9 @@
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-219" value="向后端发送上传文件请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1780" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-222" value="向后端发送上传文件请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
