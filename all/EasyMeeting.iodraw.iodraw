@@ -1285,11 +1285,19 @@
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkZf2nvhmx-jP5xhtsGe-26" target="gkZf2nvhmx-jP5xhtsGe-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gkZf2nvhmx-jP5xhtsGe-34" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gkZf2nvhmx-jP5xhtsGe-32">
+          <mxGeometry x="-0.5214" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-26" value="&lt;font face=&quot;JetBrains Mono, Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;判断加入会议的用户是自己？&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2792.5" y="240" width="235" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="gkZf2nvhmx-jP5xhtsGe-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkZf2nvhmx-jP5xhtsGe-31" target="gkZf2nvhmx-jP5xhtsGe-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-31" value="更新meetingStore，设置当前用户的入会状态为true" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3040" y="360" width="105" height="80" as="geometry" />
+          <mxGeometry x="3040" y="355" width="105" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
