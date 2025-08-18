@@ -2512,8 +2512,14 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-36" value="文件图表底部显示下载完成文字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="950" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-39" target="x9ww2Ecb8xyscnFMObU9-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-39" value="点击图表打开文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-41" value="向主进程发送打开本地文件事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
