@@ -1504,6 +1504,84 @@
         <mxCell id="kcJZA09U7jp4MI32YFPc-23" value="将本地客户端的媒体流以及轨道加入到peerConnection中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4080" y="780" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4410" y="99" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-27" value="创建peerConnection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4360" y="19" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-28" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4360" y="939" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="kcJZA09U7jp4MI32YFPc-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4528" y="139" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="4547" y="139" />
+              <mxPoint x="4547" y="959" />
+              <mxPoint x="4460" y="959" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-30" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kcJZA09U7jp4MI32YFPc-29">
+          <mxGeometry x="-0.7357" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kcJZA09U7jp4MI32YFPc-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4410" y="184" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-32" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kcJZA09U7jp4MI32YFPc-31">
+          <mxGeometry x="-0.0731" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-34" target="kcJZA09U7jp4MI32YFPc-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-34" value="新建RTCPeerconnection对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4350" y="234" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-36" target="kcJZA09U7jp4MI32YFPc-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-36" value="新建RTCPeerconnection对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4350" y="429" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-38" target="kcJZA09U7jp4MI32YFPc-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-38" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;检验摄像头和麦克风是否启用，未启用则设置仅接收该媒体流&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="4350" y="329" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-40" target="kcJZA09U7jp4MI32YFPc-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-40" value="ICE候选生成时向后端发送peerMessage给对等客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4350" y="519" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-42" target="kcJZA09U7jp4MI32YFPc-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-42" value="ICE候选生成时向后端发送peerMessage给对等客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4350" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-44" target="kcJZA09U7jp4MI32YFPc-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-44" value="监听远程传递的媒体流，将该媒体流绑定到相应的video元素上" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4350" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-46" target="kcJZA09U7jp4MI32YFPc-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-46" value="将本地客户端的媒体流以及轨道加入到peerConnection中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4350" y="789" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
