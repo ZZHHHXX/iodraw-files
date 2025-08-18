@@ -2849,7 +2849,7 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-164" value="文件发送组件触发主进程的选择文件事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1580" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-167" value="文件发送组件触发主进程的选择文件事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-167" value="弹出文件选择窗口，选择相应文件上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1580" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
