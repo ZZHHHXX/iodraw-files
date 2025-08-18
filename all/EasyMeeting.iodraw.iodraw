@@ -1385,7 +1385,7 @@
         <mxCell id="tc6KjgsfTgoz8ov0w2au-5" value="从在线成员列表中找到关闭摄像头的成员信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3642.5" y="514" width="117.5" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="tc6KjgsfTgoz8ov0w2au-12" value="修改该成员的openVideo状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tc6KjgsfTgoz8ov0w2au-12" value="修改该成员的openVideo状态为改变后的状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3642.5" y="574" width="117.5" height="46" as="geometry" />
         </mxCell>
       </root>
