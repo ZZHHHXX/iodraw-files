@@ -3320,7 +3320,7 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-40" target="yDtU1f3jBkcqOLF0I0uF-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-40" value="弹出确认提示框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-40" value="向后端发送搜索用户请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="135" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-42" target="yDtU1f3jBkcqOLF0I0uF-46">
