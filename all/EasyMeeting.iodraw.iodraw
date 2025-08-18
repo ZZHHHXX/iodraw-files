@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="9">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="8">
   <diagram id="oyzgp_fVWBWE2uaf7C99" name="Login">
     <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -3595,14 +3595,6 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-152" value="弹出申请结果，联系人列表和申请列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1810" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="T_t8ktJBR0VuMJC2Usoq" name="第 9 页">
-    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
