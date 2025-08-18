@@ -2734,17 +2734,13 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-126" value="为图片设置viewer查看器组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-128" target="x9ww2Ecb8xyscnFMObU9-131">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-128" value="为视频设置player播放器组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-131" target="x9ww2Ecb8xyscnFMObU9-134">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-131" value="应用ArtPlayer库初始化player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="1594" width="120" height="60" as="geometry" />
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="x9ww2Ecb8xyscnFMObU9-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="1654" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-134" target="x9ww2Ecb8xyscnFMObU9-137">
           <mxGeometry relative="1" as="geometry" />
@@ -2752,7 +2748,7 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-134" value="下一张或上一张是图片还是视频？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="1750" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-137" value="直接显示文本内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-137" value="打开视频的Player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="1950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
