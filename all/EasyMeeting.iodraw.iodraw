@@ -2740,8 +2740,8 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-131" value="应用ArtPlayer库初始化player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="1594" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-133" value="应用ArtPlayer库初始化player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="1604" width="120" height="60" as="geometry" />
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-134" value="文件是否已经开始下载？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="1050" width="210" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
