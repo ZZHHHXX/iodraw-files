@@ -2608,8 +2608,11 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-71" value="&lt;div&gt;前端Axios请求触发进度监听，获取总进度长与已接收进度长，计算百分比&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="1690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-73" value="&lt;div&gt;前端Axios请求触发进度监听，获取总进度长与已接收进度长，计算百分比&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-73" value="主进程发送计算百分比事件给聊天框组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="1790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-75" value="主进程发送计算百分比事件给聊天框组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
