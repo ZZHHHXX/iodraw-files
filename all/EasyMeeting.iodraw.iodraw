@@ -2620,10 +2620,13 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-75" value="聊天框组件接收百分比并传递给对应文件消息组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-77" target="x9ww2Ecb8xyscnFMObU9-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-77" value="文件消息组件根据百分比值更新进度条样式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-80" value="文件消息组件根据百分比值更新进度条样式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-80" value="重置百分比为0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
