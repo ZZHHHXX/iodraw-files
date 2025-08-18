@@ -1076,7 +1076,7 @@
           <mxGeometry x="2865" y="250" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2865" y="1040" width="100" height="50" as="geometry" />
+          <mxGeometry x="2860" y="1090" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-22" target="hLySmFFW5icyU2o8d8Cf-24">
           <mxGeometry relative="1" as="geometry" />
@@ -1107,6 +1107,9 @@
           <mxGeometry x="-0.4155" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hLySmFFW5icyU2o8d8Cf-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-30" target="hLySmFFW5icyU2o8d8Cf-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-30" value="所有在会成员都要向自己发送offer,建立P2P连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2857.5" y="900" width="105" height="80" as="geometry" />
