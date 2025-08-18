@@ -1362,7 +1362,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3836" y="419" />
-              <mxPoint x="3836" y="743" />
+              <mxPoint x="3836" y="937" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1390,6 +1390,9 @@
         </mxCell>
         <mxCell id="tc6KjgsfTgoz8ov0w2au-12" value="修改该成员的openVideo状态为改变后的状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3642.5" y="583" width="117.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="tc6KjgsfTgoz8ov0w2au-14" value="修改该成员的openVideo状态为改变后的状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3642.5" y="660" width="117.5" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
