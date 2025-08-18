@@ -1504,10 +1504,8 @@
         <mxCell id="kcJZA09U7jp4MI32YFPc-23" value="将本地客户端的媒体流以及轨道加入到peerConnection中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4080" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kcJZA09U7jp4MI32YFPc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-27">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4410" y="99" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="kcJZA09U7jp4MI32YFPc-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-27" target="kcJZA09U7jp4MI32YFPc-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kcJZA09U7jp4MI32YFPc-27" value="发送offer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4360" y="19" width="100" height="50" as="geometry" />
