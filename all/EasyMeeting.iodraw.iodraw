@@ -1542,7 +1542,7 @@
         <mxCell id="kcJZA09U7jp4MI32YFPc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-42" target="kcJZA09U7jp4MI32YFPc-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcJZA09U7jp4MI32YFPc-42" value="ICE候选生成时向后端发送peerMessage给对等客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kcJZA09U7jp4MI32YFPc-42" value="发送该消息到指定成员的客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4350" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kcJZA09U7jp4MI32YFPc-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-44" target="kcJZA09U7jp4MI32YFPc-46">
