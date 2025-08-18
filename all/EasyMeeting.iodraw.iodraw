@@ -2532,6 +2532,9 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-41" value="向主进程发送打开本地文件事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="2300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-43" target="x9ww2Ecb8xyscnFMObU9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-43" value="打开指定路径的本地文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="2400" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2624,7 +2627,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-80" value="重置百分比为0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="2060" width="120" height="60" as="geometry" />
+          <mxGeometry x="1270" y="2050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x9ww2Ecb8xyscnFMObU9-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-10" target="x9ww2Ecb8xyscnFMObU9-86">
           <mxGeometry relative="1" as="geometry">
