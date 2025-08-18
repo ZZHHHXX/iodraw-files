@@ -1307,7 +1307,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-37" value="向会议窗口发送用户加入事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3255" y="420" width="90" height="50" as="geometry" />
+          <mxGeometry x="3255" y="450" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkZf2nvhmx-jP5xhtsGe-42" target="gkZf2nvhmx-jP5xhtsGe-44">
           <mxGeometry relative="1" as="geometry" />
