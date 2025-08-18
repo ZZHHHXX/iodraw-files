@@ -1438,7 +1438,7 @@
         <mxCell id="kcJZA09U7jp4MI32YFPc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-5" target="kcJZA09U7jp4MI32YFPc-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcJZA09U7jp4MI32YFPc-5" value="打开会议房间新窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kcJZA09U7jp4MI32YFPc-5" value="检查该用户的peerConnection是否存在与Map中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4080" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
