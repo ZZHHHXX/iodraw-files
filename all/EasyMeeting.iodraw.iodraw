@@ -1151,14 +1151,11 @@
         <mxCell id="hLySmFFW5icyU2o8d8Cf-63" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3250" y="1265" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hLySmFFW5icyU2o8d8Cf-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="hLySmFFW5icyU2o8d8Cf-78">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3300" y="650" as="sourcePoint" />
-            <mxPoint x="3300" y="635" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="gkZf2nvhmx-jP5xhtsGe-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-65" target="hLySmFFW5icyU2o8d8Cf-78">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-65" value="提取新加入成员信息以及所有房间成员列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3255" y="435" width="90" height="50" as="geometry" />
+          <mxGeometry x="3255" y="560" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hLySmFFW5icyU2o8d8Cf-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hLySmFFW5icyU2o8d8Cf-73" target="hLySmFFW5icyU2o8d8Cf-82">
           <mxGeometry relative="1" as="geometry" />
@@ -1306,8 +1303,11 @@
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-36" value="向主页窗口发送用户离开事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3255" y="150" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="gkZf2nvhmx-jP5xhtsGe-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkZf2nvhmx-jP5xhtsGe-37" target="hLySmFFW5icyU2o8d8Cf-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-37" value="向会议窗口发送用户加入事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3257.5" y="370" width="90" height="50" as="geometry" />
+          <mxGeometry x="3257.5" y="380" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkZf2nvhmx-jP5xhtsGe-42" target="gkZf2nvhmx-jP5xhtsGe-37">
           <mxGeometry relative="1" as="geometry" />
