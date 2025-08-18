@@ -3437,7 +3437,7 @@
           <mxGeometry x="1190" y="30" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-81" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180.63" y="810" width="100" height="50" as="geometry" />
+          <mxGeometry x="1180" y="880" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-83" target="yDtU1f3jBkcqOLF0I0uF-90">
           <mxGeometry relative="1" as="geometry" />
@@ -3495,7 +3495,7 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-98" value="重新设置自己与该用户的关系状态为好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="530" width="118.75" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-103" value="查询相关申请好友信息，更新或创建新的好友申请信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-103" value="发送申请好友类型消息给对方客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="660" width="118.75" height="80" as="geometry" />
         </mxCell>
       </root>
