@@ -3363,7 +3363,7 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-55" value="设置查询结果状态为自己" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="632.19" y="470" width="118.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-59" value="判断是否已经发送过申请" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-59" value="判断是否已经对该用户&lt;div&gt;发送过申请？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="469.08" y="540" width="164.37" height="120" as="geometry" />
         </mxCell>
       </root>
