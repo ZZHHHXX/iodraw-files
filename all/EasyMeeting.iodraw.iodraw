@@ -3290,6 +3290,9 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-24" value="弹出确认提示框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="135" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-28" target="yDtU1f3jBkcqOLF0I0uF-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-28" value="更新相应用户关系数据的状态和更新时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311.25" y="360" width="118.75" height="80" as="geometry" />
         </mxCell>
@@ -3299,8 +3302,8 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-29" value="向后端发送删除联系人请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-32" value="更新相应用户关系数据的状态和更新时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="309.99" y="460" width="118.75" height="80" as="geometry" />
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-32" value="重新加载联系人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311.25" y="480" width="118.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
