@@ -2362,14 +2362,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2ntpSZpgmh_149rZpsHv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2gYBbsuPBWGhNUeVoowC-2" target="2ntpSZpgmh_149rZpsHv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2gYBbsuPBWGhNUeVoowC-2" value="加载消息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2gYBbsuPBWGhNUeVoowC-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="410" width="100" height="50" as="geometry" />
+          <mxGeometry x="90" y="460" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2ntpSZpgmh_149rZpsHv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2ntpSZpgmh_149rZpsHv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ntpSZpgmh_149rZpsHv-3" target="2gYBbsuPBWGhNUeVoowC-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2ntpSZpgmh_149rZpsHv-3" value="判断当前消息页码是否为最后一页" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="120" width="210" height="130" as="geometry" />
