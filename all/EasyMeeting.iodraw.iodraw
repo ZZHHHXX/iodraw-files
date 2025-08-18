@@ -1548,7 +1548,7 @@
         <mxCell id="kcJZA09U7jp4MI32YFPc-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-44" target="kcJZA09U7jp4MI32YFPc-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcJZA09U7jp4MI32YFPc-44" value="对应成员客户端的ws监听接收到该消息，向会议窗口发送建立连接事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kcJZA09U7jp4MI32YFPc-44" value="对应成员客户端的ws监听接收到该消息，向会议窗口发送建立peerConnection连接事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4350" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kcJZA09U7jp4MI32YFPc-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-46" target="kcJZA09U7jp4MI32YFPc-28">
