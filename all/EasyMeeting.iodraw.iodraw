@@ -3001,14 +3001,8 @@
         <mxCell id="x9ww2Ecb8xyscnFMObU9-242" value="获取与会议id相关的聊天记录数据库表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1780" y="2490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9ww2Ecb8xyscnFMObU9-246" target="x9ww2Ecb8xyscnFMObU9-248">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-246" value="设置消息状态为已发送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x9ww2Ecb8xyscnFMObU9-246" value="设置消息状态为已发送，更新对应消息记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1780" y="2590" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="x9ww2Ecb8xyscnFMObU9-248" value="设置消息状态为已发送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="2690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
