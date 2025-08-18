@@ -3454,7 +3454,7 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-87" target="yDtU1f3jBkcqOLF0I0uF-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-87" value="向后端发送删除联系人请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-87" value="判断对方是否将自己拉黑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-89" target="yDtU1f3jBkcqOLF0I0uF-81">
