@@ -3341,7 +3341,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-47" target="yDtU1f3jBkcqOLF0I0uF-55">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="692" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-57" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yDtU1f3jBkcqOLF0I0uF-56">
+          <mxGeometry x="-0.2192" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-47" value="判断搜索的用户id是否是自己？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="467.82" y="350" width="164.37" height="120" as="geometry" />
