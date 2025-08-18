@@ -2362,11 +2362,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2gYBbsuPBWGhNUeVoowC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2gYBbsuPBWGhNUeVoowC-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="2gYBbsuPBWGhNUeVoowC-2" value="加载消息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="40" width="100" height="50" as="geometry" />
         </mxCell>
@@ -2376,7 +2371,7 @@
         <mxCell id="2ntpSZpgmh_149rZpsHv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ntpSZpgmh_149rZpsHv-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2ntpSZpgmh_149rZpsHv-3" value="判断当前消息页码是否为最后一页" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="120" width="210" height="130" as="geometry" />
         </mxCell>
       </root>
