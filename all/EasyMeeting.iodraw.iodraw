@@ -1326,6 +1326,9 @@
         <mxCell id="gkZf2nvhmx-jP5xhtsGe-44" value="弹出你被踢出会议消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3430" y="405" width="105" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="gkZf2nvhmx-jP5xhtsGe-48" value="弹出你被踢出会议消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3440" y="415" width="105" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
