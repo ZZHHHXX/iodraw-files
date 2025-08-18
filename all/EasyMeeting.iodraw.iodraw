@@ -3445,10 +3445,10 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-83" value="向后端发送申请添加好友请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="125" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-89" target="yDtU1f3jBkcqOLF0I0uF-81">
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-89" target="yDtU1f3jBkcqOLF0I0uF-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-89" value="查询相关申请好友信息，更新或创建新的好友申请信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-89" value="查询相关申请好友信息，更新或创建新的好友申请信息，申请状态为待处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="540" width="118.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-90" target="yDtU1f3jBkcqOLF0I0uF-81">
@@ -3494,6 +3494,9 @@
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-98" value="重新设置自己与该用户的关系状态为好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="530" width="118.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-103" value="查询相关申请好友信息，更新或创建新的好友申请信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="660" width="118.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
