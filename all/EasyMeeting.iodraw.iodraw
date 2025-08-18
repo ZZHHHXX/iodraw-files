@@ -3509,29 +3509,29 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-109" target="yDtU1f3jBkcqOLF0I0uF-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-109" value="申请添加好友" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="40" width="100" height="50" as="geometry" />
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-109" value="加载好友申请列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1681.55" y="30" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-110" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200.63" y="900" width="100" height="50" as="geometry" />
+          <mxGeometry x="1682.18" y="890" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-112" target="yDtU1f3jBkcqOLF0I0uF-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-112" value="向后端发送申请添加好友请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="135" width="120" height="60" as="geometry" />
+          <mxGeometry x="1671.55" y="125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-114" target="yDtU1f3jBkcqOLF0I0uF-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-114" value="查询相关申请好友信息，更新或创建新的好友申请信息，申请状态为待处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="550" width="118.75" height="80" as="geometry" />
+          <mxGeometry x="1671.55" y="540" width="118.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-118" target="yDtU1f3jBkcqOLF0I0uF-110">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1410" y="280" />
-              <mxPoint x="1410" y="925" />
+              <mxPoint x="1891.55" y="270" />
+              <mxPoint x="1891.55" y="915" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3544,7 +3544,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-118" value="判断对方是否将自己拉黑？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1168.45" y="220" width="164.37" height="120" as="geometry" />
+          <mxGeometry x="1650" y="210" width="164.37" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-122" target="yDtU1f3jBkcqOLF0I0uF-124">
           <mxGeometry relative="1" as="geometry" />
@@ -3558,29 +3558,29 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-122" value="判断对方已经是你好友？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1168.45" y="390" width="164.37" height="120" as="geometry" />
+          <mxGeometry x="1650" y="380" width="164.37" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-124" target="yDtU1f3jBkcqOLF0I0uF-110">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1519" y="925" />
+              <mxPoint x="2000.55" y="915" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-124" value="重新设置自己与该用户的关系状态为好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="540" width="118.75" height="80" as="geometry" />
+          <mxGeometry x="1941.55" y="530" width="118.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-126" target="yDtU1f3jBkcqOLF0I0uF-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-126" value="发送申请好友类型消息给对方客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="670" width="118.75" height="80" as="geometry" />
+          <mxGeometry x="1671.55" y="660" width="118.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDtU1f3jBkcqOLF0I0uF-128" target="yDtU1f3jBkcqOLF0I0uF-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-128" value="在线的对方客户端弹出提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1191.25" y="780" width="118.75" height="80" as="geometry" />
+          <mxGeometry x="1672.8" y="770" width="118.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
