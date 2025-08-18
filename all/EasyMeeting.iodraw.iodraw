@@ -3388,8 +3388,11 @@
         <mxCell id="yDtU1f3jBkcqOLF0I0uF-65" value="判断申请状态？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="630" width="164.37" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="yDtU1f3jBkcqOLF0I0uF-68" value="显示申请好友按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-68" value="显示已是联系人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="752.81" y="802" width="118.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yDtU1f3jBkcqOLF0I0uF-70" value="显示已是联系人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="762.81" y="812" width="118.75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
