@@ -1480,7 +1480,7 @@
         <mxCell id="kcJZA09U7jp4MI32YFPc-14" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;检验摄像头和麦克风是否启用，未启用则设置仅接收该媒体流&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="4080" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2CubVXr_UP3-xRAQpAOA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kcJZA09U7jp4MI32YFPc-17" target="kcJZA09U7jp4MI32YFPc-21">
+        <mxCell id="2CubVXr_UP3-xRAQpAOA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kcJZA09U7jp4MI32YFPc-17" target="kcJZA09U7jp4MI32YFPc-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kcJZA09U7jp4MI32YFPc-17" value="ICE候选生成时向后端发送peerMessage给对等客户端" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
