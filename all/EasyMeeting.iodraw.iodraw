@@ -959,7 +959,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5YToGlwveUYebJgSXGtC-85" value="应用createEmptyAudioTrack&lt;div&gt;方法创建一个空的麦克风轨道并加入到localStream中&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2420" y="360" width="120" height="130" as="geometry" />
+          <mxGeometry x="2420" y="350" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="4maj9624t6BSzMeDCjVF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5YToGlwveUYebJgSXGtC-92" target="4maj9624t6BSzMeDCjVF-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
