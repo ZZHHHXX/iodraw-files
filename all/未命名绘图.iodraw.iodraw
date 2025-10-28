@@ -152,7 +152,7 @@
         <mxCell id="gRy-j7hlTysFTbnaUMaZ-37" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;能源网络&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gRy-j7hlTysFTbnaUMaZ-38" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;化石燃料&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gRy-j7hlTysFTbnaUMaZ-38" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;电力网络&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="415" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gRy-j7hlTysFTbnaUMaZ-39" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;可再生能源&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
