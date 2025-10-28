@@ -182,7 +182,7 @@
         <mxCell id="gRy-j7hlTysFTbnaUMaZ-45" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;热电联产机组&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1470" y="535" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gRy-j7hlTysFTbnaUMaZ-46" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;冷热点三联供系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gRy-j7hlTysFTbnaUMaZ-46" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;冷热电三联供系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1470" y="655" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gRy-j7hlTysFTbnaUMaZ-47" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gRy-j7hlTysFTbnaUMaZ-46" target="gRy-j7hlTysFTbnaUMaZ-45">
