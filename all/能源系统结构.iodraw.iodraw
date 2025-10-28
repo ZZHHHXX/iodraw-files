@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gRy-j7hlTysFTbnaUMaZ-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;综合能源系统结构&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Qhx52e8vGsnbdIiHLsjF-1" vertex="1">
-          <mxGeometry x="620" width="190" height="60" as="geometry" />
+          <mxGeometry x="660" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gRy-j7hlTysFTbnaUMaZ-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;能源输入&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="Qhx52e8vGsnbdIiHLsjF-1" vertex="1">
           <mxGeometry x="30" y="130" width="120" height="80" as="geometry" />
