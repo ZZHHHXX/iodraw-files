@@ -117,7 +117,7 @@
             <mxPoint x="730" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gRy-j7hlTysFTbnaUMaZ-35" value="&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif; font-size: 16px; letter-spacing: -0.16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;吸收式制冷机/电制冷机&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gRy-j7hlTysFTbnaUMaZ-35" value="&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif; letter-spacing: -0.16px; text-align: left; background-color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;吸收式制冷机/电制冷机&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="1010" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gRy-j7hlTysFTbnaUMaZ-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gRy-j7hlTysFTbnaUMaZ-35" target="gRy-j7hlTysFTbnaUMaZ-32">
