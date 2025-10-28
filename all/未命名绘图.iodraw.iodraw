@@ -118,7 +118,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gRy-j7hlTysFTbnaUMaZ-35" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;燃气锅炉&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="900" width="180" height="80" as="geometry" />
+          <mxGeometry x="630" y="1010" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gRy-j7hlTysFTbnaUMaZ-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gRy-j7hlTysFTbnaUMaZ-35" target="gRy-j7hlTysFTbnaUMaZ-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="900" as="sourcePoint" />
+            <mxPoint x="730" y="860" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
