@@ -31,8 +31,8 @@
         <mxCell id="4FRRvd8hpNlhfSY9mMGa-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;能流计算&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="650" width="30" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="4FRRvd8hpNlhfSY9mMGa-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;能流计算&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="660" width="30" height="260" as="geometry" />
+        <mxCell id="4FRRvd8hpNlhfSY9mMGa-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;最优能流计算&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="650" width="30" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
