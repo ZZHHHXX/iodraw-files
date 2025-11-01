@@ -44,15 +44,15 @@
         <mxCell id="9VlIxiWsWE4hUrfPShcZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9VlIxiWsWE4hUrfPShcZ-12" target="9VlIxiWsWE4hUrfPShcZ-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9VlIxiWsWE4hUrfPShcZ-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9VlIxiWsWE4hUrfPShcZ-18">
-          <mxGeometry x="-0.1913" y="3" relative="1" as="geometry">
+        <mxCell id="9VlIxiWsWE4hUrfPShcZ-20" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9VlIxiWsWE4hUrfPShcZ-18">
+          <mxGeometry x="-0.1217" y="-2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9VlIxiWsWE4hUrfPShcZ-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;选择已有项目&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="677.5" y="560" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9VlIxiWsWE4hUrfPShcZ-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;进入项目管理界面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9VlIxiWsWE4hUrfPShcZ-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;新建项目&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="570" width="142.5" height="60" as="geometry" />
         </mxCell>
       </root>
