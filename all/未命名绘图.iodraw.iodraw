@@ -25,6 +25,9 @@
         <mxCell id="4FRRvd8hpNlhfSY9mMGa-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;构建拓扑&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="673.75" y="460" width="142.5" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4FRRvd8hpNlhfSY9mMGa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4FRRvd8hpNlhfSY9mMGa-4" target="4FRRvd8hpNlhfSY9mMGa-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4FRRvd8hpNlhfSY9mMGa-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;设置参数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="673.75" y="560" width="142.5" height="60" as="geometry" />
         </mxCell>
@@ -37,8 +40,8 @@
         <mxCell id="4FRRvd8hpNlhfSY9mMGa-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;日内滚动优化&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="786.25" y="650" width="30" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="4FRRvd8hpNlhfSY9mMGa-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;展示计算结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="683.75" y="1090" width="142.5" height="60" as="geometry" />
+        <mxCell id="4FRRvd8hpNlhfSY9mMGa-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;系统评价指标&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="673.75" y="970" width="142.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
