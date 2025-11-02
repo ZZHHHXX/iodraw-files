@@ -27,9 +27,9 @@
             <mxPoint x="730" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ne-VKlmDMs7apO3Ftdzf-8" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ne-VKlmDMs7apO3Ftdzf-7">
+        <mxCell id="ne-VKlmDMs7apO3Ftdzf-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;机械能&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ne-VKlmDMs7apO3Ftdzf-7">
           <mxGeometry x="-0.2857" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="5" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
