@@ -132,9 +132,6 @@
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-43" value="将S&lt;sub&gt;new&lt;/sub&gt;加入子网列表L&lt;sub&gt;subnets&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="385" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VdzI-jHF-uc6YURCyO-Y-46" value="查找v&lt;sub&gt;curr&lt;/sub&gt;的所有邻接节点v&lt;sub&gt;adj&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="590" width="240" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
