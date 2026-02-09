@@ -54,7 +54,14 @@
           <mxGeometry x="270" y="630" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VdzI-jHF-uc6YURCyO-Y-16" target="VdzI-jHF-uc6YURCyO-Y-25">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="750" />
+              <mxPoint x="600" y="350" />
+              <mxPoint x="760" y="350" />
+              <mxPoint x="760" y="415" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-16" value="标记v&lt;sub&gt;seed&lt;/sub&gt;为已访问，从V&lt;sub&gt;unvisited&lt;/sub&gt;中移除，加入S&lt;sub&gt;new&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="720" width="240" height="60" as="geometry" />
