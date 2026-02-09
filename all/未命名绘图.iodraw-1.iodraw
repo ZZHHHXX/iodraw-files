@@ -16,7 +16,7 @@
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-2" value="输入：全局异构图G(V,E)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="250" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VdzI-jHF-uc6YURCyO-Y-4" value="初始化未访问节点集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VdzI-jHF-uc6YURCyO-Y-4" value="初始化未访问节点集V&lt;sub&gt;unvisited&lt;/sub&gt;=V，子网列表L&lt;sub&gt;subnets&lt;/sub&gt;=null" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
