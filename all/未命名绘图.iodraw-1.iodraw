@@ -56,8 +56,8 @@
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-16" value="标记v&lt;sub&gt;seed&lt;/sub&gt;为已访问，从V&lt;sub&gt;unvisited&lt;/sub&gt;中移除，加入S&lt;sub&gt;new&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="720" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VdzI-jHF-uc6YURCyO-Y-19" value="输入：全局异构图G(V,E)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="250" width="240" height="40" as="geometry" />
+        <mxCell id="VdzI-jHF-uc6YURCyO-Y-19" value="输出：物理子网列表Lsubnets" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="250" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
