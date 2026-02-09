@@ -107,8 +107,8 @@
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-35" value="邻接节点v&lt;sub&gt;adj&lt;/sub&gt;是否在V&lt;sub&gt;unvisited&lt;/sub&gt;中？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="670" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VdzI-jHF-uc6YURCyO-Y-39" value="初始化未访问节点集V&lt;sub&gt;unvisited&lt;/sub&gt;=V，子网列表L&lt;sub&gt;subnets&lt;/sub&gt;=null" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="340" width="240" height="60" as="geometry" />
+        <mxCell id="VdzI-jHF-uc6YURCyO-Y-39" value="根据节点类型确定Snew的物理属性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="390" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
