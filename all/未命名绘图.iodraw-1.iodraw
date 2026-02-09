@@ -92,10 +92,23 @@
           <mxGeometry x="640" y="580" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VdzI-jHF-uc6YURCyO-Y-35" target="VdzI-jHF-uc6YURCyO-Y-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="800" />
+              <mxPoint x="390" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VdzI-jHF-uc6YURCyO-Y-38" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VdzI-jHF-uc6YURCyO-Y-37">
+          <mxGeometry x="-0.8736" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-35" value="邻接节点v&lt;sub&gt;adj&lt;/sub&gt;是否在V&lt;sub&gt;unvisited&lt;/sub&gt;中？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="670" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VdzI-jHF-uc6YURCyO-Y-39" value="初始化未访问节点集V&lt;sub&gt;unvisited&lt;/sub&gt;=V，子网列表L&lt;sub&gt;subnets&lt;/sub&gt;=null" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
