@@ -71,11 +71,16 @@
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VdzI-jHF-uc6YURCyO-Y-25" target="VdzI-jHF-uc6YURCyO-Y-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VdzI-jHF-uc6YURCyO-Y-32" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VdzI-jHF-uc6YURCyO-Y-30">
+          <mxGeometry x="-0.2861" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-25" value="队列Q是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="440" width="140" height="70" as="geometry" />
+          <mxGeometry x="690" y="380" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-29" value="创建新子网对象S&lt;sub&gt;new&lt;/sub&gt;，初始化队列Q，将v&lt;sub&gt;seed&lt;/sub&gt;入队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="540" width="240" height="60" as="geometry" />
+          <mxGeometry x="640" y="490" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
