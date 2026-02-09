@@ -40,7 +40,10 @@
           <mxGeometry x="270" y="540" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-14" value="创建新子网对象S&lt;sub&gt;new&lt;/sub&gt;，初始化队列Q，将v&lt;sub&gt;seed&lt;/sub&gt;入队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="630" width="220" height="60" as="geometry" />
+          <mxGeometry x="270" y="630" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VdzI-jHF-uc6YURCyO-Y-16" value="创建新子网对象S&lt;sub&gt;new&lt;/sub&gt;，初始化队列Q，将v&lt;sub&gt;seed&lt;/sub&gt;入队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="720" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
