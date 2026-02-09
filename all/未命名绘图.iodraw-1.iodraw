@@ -85,8 +85,14 @@
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-29" value="从Q中取出一个节点v&lt;sub&gt;curr&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="490" width="240" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VdzI-jHF-uc6YURCyO-Y-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VdzI-jHF-uc6YURCyO-Y-33" target="VdzI-jHF-uc6YURCyO-Y-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-33" value="查找v&lt;sub&gt;curr&lt;/sub&gt;的所有邻接节点v&lt;sub&gt;adj&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="580" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VdzI-jHF-uc6YURCyO-Y-35" value="邻接节点vadj是否在Vunvisited中？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="670" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
