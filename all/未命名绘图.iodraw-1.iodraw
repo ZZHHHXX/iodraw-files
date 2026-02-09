@@ -25,10 +25,15 @@
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VdzI-jHF-uc6YURCyO-Y-6" target="VdzI-jHF-uc6YURCyO-Y-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VdzI-jHF-uc6YURCyO-Y-13" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VdzI-jHF-uc6YURCyO-Y-9">
+          <mxGeometry x="-0.2905" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-6" value="V&lt;sub&gt;unvisited是否为null&lt;/sub&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="430" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VdzI-jHF-uc6YURCyO-Y-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VdzI-jHF-uc6YURCyO-Y-8" value="从V&lt;sub&gt;unvisited中任选一个种子节点v&lt;/sub&gt;seed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
