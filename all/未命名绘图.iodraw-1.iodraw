@@ -120,6 +120,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VdzI-jHF-uc6YURCyO-Y-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VdzI-jHF-uc6YURCyO-Y-35" target="VdzI-jHF-uc6YURCyO-Y-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="705" />
+              <mxPoint x="630" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-35" value="邻接节点v&lt;sub&gt;adj&lt;/sub&gt;是否在V&lt;sub&gt;unvisited&lt;/sub&gt;中？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="670" width="140" height="70" as="geometry" />
         </mxCell>
