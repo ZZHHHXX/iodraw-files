@@ -76,6 +76,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VdzI-jHF-uc6YURCyO-Y-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VdzI-jHF-uc6YURCyO-Y-25" target="VdzI-jHF-uc6YURCyO-Y-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VdzI-jHF-uc6YURCyO-Y-41" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VdzI-jHF-uc6YURCyO-Y-40">
+          <mxGeometry x="-0.2611" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-25" value="队列Q是否为空？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="380" width="140" height="70" as="geometry" />
         </mxCell>
@@ -108,7 +116,7 @@
           <mxGeometry x="690" y="670" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-39" value="根据节点类型确定Snew的物理属性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="385" width="110" height="60" as="geometry" />
+          <mxGeometry x="870" y="385" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
