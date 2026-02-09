@@ -39,7 +39,7 @@
         <mxCell id="VdzI-jHF-uc6YURCyO-Y-8" value="从V&lt;sub&gt;unvisited&lt;/sub&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;中任选一个种子节点v&lt;sub&gt;seed&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VdzI-jHF-uc6YURCyO-Y-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VdzI-jHF-uc6YURCyO-Y-14" value="创建新子网对象S&lt;sub&gt;new&lt;/sub&gt;，初始化队列Q，将v&lt;sub&gt;seed&lt;/sub&gt;入队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
