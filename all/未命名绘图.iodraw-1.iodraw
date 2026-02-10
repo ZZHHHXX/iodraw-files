@@ -320,8 +320,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-74" value="注入Weymouth非线性降压方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="520" width="140" height="40" as="geometry" />
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-74" value="注入泰勒展开线性化方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-65">
+          <mxGeometry x="280" y="270" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
