@@ -350,8 +350,8 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.479;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-7" target="CHk5rlp3nkinQ77SwIb6-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-144" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="765" y="240" width="200" height="200" as="geometry" />
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-144" value="支路层约束循环" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="765" y="240" width="495" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
