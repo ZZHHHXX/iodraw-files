@@ -327,8 +327,8 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-40" value="标记v&lt;sub&gt;adj&lt;/sub&gt;为已访问，从V&lt;sub&gt;unvisited&lt;/sub&gt;中移除，入队Q，加入S&lt;sub&gt;new&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="675" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-42" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="400" width="200" height="200" as="geometry" />
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-42" value="节点层约束构建" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="430" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
