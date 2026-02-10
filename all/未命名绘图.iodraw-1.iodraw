@@ -268,8 +268,24 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-136" value="节点层约束循环" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="430" width="440" height="440" as="geometry" />
         </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-136" source="CHk5rlp3nkinQ77SwIb6-109" target="CHk5rlp3nkinQ77SwIb6-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="397" />
+              <mxPoint x="420" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-109" value="注入非线性特性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-136">
           <mxGeometry x="260" y="377" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-136" source="CHk5rlp3nkinQ77SwIb6-110" target="CHk5rlp3nkinQ77SwIb6-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="397" />
+              <mxPoint x="20" y="70" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-110" value="计算分段点，注入分段线性化约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-136">
           <mxGeometry x="30" y="377" width="140" height="40" as="geometry" />
