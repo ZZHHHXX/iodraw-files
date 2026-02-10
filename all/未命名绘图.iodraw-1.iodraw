@@ -332,7 +332,7 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-68" value="Mode=NLP?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-65">
           <mxGeometry x="155" y="190" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-71" value="注入Weymouth非线性降压方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-65">
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-71" value="注入非线性物理传输方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-65">
           <mxGeometry x="30" y="270" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.435;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-65" source="CHk5rlp3nkinQ77SwIb6-68" target="CHk5rlp3nkinQ77SwIb6-71">
