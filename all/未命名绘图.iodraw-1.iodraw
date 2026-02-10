@@ -310,8 +310,13 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-65" source="CHk5rlp3nkinQ77SwIb6-68" target="CHk5rlp3nkinQ77SwIb6-74">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="220" />
+              <mxPoint x="350" y="225" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-76" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CHk5rlp3nkinQ77SwIb6-75">
+          <mxGeometry x="-0.5767" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-68" value="Mode=NLP?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-65">
@@ -325,6 +330,11 @@
             <Array as="points">
               <mxPoint x="91" y="225" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-77" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CHk5rlp3nkinQ77SwIb6-73">
+          <mxGeometry x="-0.4832" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-74" value="注入泰勒展开线性化方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-65">
