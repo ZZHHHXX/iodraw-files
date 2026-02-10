@@ -364,9 +364,6 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-57" value="计算分段点，注入分段线性化约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-42">
           <mxGeometry x="390" y="290" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.48;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-7" target="CHk5rlp3nkinQ77SwIb6-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
