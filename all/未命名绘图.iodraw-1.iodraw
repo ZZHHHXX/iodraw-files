@@ -194,10 +194,7 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-7" value="初始化Pyomo模型实例M，定义集合/变量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="330" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-14" target="CHk5rlp3nkinQ77SwIb6-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-16" target="CHk5rlp3nkinQ77SwIb6-24">
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CHk5rlp3nkinQ77SwIb6-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="750" />
@@ -205,10 +202,8 @@
               <mxPoint x="760" y="350" />
               <mxPoint x="760" y="415" />
             </Array>
+            <mxPoint x="510" y="750" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-16" value="标记v&lt;sub&gt;seed&lt;/sub&gt;为已访问，从V&lt;sub&gt;unvisited&lt;/sub&gt;中移除，加入S&lt;sub&gt;new&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="720" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-18" target="CHk5rlp3nkinQ77SwIb6-19">
           <mxGeometry relative="1" as="geometry" />
@@ -250,12 +245,13 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-28" value="查找v&lt;sub&gt;curr&lt;/sub&gt;的所有邻接节点v&lt;sub&gt;adj&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="580" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-35" target="CHk5rlp3nkinQ77SwIb6-16">
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="760" y="800" />
               <mxPoint x="390" y="800" />
             </Array>
+            <mxPoint x="390" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-30" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CHk5rlp3nkinQ77SwIb6-29">
@@ -343,11 +339,8 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-44" value="是否为GEC？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-42">
           <mxGeometry x="55" y="230" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-14" value="创建新子网对象S&lt;sub&gt;new&lt;/sub&gt;，初始化队列Q，将v&lt;sub&gt;seed&lt;/sub&gt;入队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-42">
-          <mxGeometry x="290" y="220" width="240" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-49" value="Mode=NLP?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-42">
-          <mxGeometry x="210" y="230" width="140" height="70" as="geometry" />
+          <mxGeometry x="220" y="230" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
