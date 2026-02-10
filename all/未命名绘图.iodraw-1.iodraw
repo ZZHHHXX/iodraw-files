@@ -259,16 +259,8 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-108" value="Mode=NLP?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="661" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-109" target="CHk5rlp3nkinQ77SwIb6-124">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-109" value="注入非线性特性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="760" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-110">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="860" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-110" value="计算分段点，注入分段线性化约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="760" width="140" height="40" as="geometry" />
@@ -332,8 +324,8 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-132" value="注入线性化近似方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="510" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-135" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="810" width="120" height="60" as="geometry" />
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-136" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
