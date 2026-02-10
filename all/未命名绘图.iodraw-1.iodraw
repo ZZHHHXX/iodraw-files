@@ -296,11 +296,19 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-65" value="支路层约束构建" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="240" width="450" height="370" as="geometry" />
         </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-65" source="CHk5rlp3nkinQ77SwIb6-67" target="CHk5rlp3nkinQ77SwIb6-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-70" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CHk5rlp3nkinQ77SwIb6-69">
+          <mxGeometry x="-0.2583" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-67" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;遍历判断所有支路属于E&lt;/font&gt;？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-65">
-          <mxGeometry x="140" y="80" width="170" height="100" as="geometry" />
+          <mxGeometry x="140" y="50" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-68" value="Mode=NLP?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-65">
-          <mxGeometry x="155" y="220" width="140" height="70" as="geometry" />
+          <mxGeometry x="155" y="190" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
