@@ -336,11 +336,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-42" source="CHk5rlp3nkinQ77SwIb6-44" target="CHk5rlp3nkinQ77SwIb6-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-51" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CHk5rlp3nkinQ77SwIb6-50">
+          <mxGeometry x="0.3859" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-44" value="是否为GEC？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-42">
           <mxGeometry x="55" y="230" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-49" value="Mode=NLP?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-42">
           <mxGeometry x="220" y="230" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-52" value="从Q中取出一个节点v&lt;sub&gt;curr&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="500" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
