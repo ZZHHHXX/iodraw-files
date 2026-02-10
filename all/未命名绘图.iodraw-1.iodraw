@@ -272,7 +272,7 @@
           <mxGeometry x="260" y="390" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-110" value="计算分段点，注入分段线性化约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-136">
-          <mxGeometry x="30" y="390" width="140" height="40" as="geometry" />
+          <mxGeometry x="30" y="377" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-108" value="Mode=NLP?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-136">
           <mxGeometry x="140" y="291" width="140" height="70" as="geometry" />
@@ -301,7 +301,7 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-136" source="CHk5rlp3nkinQ77SwIb6-108" target="CHk5rlp3nkinQ77SwIb6-110">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="266" />
+              <mxPoint x="100" y="326" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -324,7 +324,7 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-136" source="CHk5rlp3nkinQ77SwIb6-112" target="CHk5rlp3nkinQ77SwIb6-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.472;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-7" target="CHk5rlp3nkinQ77SwIb6-136">
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.479;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-7" target="CHk5rlp3nkinQ77SwIb6-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
