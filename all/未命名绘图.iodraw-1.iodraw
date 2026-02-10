@@ -304,7 +304,7 @@
           <mxGeometry x="1030" y="685" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-42" value="节点层约束构建" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="400" width="590" height="310" as="geometry" />
+          <mxGeometry x="110" y="420" width="590" height="310" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;遍历判断所有节点属于V&lt;/font&gt;？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-42">
           <mxGeometry x="40" y="30" width="170" height="100" as="geometry" />
@@ -347,11 +347,14 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-44" value="是否为GEC？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-42">
           <mxGeometry x="55" y="230" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-42" source="CHk5rlp3nkinQ77SwIb6-49" target="CHk5rlp3nkinQ77SwIb6-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-49" value="Mode=NLP?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-42">
           <mxGeometry x="220" y="230" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-53" value="注入非线性效率方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-42">
-          <mxGeometry x="350" y="160" width="140" height="40" as="geometry" />
+          <mxGeometry x="390" y="160" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
