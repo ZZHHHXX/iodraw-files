@@ -198,74 +198,10 @@
             <mxPoint x="850" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-65" target="CHk5rlp3nkinQ77SwIb6-80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-65" value="支路层约束构建循环" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="240" width="450" height="370" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-65" source="CHk5rlp3nkinQ77SwIb6-67" target="CHk5rlp3nkinQ77SwIb6-68">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-70" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CHk5rlp3nkinQ77SwIb6-69">
-          <mxGeometry x="-0.2583" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-67" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;遍历下一个支路e属于E？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-65">
-          <mxGeometry x="140" y="50" width="170" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-65" source="CHk5rlp3nkinQ77SwIb6-68" target="CHk5rlp3nkinQ77SwIb6-74">
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="CHk5rlp3nkinQ77SwIb6-80">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350" y="225" />
-            </Array>
+            <mxPoint x="1005" y="610" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-76" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CHk5rlp3nkinQ77SwIb6-75">
-          <mxGeometry x="-0.5767" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-68" value="Mode=NLP?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-65">
-          <mxGeometry x="155" y="190" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-65" source="CHk5rlp3nkinQ77SwIb6-71" target="CHk5rlp3nkinQ77SwIb6-67">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="100" y="330" />
-              <mxPoint x="20" y="330" />
-              <mxPoint x="20" y="100" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-71" value="注入非线性物理传输方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-65">
-          <mxGeometry x="30" y="270" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.435;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-65" source="CHk5rlp3nkinQ77SwIb6-68" target="CHk5rlp3nkinQ77SwIb6-71">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="91" y="225" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-77" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CHk5rlp3nkinQ77SwIb6-73">
-          <mxGeometry x="-0.4832" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-65" source="CHk5rlp3nkinQ77SwIb6-74" target="CHk5rlp3nkinQ77SwIb6-67">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350" y="330" />
-              <mxPoint x="440" y="330" />
-              <mxPoint x="440" y="30" />
-              <mxPoint x="225" y="30" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-74" value="注入线性化近似方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-65">
-          <mxGeometry x="280" y="270" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-80" target="CHk5rlp3nkinQ77SwIb6-82">
           <mxGeometry relative="1" as="geometry" />
@@ -326,11 +262,6 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-109" value="注入非线性特性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="760" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-110">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-110" value="计算分段点，注入分段线性化约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="760" width="140" height="40" as="geometry" />
         </mxCell>
@@ -339,6 +270,59 @@
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-112" value="遍历下一个节点n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="420" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-124" target="CHk5rlp3nkinQ77SwIb6-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-123" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CHk5rlp3nkinQ77SwIb6-122">
+          <mxGeometry x="-0.2583" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-124" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;遍历下一个支路e属于E？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="290" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-127" target="CHk5rlp3nkinQ77SwIb6-132">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-126" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CHk5rlp3nkinQ77SwIb6-125">
+          <mxGeometry x="-0.5767" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-127" value="Mode=NLP?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="935" y="430" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-129" target="CHk5rlp3nkinQ77SwIb6-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="570" />
+              <mxPoint x="800" y="570" />
+              <mxPoint x="800" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-129" value="注入非线性物理传输方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="510" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.435;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-127" target="CHk5rlp3nkinQ77SwIb6-129">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="871" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-131" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CHk5rlp3nkinQ77SwIb6-130">
+          <mxGeometry x="-0.4832" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-132" value="注入线性化近似方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="510" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
