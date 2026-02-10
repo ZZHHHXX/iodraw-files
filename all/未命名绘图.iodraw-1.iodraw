@@ -287,6 +287,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-42" source="CHk5rlp3nkinQ77SwIb6-10" target="CHk5rlp3nkinQ77SwIb6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.476;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-7" target="CHk5rlp3nkinQ77SwIb6-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -347,7 +350,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-65" source="CHk5rlp3nkinQ77SwIb6-74" target="CHk5rlp3nkinQ77SwIb6-67">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="330" />
+              <mxPoint x="440" y="330" />
+              <mxPoint x="440" y="30" />
+              <mxPoint x="225" y="30" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-74" value="注入线性化近似方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-65">
           <mxGeometry x="280" y="270" width="140" height="40" as="geometry" />
