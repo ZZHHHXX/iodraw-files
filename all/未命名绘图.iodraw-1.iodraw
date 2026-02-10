@@ -269,7 +269,7 @@
           <mxGeometry x="180" y="430" width="440" height="440" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-109" value="注入非线性特性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-136">
-          <mxGeometry x="260" y="370" width="140" height="40" as="geometry" />
+          <mxGeometry x="260" y="377" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-110" value="计算分段点，注入分段线性化约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-136">
           <mxGeometry x="30" y="377" width="140" height="40" as="geometry" />
