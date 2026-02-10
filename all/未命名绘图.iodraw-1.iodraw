@@ -204,7 +204,7 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-42" source="CHk5rlp3nkinQ77SwIb6-12" target="CHk5rlp3nkinQ77SwIb6-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-12" value="应用KCL守恒约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-42">
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-12" value="应用物理守恒定律约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-42">
           <mxGeometry x="55" y="160" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-42" source="CHk5rlp3nkinQ77SwIb6-10" target="CHk5rlp3nkinQ77SwIb6-12">
