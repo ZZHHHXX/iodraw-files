@@ -183,100 +183,32 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-4" value="输入：全局异构图G(V,E)&lt;div&gt;模式Mode(NLP/MILP)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="250" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-7" target="CHk5rlp3nkinQ77SwIb6-18">
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="570" y="360" />
               <mxPoint x="570" y="261" />
             </Array>
+            <mxPoint x="824.4000000000001" y="271.20000000000016" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-7" value="初始化Pyomo模型实例M，定义集合/变量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="330" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-18" target="CHk5rlp3nkinQ77SwIb6-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-18" value="输出：物理子网列表L&lt;sub&gt;subnets&lt;/sub&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="260" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-19" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="260" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-24" target="CHk5rlp3nkinQ77SwIb6-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-21" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CHk5rlp3nkinQ77SwIb6-20">
-          <mxGeometry x="-0.2861" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-24" target="CHk5rlp3nkinQ77SwIb6-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-23" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CHk5rlp3nkinQ77SwIb6-22">
-          <mxGeometry x="-0.2611" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-24" value="队列Q是否为空？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="390" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-26" target="CHk5rlp3nkinQ77SwIb6-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-26" value="从Q中取出一个节点v&lt;sub&gt;curr&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="500" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-28" target="CHk5rlp3nkinQ77SwIb6-35">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-28" value="查找v&lt;sub&gt;curr&lt;/sub&gt;的所有邻接节点v&lt;sub&gt;adj&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="590" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-35" target="CHk5rlp3nkinQ77SwIb6-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-32" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CHk5rlp3nkinQ77SwIb6-31">
-          <mxGeometry x="0.0306" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-35" target="CHk5rlp3nkinQ77SwIb6-24">
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="780" y="715" />
               <mxPoint x="780" y="425" />
             </Array>
+            <mxPoint x="850" y="425" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-34" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CHk5rlp3nkinQ77SwIb6-33">
-          <mxGeometry x="-0.8672" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-35" value="邻接节点v&lt;sub&gt;adj&lt;/sub&gt;是否在V&lt;sub&gt;unvisited&lt;/sub&gt;中？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="680" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-37" target="CHk5rlp3nkinQ77SwIb6-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-37" value="根据节点类型确定S&lt;sub&gt;new&lt;/sub&gt;的物理属性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="395" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-39" target="CHk5rlp3nkinQ77SwIb6-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1215" y="370" />
-              <mxPoint x="920" y="370" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-39" value="将S&lt;sub&gt;new&lt;/sub&gt;加入子网列表L&lt;sub&gt;subnets&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="395" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-40" value="标记v&lt;sub&gt;adj&lt;/sub&gt;为已访问，从V&lt;sub&gt;unvisited&lt;/sub&gt;中移除，入队Q，加入S&lt;sub&gt;new&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="685" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-42" value="节点层约束构建" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="430" width="590" height="350" as="geometry" />
@@ -365,7 +297,13 @@
           <mxGeometry x="390" y="290" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-42" source="CHk5rlp3nkinQ77SwIb6-42" target="CHk5rlp3nkinQ77SwIb6-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-30" y="175" />
+              <mxPoint x="-30" y="-20" />
+              <mxPoint x="125" y="-20" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.476;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-7" target="CHk5rlp3nkinQ77SwIb6-42">
           <mxGeometry relative="1" as="geometry" />
