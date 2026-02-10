@@ -195,11 +195,6 @@
             <mxPoint x="850" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="CHk5rlp3nkinQ77SwIb6-80">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1005" y="610" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-80" target="CHk5rlp3nkinQ77SwIb6-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -261,7 +256,14 @@
           <mxGeometry x="1060" y="510" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-136" target="CHk5rlp3nkinQ77SwIb6-144">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="910" />
+              <mxPoint x="693" y="910" />
+              <mxPoint x="693" y="220" />
+              <mxPoint x="1013" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-136" value="节点层约束循环" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="430" width="440" height="440" as="geometry" />
