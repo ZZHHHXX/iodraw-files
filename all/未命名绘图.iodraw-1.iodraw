@@ -198,17 +198,6 @@
             <mxPoint x="850" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="CHk5rlp3nkinQ77SwIb6-65">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="405" y="780" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="405" y="810" />
-              <mxPoint x="740" y="810" />
-              <mxPoint x="740" y="220" />
-              <mxPoint x="1005" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-65" target="CHk5rlp3nkinQ77SwIb6-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -307,14 +296,17 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-103" value="是否为GEC？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="555" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-108" target="CHk5rlp3nkinQ77SwIb6-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-108" value="Mode=NLP?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="661" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-109" value="注入非线性特性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="570" width="140" height="40" as="geometry" />
+          <mxGeometry x="460" y="760" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-110" value="计算分段点，注入分段线性化约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="760" width="140" height="40" as="geometry" />
+          <mxGeometry x="210" y="760" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-112" target="CHk5rlp3nkinQ77SwIb6-99">
           <mxGeometry relative="1" as="geometry" />
