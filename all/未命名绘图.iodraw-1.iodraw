@@ -350,8 +350,8 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-49" value="Mode=NLP?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-42">
           <mxGeometry x="220" y="230" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-52" value="从Q中取出一个节点v&lt;sub&gt;curr&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="500" width="240" height="60" as="geometry" />
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-53" value="注入非线性效率方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-42">
+          <mxGeometry x="320" y="160" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
