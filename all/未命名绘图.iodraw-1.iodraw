@@ -183,23 +183,8 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-4" value="输入：全局异构图G(V,E)&lt;div&gt;模式Mode(NLP/MILP)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="250" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="570" y="360" />
-              <mxPoint x="570" y="261" />
-            </Array>
-            <mxPoint x="824.4000000000001" y="271.20000000000016" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-7" value="初始化Pyomo模型实例M，定义集合/变量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="330" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-26" value="从Q中取出一个节点v&lt;sub&gt;curr&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="500" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-28" value="查找v&lt;sub&gt;curr&lt;/sub&gt;的所有邻接节点v&lt;sub&gt;adj&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="590" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-35">
           <mxGeometry relative="1" as="geometry">
@@ -307,6 +292,9 @@
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.476;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CHk5rlp3nkinQ77SwIb6-7" target="CHk5rlp3nkinQ77SwIb6-42">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-65" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="220" width="510" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
