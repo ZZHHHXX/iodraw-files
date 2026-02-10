@@ -272,11 +272,6 @@
         <mxCell id="CHk5rlp3nkinQ77SwIb6-49" value="Mode=NLP?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-42">
           <mxGeometry x="220" y="230" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CHk5rlp3nkinQ77SwIb6-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-42" source="CHk5rlp3nkinQ77SwIb6-53">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-53" value="注入非线性特性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-42">
           <mxGeometry x="390" y="160" width="140" height="40" as="geometry" />
         </mxCell>
@@ -350,6 +345,9 @@
           <mxGeometry x="-0.4832" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CHk5rlp3nkinQ77SwIb6-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CHk5rlp3nkinQ77SwIb6-65" source="CHk5rlp3nkinQ77SwIb6-74" target="CHk5rlp3nkinQ77SwIb6-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CHk5rlp3nkinQ77SwIb6-74" value="注入线性化近似方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CHk5rlp3nkinQ77SwIb6-65">
           <mxGeometry x="280" y="270" width="140" height="40" as="geometry" />
