@@ -4,8 +4,18 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pObAM3QOatOIlg4ZHMUO-1" value="&amp;laquo;interface&amp;raquo;&lt;br&gt;&lt;b&gt;Name&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="270" y="650" width="110" height="50" as="geometry" />
+        <mxCell id="pObAM3QOatOIlg4ZHMUO-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="430" y="730" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pObAM3QOatOIlg4ZHMUO-3" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="pObAM3QOatOIlg4ZHMUO-2" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="735" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pObAM3QOatOIlg4ZHMUO-4" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="pObAM3QOatOIlg4ZHMUO-2" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="805" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
